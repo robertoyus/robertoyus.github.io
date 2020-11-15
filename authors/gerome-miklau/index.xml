@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gerome Miklau | Roberto Yus</title>
+    <link>/authors/gerome-miklau/</link>
+      <atom:link href="/authors/gerome-miklau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gerome Miklau</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Gerome Miklau</title>
+      <link>/authors/gerome-miklau/</link>
+    </image>
+    
+    <item>
+      <title>IoT-Detective: Analyzing IoT Data Under Differential Privacy</title>
+      <link>/publication/sigmod-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sigmod-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

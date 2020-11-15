@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimedia | Roberto Yus</title>
+    <link>/tags/multimedia/</link>
+      <atom:link href="/tags/multimedia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multimedia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Multimedia</title>
+      <link>/tags/multimedia/</link>
+    </image>
+    
+    <item>
+      <title>FaceBlock: Privacy-Aware Pictures for Google Glass</title>
+      <link>/publication/mobisys-2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/mobisys-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> MultiCAMBA: A System to Assist in the Broadcasting of Sport Events</title>
+      <link>/publication/mobiquitous-2011/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/mobiquitous-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Location-Aware System Based on a Dynamic {3D} Model to Help in Live Broadcasting of Sport Events</title>
+      <link>/publication/mm-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/mm-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

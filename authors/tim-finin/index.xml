@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Finin | Roberto Yus</title>
+    <link>/authors/tim-finin/</link>
+      <atom:link href="/authors/tim-finin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tim Finin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Tim Finin</title>
+      <link>/authors/tim-finin/</link>
+    </image>
+    
+    <item>
+      <title>Building a Mobile Applications Knowledge Base for the Linked Data Cloud</title>
+      <link>/publication/modest2-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/modest2-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobipedia: Mobile Applications Linked Data</title>
+      <link>/publication/iswc2-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/iswc2-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semantic Context-Aware Privacy Model for FaceBlock</title>
+      <link>/publication/privon2-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/privon2-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infoboxer: Using Statistical and Semantic Knowledge to Help Create Wikipedia Infoboxes</title>
+      <link>/publication/iswc-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/iswc-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafiki: A Semantic and Collaborative Approach to Community Health-care in Underserved Areas</title>
+      <link>/publication/collaboratecom-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/collaboratecom-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics for Privacy and Shared Context</title>
+      <link>/publication/privon-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/privon-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meerkat Mafia: Multilingual and Cross-Level Semantic Textual Similarity systems</title>
+      <link>/publication/semeval-2014/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/semeval-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FaceBlock: Privacy-Aware Pictures for Google Glass</title>
+      <link>/publication/mobisys-2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/mobisys-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

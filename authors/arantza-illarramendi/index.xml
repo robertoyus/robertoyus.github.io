@@ -20,5 +20,45 @@
       <description></description>
     </item>
     
+    <item>
+      <title>SHERLOCK: A System for Location-Based Services in Wireless Environments Using Semantics</title>
+      <link>/publication/www-13/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/www-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Management of Moving Objects with SHERLOCK</title>
+      <link>/publication/frdinmovement-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/frdinmovement-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic-Based Query Processing on Moving Objects</title>
+      <link>/publication/frdinmovement-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/frdinmovement-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> MultiCAMBA: A System to Assist in the Broadcasting of Sport Events</title>
+      <link>/publication/mobiquitous-2011/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/mobiquitous-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Location-Aware System Based on a Dynamic {3D} Model to Help in Live Broadcasting of Sport Events</title>
+      <link>/publication/mm-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/mm-2011/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
