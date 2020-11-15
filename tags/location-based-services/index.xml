@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Location-Based Services | Roberto Yus</title>
+    <link>/tags/location-based-services/</link>
+      <atom:link href="/tags/location-based-services/index.xml" rel="self" type="application/rss+xml" />
+    <description>Location-Based Services</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Location-Based Services</title>
+      <link>/tags/location-based-services/</link>
+    </image>
+    
+    <item>
+      <title>A Knowledge-Based Approach to Enhance Provision of Location-Based Services in Wireless Environments</title>
+      <link>/publication/ieeeaccess-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ieeeaccess-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Management of Location-Based Services in Wireless Environments</title>
+      <link>/publication/thesis-2016/</link>
+      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SHERLOCK: Semantic Management of Location-Based Services in Wireless Environments</title>
+      <link>/publication/pmc-2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pmc-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Access to Services in Smart Cities: Let SHERLOCK Advise Modern Citizens</title>
+      <link>/publication/ercim-2014/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ercim-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Management of Moving Objects with SHERLOCK</title>
+      <link>/publication/frdinmovement-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/frdinmovement-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic-Based Query Processing on Moving Objects</title>
+      <link>/publication/frdinmovement-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/frdinmovement-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

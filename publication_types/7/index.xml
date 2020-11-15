@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Roberto Yus</title>
+    <link>/publication_types/7/</link>
+      <atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>7</title>
+      <link>/publication_types/7/</link>
+    </image>
+    
+    <item>
+      <title>Semantic Management of Location-Based Services in Wireless Environments</title>
+      <link>/publication/thesis-2016/</link>
+      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

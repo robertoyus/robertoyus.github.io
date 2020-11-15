@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Roberto Yus</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Transitioning from testbeds to ships: an experience study in deploying the TIPPERS Internet of Things platform to the US Navy</title>
+      <link>/publication/jdms-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jdms-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Knowledge-Based Approach to Enhance Provision of Location-Based Services in Wireless Environments</title>
+      <link>/publication/ieeeaccess-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ieeeaccess-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Reasoning on Mobile Devices: Do Androids Dream of Efficient Reasoners?</title>
+      <link>/publication/jws-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/jws-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MultiCAMBA: A System for Selecting Camera Views in Live Broadcasting of Sport Events Using a Dynamic 3D Model</title>
+      <link>/publication/mta2-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mta2-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Selection of Video Streams for Live TV Broadcasting Based on Query-by-Example Using a 3D Model</title>
+      <link>/publication/mta-2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mta-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Semantic Text Similarity Using LSA, Machine Learning, and Linguistic Resources</title>
+      <link>/publication/lre-2016/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lre-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SHERLOCK: Semantic Management of Location-Based Services in Wireless Environments</title>
+      <link>/publication/pmc-2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pmc-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Friendly Location-Aware System to Facilitate the Work of Technical Directors When Broadcasting Sport Events</title>
+      <link>/publication/mis-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/mis-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

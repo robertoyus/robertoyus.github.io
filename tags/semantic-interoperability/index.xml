@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semantic interoperability | Roberto Yus</title>
+    <link>/tags/semantic-interoperability/</link>
+      <atom:link href="/tags/semantic-interoperability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Semantic interoperability</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Semantic interoperability</title>
+      <link>/tags/semantic-interoperability/</link>
+    </image>
+    
+    <item>
+      <title>Abstracting Interactions with IoT Devices Towards a Semantic Vision of Smart Spaces</title>
+      <link>/publication/buildsys-2019/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemIoTic: Bridging the Semantic Gap in IoT Spaces</title>
+      <link>/publication/buildsys-demo-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-demo-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

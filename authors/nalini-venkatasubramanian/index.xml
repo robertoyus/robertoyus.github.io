@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nalini Venkatasubramanian | Roberto Yus</title>
+    <link>/authors/nalini-venkatasubramanian/</link>
+      <atom:link href="/authors/nalini-venkatasubramanian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nalini Venkatasubramanian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Nalini Venkatasubramanian</title>
+      <link>/authors/nalini-venkatasubramanian/</link>
+    </image>
+    
+    <item>
+      <title>A Privacy-Enabled Platform for COVID-19 Applications</title>
+      <link>/publication/sensys-demo-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sensys-demo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitioning from testbeds to ships: an experience study in deploying the TIPPERS Internet of Things platform to the US Navy</title>
+      <link>/publication/jdms-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jdms-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstracting Interactions with IoT Devices Towards a Semantic Vision of Smart Spaces</title>
+      <link>/publication/buildsys-2019/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemIoTic: Bridging the Semantic Gap in IoT Spaces</title>
+      <link>/publication/buildsys-demo-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-demo-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring fairness in participatory thermal comfort control in smart buildings</title>
+      <link>/publication/buildsys-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Privacy-Aware Smart Buildings: Capturing, Communicating, and Enforcing Privacy Policies and Preferences</title>
+      <link>/publication/iotca-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/iotca-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashwin Machanavajjhala | Roberto Yus</title>
+    <link>/authors/ashwin-machanavajjhala/</link>
+      <atom:link href="/authors/ashwin-machanavajjhala/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashwin Machanavajjhala</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Ashwin Machanavajjhala</title>
+      <link>/authors/ashwin-machanavajjhala/</link>
+    </image>
+    
+    <item>
+      <title>Transitioning from testbeds to ships: an experience study in deploying the TIPPERS Internet of Things platform to the US Navy</title>
+      <link>/publication/jdms-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jdms-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT-Detective: Analyzing IoT Data Under Differential Privacy</title>
+      <link>/publication/sigmod-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sigmod-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

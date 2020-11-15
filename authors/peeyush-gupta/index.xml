@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peeyush Gupta | Roberto Yus</title>
+    <link>/authors/peeyush-gupta/</link>
+      <atom:link href="/authors/peeyush-gupta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peeyush Gupta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Peeyush Gupta</title>
+      <link>/authors/peeyush-gupta/</link>
+    </image>
+    
+    <item>
+      <title>A Privacy-Enabled Platform for COVID-19 Applications</title>
+      <link>/publication/sensys-demo-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sensys-demo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartBench: A Benchmark For Data Management In Smart Spaces</title>
+      <link>/publication/vldb2-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/vldb2-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemIoTic: Bridging the Semantic Gap in IoT Spaces</title>
+      <link>/publication/buildsys-demo-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-demo-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

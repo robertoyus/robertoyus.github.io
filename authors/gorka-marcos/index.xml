@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gorka Marcos | Roberto Yus</title>
+    <link>/authors/gorka-marcos/</link>
+      <atom:link href="/authors/gorka-marcos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gorka Marcos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Gorka Marcos</title>
+      <link>/authors/gorka-marcos/</link>
+    </image>
+    
+    <item>
+      <title>A Friendly Location-Aware System to Facilitate the Work of Technical Directors When Broadcasting Sport Events</title>
+      <link>/publication/mis-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/mis-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

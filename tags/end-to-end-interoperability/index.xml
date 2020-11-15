@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>End-to-end interoperability | Roberto Yus</title>
+    <link>/tags/end-to-end-interoperability/</link>
+      <atom:link href="/tags/end-to-end-interoperability/index.xml" rel="self" type="application/rss+xml" />
+    <description>End-to-end interoperability</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>End-to-end interoperability</title>
+      <link>/tags/end-to-end-interoperability/</link>
+    </image>
+    
+    <item>
+      <title>Abstracting Interactions with IoT Devices Towards a Semantic Vision of Smart Spaces</title>
+      <link>/publication/buildsys-2019/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Roberto Yus</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Sieve: A Middleware Approach to Scalable Access Control for Database Management Systems</title>
+      <link>/publication/vldb-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/vldb-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartBench: A Benchmark For Data Management In Smart Spaces</title>
+      <link>/publication/vldb2-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/vldb2-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstracting Interactions with IoT Devices Towards a Semantic Vision of Smart Spaces</title>
+      <link>/publication/buildsys-2019/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trustworthy Privacy Policy Translation in Untrusted IoT Environments</title>
+      <link>/publication/iotbds-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/iotbds-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring fairness in participatory thermal comfort control in smart buildings</title>
+      <link>/publication/buildsys-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Processing of Real-Time Multimedia Requests Using Semantic Techniques</title>
+      <link>/publication/momm-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/momm-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooperative Network of Mobile Agents to Remotely Process User Information Requests</title>
+      <link>/publication/wi-poster-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/wi-poster-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generic Rules for the Discovery of Subsumption Relationships based on Ontological Contexts</title>
+      <link>/publication/wi-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/wi-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafiki: A Semantic and Collaborative Approach to Community Health-care in Underserved Areas</title>
+      <link>/publication/collaboratecom-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/collaboratecom-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Location-Aware System Based on a Dynamic {3D} Model to Help in Live Broadcasting of Sport Events</title>
+      <link>/publication/mm-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/mm-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

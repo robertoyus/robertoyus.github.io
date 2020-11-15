@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Davison | Roberto Yus</title>
+    <link>/authors/christopher-davison/</link>
+      <atom:link href="/authors/christopher-davison/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Davison</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Christopher Davison</title>
+      <link>/authors/christopher-davison/</link>
+    </image>
+    
+    <item>
+      <title>A Privacy-Enabled Platform for COVID-19 Applications</title>
+      <link>/publication/sensys-demo-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sensys-demo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitioning from testbeds to ships: an experience study in deploying the TIPPERS Internet of Things platform to the US Navy</title>
+      <link>/publication/jdms-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jdms-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
