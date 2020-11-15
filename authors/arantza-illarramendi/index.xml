@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arantza Illarramendi | Roberto Yus</title>
+    <link>/authors/arantza-illarramendi/</link>
+      <atom:link href="/authors/arantza-illarramendi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arantza Illarramendi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Arantza Illarramendi</title>
+      <link>/authors/arantza-illarramendi/</link>
+    </image>
+    
+    <item>
+      <title>Flexible Access to Services in Smart Cities: Let SHERLOCK Advise Modern Citizens</title>
+      <link>/publication/ercim-2014/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ercim-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

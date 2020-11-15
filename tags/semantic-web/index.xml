@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semantic Web | Roberto Yus</title>
+    <link>/tags/semantic-web/</link>
+      <atom:link href="/tags/semantic-web/index.xml" rel="self" type="application/rss+xml" />
+    <description>Semantic Web</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Semantic Web</title>
+      <link>/tags/semantic-web/</link>
+    </image>
+    
+    <item>
+      <title>Semantic Management of Location-Based Services in Wireless Environments</title>
+      <link>/publication/thesis-2016/</link>
+      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Access to Services in Smart Cities: Let SHERLOCK Advise Modern Citizens</title>
+      <link>/publication/ercim-2014/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ercim-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

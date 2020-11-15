@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberto Yus</title>
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roberto Yus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Roberto Yus</title>
+      <link>/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Abstracting Interactions with IoT Devices Towards a Semantic Vision of Smart Spaces</title>
+      <link>/publication/buildsys-2019/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemIoTic: Bridging the Semantic Gap in IoT Spaces</title>
+      <link>/publication/buildsys-demo-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-demo-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Management of Location-Based Services in Wireless Environments</title>
+      <link>/publication/thesis-2016/</link>
+      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Access to Services in Smart Cities: Let SHERLOCK Advise Modern Citizens</title>
+      <link>/publication/ercim-2014/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ercim-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
