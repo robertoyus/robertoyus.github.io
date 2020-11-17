@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Abstracting Interactions with IoT Devices Towards a Semantic Vision of Smart Spaces</title>
+      <link>/publication/buildsys-2019/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemIoTic: Bridging the Semantic Gap in IoT Spaces</title>
+      <link>/publication/buildsys-demo-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/buildsys-demo-2019/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
