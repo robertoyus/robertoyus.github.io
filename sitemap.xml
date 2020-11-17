@@ -398,12 +398,12 @@
   </url>
   
   <url>
-    <loc>/project/tippers/</loc>
+    <loc>/project/sherlock/</loc>
     <lastmod>2019-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/sherlock/</loc>
+    <loc>/project/tippers/</loc>
     <lastmod>2019-08-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -435,6 +435,16 @@
   <url>
     <loc>/tags/fairness/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2017-10-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/uci-2017/</loc>
+    <lastmod>2017-10-05T08:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -733,6 +743,16 @@
   </url>
   
   <url>
+    <loc>/talk/umbc2-2013/</loc>
+    <lastmod>2013-11-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/umbc-2013/</loc>
+    <lastmod>2013-10-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/www-13/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -788,10 +808,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
   </url>
   
 </urlset>

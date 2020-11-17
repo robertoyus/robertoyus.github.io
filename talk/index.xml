@@ -5,12 +5,36 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2017 08:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Reconciling Smartness and Privacy in the Internet of Things</title>
+      <link>/talk/uci-2017/</link>
+      <pubDate>Thu, 05 Oct 2017 08:00:00 +0000</pubDate>
+      <guid>/talk/uci-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Computing: Google Glass</title>
+      <link>/talk/umbc2-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 08:00:00 +0000</pubDate>
+      <guid>/talk/umbc2-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SHERLOCK: Semantic Management of Location-Based Services in Wireless Environments</title>
+      <link>/talk/umbc-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 08:00:00 +0000</pubDate>
+      <guid>/talk/umbc-2013/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
