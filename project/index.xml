@@ -35,8 +35,8 @@ the system recognizes faces on it, checks policies it has received, and obscures
 &lt;ul&gt;
 &lt;li&gt;FaceBlock in the news:
 &lt;ul&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Nature: &amp;ldquo;What could derail the wearables revolution?&amp;rdquo;, 2015&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;eBiquity UMBC: &amp;ldquo;Do not be a Gl***hole, use Face-Block.me!&amp;rdquo;, 2014&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/news/what-could-derail-the-wearables-revolution-1.18263&#34; target=&#34;_blank&#34;&gt;Nature: &amp;ldquo;What could derail the wearables revolution?&amp;rdquo;, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ebiquity.umbc.edu/blogger/2014/03/27/dont-be-a-glhole-use-faceblock/&#34; target=&#34;_blank&#34;&gt;eBiquity UMBC: &amp;ldquo;Do not be a Gl***hole, use Face-Block.me!&amp;rdquo;, 2014&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -83,7 +83,7 @@ in the context of the Trident Warrior exercise 2019/2020. SemIoTic enabled testi
 regions of the ship.&lt;/p&gt;
 &lt;h4 id=&#34;useful-links-and-references&#34;&gt;Useful links and references&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;SemIoTic is developed as part of the &lt;!-- raw HTML omitted --&gt;TIPPERS&lt;!-- raw HTML omitted --&gt; (Testbed for IoT-based Privacy-Preserving PERvasive Spaces) DARPA research project.&lt;/li&gt;
+&lt;li&gt;SemIoTic is developed as part of the &lt;a href=&#34;http://tippers.ics.uci.edu&#34; target=&#34;_blank&#34;&gt;TIPPERS&lt;/a&gt; (Testbed for IoT-based Privacy-Preserving PERvasive Spaces) DARPA research project.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -111,13 +111,13 @@ regions of the ship.&lt;/p&gt;
 &lt;li&gt;TIPPERS is funded by DARPA as part of the Brandeis program.&lt;/li&gt;
 &lt;li&gt;TIPPERS in the news:
 &lt;ul&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;The Washington Post: &amp;ldquo;The Technology 202: Tech to contain coronavirus on college campuses sparks fresh privacy concerns&amp;rdquo;, 2020&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Health IT Analytics: &amp;ldquo;UCI Uses Campus Wi-Fi to Test COVID-19 Contact Tracing App&amp;rdquo;, 2020&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;UCI news: &amp;ldquo;Test bed for COVID-19 contact tracing system&amp;rdquo;, 2020&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Defense Visual Information Distribution Service: &amp;ldquo;NAVWAR Assesses New Tracking Technology for COVID-19 Mitigation&amp;rdquo;, 2020&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Military News: &amp;ldquo;Navy tests experimental technology at Trident Warrior 2019&amp;rdquo;, 2019&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;UCI CS News: &amp;ldquo;IoT Hackathon Apps Coming Soon&amp;rdquo;, 2018&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;UCI CS News: &amp;ldquo;ICS launches IoT Hackathon to discover student talent who can develop a UCI ‘smart’ campus&amp;rdquo;, 2017&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/07/10/the-technology-202-tech-to-contain-coronavirus-on-college-campuses-spark-fresh-privacy-concerns/5f077b4a88e0fa7b44f716e8/&#34; target=&#34;_blank&#34;&gt;The Washington Post: &amp;ldquo;The Technology 202: Tech to contain coronavirus on college campuses sparks fresh privacy concerns&amp;rdquo;, 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://healthitanalytics.com/news/uci-uses-campus-wi-fi-to-test-covid-19-contact-tracing-app&#34; target=&#34;_blank&#34;&gt;Health IT Analytics: &amp;ldquo;UCI Uses Campus Wi-Fi to Test COVID-19 Contact Tracing App&amp;rdquo;, 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ics.uci.edu/community/news/view_news?id=1803&amp;amp;fbclid=IwAR1Ep27zST5KYJKC1a6GBB83tnEfLRvsgQlTossIOMkiIeGjVZBXJFjYua8&#34; target=&#34;_blank&#34;&gt;UCI news: &amp;ldquo;Test bed for COVID-19 contact tracing system&amp;rdquo;, 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dvidshub.net/news/374318/navwar-trident-warrior-team-assesses-new-tracking-technology-covid-19-mitigation&#34; target=&#34;_blank&#34;&gt;Defense Visual Information Distribution Service: &amp;ldquo;NAVWAR Assesses New Tracking Technology for COVID-19 Mitigation&amp;rdquo;, 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.militarynews.com/news/navy-tests-experimental-technology-at-trident-warrior/article_55623050-dedf-11e9-8e21-4f20e90f315a.html&#34; target=&#34;_blank&#34;&gt;Military News: &amp;ldquo;Navy tests experimental technology at Trident Warrior 2019&amp;rdquo;, 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cs.uci.edu/iot-hackathon-apps-coming-soon/&#34; target=&#34;_blank&#34;&gt;UCI CS News: &amp;ldquo;IoT Hackathon Apps Coming Soon&amp;rdquo;, 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cs.uci.edu/ics-launches-iot-hackathon-to-discover-student-talent-who-can-develop-a-uci-smart-campus&#34; target=&#34;_blank&#34;&gt;UCI CS News: &amp;ldquo;ICS launches IoT Hackathon to discover student talent who can develop a UCI ‘smart’ campus&amp;rdquo;, 2017&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
