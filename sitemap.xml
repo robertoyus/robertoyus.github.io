@@ -58,6 +58,16 @@
   </url>
   
   <url>
+    <loc>/authors/dhrubajyoti-ghosh/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peeyush-gupta/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/10/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
@@ -84,11 +94,6 @@
   
   <url>
     <loc>/tags/data-management/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/dhrubajyoti-ghosh/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -124,11 +129,6 @@
   
   <url>
     <loc>/authors/nalini-venkatasubramanian/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/peeyush-gupta/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -243,6 +243,11 @@
   </url>
   
   <url>
+    <loc>/authors/primal-pappachan/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -259,11 +264,6 @@
   
   <url>
     <loc>/authors/michael-j.-carey/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/primal-pappachan/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -353,17 +353,17 @@
   </url>
   
   <url>
+    <loc>/authors/yiming-lin/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/buildsys-demo-2019/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/sumaya-almanee/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yiming-lin/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -513,17 +513,17 @@
   </url>
   
   <url>
+    <loc>/authors/enrique-solano-bes/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/momm-2015/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/wi-poster-2015/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/enrique-solano-bes/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -805,6 +805,142 @@
   <url>
     <loc>/publication/mm-2011/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aliyah-byon/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/alpine-tang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/andrei-homentcovschi/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-chio/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/angel-castro/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/anna-lubienski/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/cynthia-wang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/dongcheol-jwa/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/fangfang-fu/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/gorka-guerrero/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hyeeun-song/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hyunji-lee/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/ismael-rodriguez/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jason-huang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jesse-chong/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jingyu-chen/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jorge-carlos/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/joshua-cao/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/karthik-gajulapalli/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/kyle-norland/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/lasse-nordahl/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/leo-peng/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/myounghoon-han/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/nada-lahjouji/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/nathan-ma/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/owen-yang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/rayan-al-atab/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/rohit-sriram/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/rushabh-shah/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/stuart-mcclintock/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/tristan-jogminas/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/vikram-miryala/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/william-sun/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/yiming-wang/</loc>
   </url>
   
   <url>
