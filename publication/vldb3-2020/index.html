@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Postdoctoral Researcher">
+  <meta name="description" content="This paper explores the data cleaning challenges that arise in using WiFi connectivity data to locate users to semantic indoor locations such as buildings, regions, rooms. WiFi connectivity data consists of sporadic connections between devices and nearby WiFi access points (APs), each of which may cover a relatively large area within a building. Our system, entitled semantic LOCATion cleanER (LOCATER), postulates semantic localization as a series of data cleaning tasks - frst, it treats the problem of determining the AP to which a device is connected between any two of its connection events as a missing value detection and repair problem. It then associates the device with the semantic subregion (e.g., a conference room in the region) by postulating it as a location disambiguation problem. LOCATER uses a bootstrapping semi-supervised learning method for coarse localization and a probabilistic method to achieve fner localization. The paper shows that LOCATER can achieve signifcantly high accuracy at both the coarse and fne levels.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/sharad-mehrotra/">
+  <link rel="alternate" hreflang="en-us" href="/publication/vldb3-2020/">
 
   
 
@@ -95,49 +95,98 @@
 
 
   
-  <link rel="alternate" href="/authors/sharad-mehrotra/index.xml" type="application/rss+xml" title="Roberto Yus">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/authors/sharad-mehrotra/">
+  <link rel="canonical" href="/publication/vldb3-2020/">
 
   
   
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Roberto Yus">
-  <meta property="og:url" content="/authors/sharad-mehrotra/">
-  <meta property="og:title" content="Sharad Mehrotra | Roberto Yus">
-  <meta property="og:description" content="Postdoctoral Researcher"><meta property="og:image" content="/img/logo.png">
-  <meta property="twitter:image" content="/img/logo.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/vldb3-2020/">
+  <meta property="og:title" content="LOCATER: Cleaning WiFi Connectivity Datasets for Semantic Localization | Roberto Yus">
+  <meta property="og:description" content="This paper explores the data cleaning challenges that arise in using WiFi connectivity data to locate users to semantic indoor locations such as buildings, regions, rooms. WiFi connectivity data consists of sporadic connections between devices and nearby WiFi access points (APs), each of which may cover a relatively large area within a building. Our system, entitled semantic LOCATion cleanER (LOCATER), postulates semantic localization as a series of data cleaning tasks - frst, it treats the problem of determining the AP to which a device is connected between any two of its connection events as a missing value detection and repair problem. It then associates the device with the semantic subregion (e.g., a conference room in the region) by postulating it as a location disambiguation problem. LOCATER uses a bootstrapping semi-supervised learning method for coarse localization and a probabilistic method to achieve fner localization. The paper shows that LOCATER can achieve signifcantly high accuracy at both the coarse and fne levels."><meta property="og:image" content="/publication/vldb3-2020/featured.png">
+  <meta property="twitter:image" content="/publication/vldb3-2020/featured.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-01-01T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2021-01-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2021-01-01T00:00:00&#43;00:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/vldb3-2020/"
+  },
+  "headline": "LOCATER: Cleaning WiFi Connectivity Datasets for Semantic Localization",
+  
+  "image": [
+    "/publication/vldb3-2020/featured.png"
+  ],
+  
+  "datePublished": "2021-01-01T00:00:00Z",
+  "dateModified": "2021-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Yiming Lin"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Roberto Yus",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/img/logo.png"
+    }
+  },
+  "description": "This paper explores the data cleaning challenges that arise in using WiFi connectivity data to locate users to semantic indoor locations such as buildings, regions, rooms. WiFi connectivity data consists of sporadic connections between devices and nearby WiFi access points (APs), each of which may cover a relatively large area within a building. Our system, entitled semantic LOCATion cleanER (LOCATER), postulates semantic localization as a series of data cleaning tasks - frst, it treats the problem of determining the AP to which a device is connected between any two of its connection events as a missing value detection and repair problem. It then associates the device with the semantic subregion (e.g., a conference room in the region) by postulating it as a location disambiguation problem. LOCATER uses a bootstrapping semi-supervised learning method for coarse localization and a probabilistic method to achieve fner localization. The paper shows that LOCATER can achieve signifcantly high accuracy at both the coarse and fne levels."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
 
 
 
-  <title>Sharad Mehrotra | Roberto Yus</title>
+  <title>LOCATER: Cleaning WiFi Connectivity Datasets for Semantic Localization | Roberto Yus</title>
 
 </head>
 
@@ -496,82 +545,360 @@
 </nav>
 
 
+  <div class="pub">
+
   
 
-<div class="universal-wrapper pt-3">
-  <h1>Sharad Mehrotra</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>LOCATER: Cleaning WiFi Connectivity Datasets for Semantic Localization</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/yiming-lin/">Yiming Lin</a></span>, <span><a href="/authors/daokun-jiang/">Daokun Jiang</a></span>, <span><a href="/authors/admin/">Roberto Yus</a></span>, <span><a href="/authors/georgios-bouloukakis/">Georgios Bouloukakis</a></span>, <span><a href="/authors/andrew-chio/">Andrew Chio</a></span>, <span><a href="/authors/sharad-mehrotra/">Sharad Mehrotra</a></span>, <span><a href="/authors/nalini-venkatasubramanian/">Nalini Venkatasubramanian</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="http://vldb.org/pvldb/vol14/p329-lin.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/vldb3-2020/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/tippers/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 170px;">
+  <div style="position: relative">
+    <img src="/publication/vldb3-2020/featured_hu719d1ab1cbe6092ec15fdbeb7d5774ac_279639_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">This paper explores the data cleaning challenges that arise in using WiFi connectivity data to locate users to semantic indoor locations such as buildings, regions, rooms. WiFi connectivity data consists of sporadic connections between devices and nearby WiFi access points (APs), each of which may cover a relatively large area within a building. Our system, entitled semantic LOCATion cleanER (LOCATER), postulates semantic localization as a series of data cleaning tasks - frst, it treats the problem of determining the AP to which a device is connected between any two of its connection events as a missing value detection and repair problem. It then associates the device with the semantic subregion (e.g., a conference room in the region) by postulating it as a location disambiguation problem. LOCATER uses a bootstrapping semi-supervised learning method for coarse localization and a probabilistic method to achieve fner localization. The paper shows that LOCATER can achieve signifcantly high accuracy at both the coarse and fne levels.</p>
     
 
     
-    
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/vldb3-2020/">LOCATER: Cleaning WiFi Connectivity Datasets for Semantic Localization</a>
-        </li>
-        
-        <li>
-          <a href="/publication/sensys-demo-2020/">A Privacy-Enabled Platform for COVID-19 Applications</a>
-        </li>
-        
-        <li>
-          <a href="/publication/jdms-2020/">Transitioning from testbeds to ships: an experience study in deploying the TIPPERS Internet of Things platform to the US Navy</a>
-        </li>
-        
-        <li>
-          <a href="/publication/vldb-2020/">Sieve: A Middleware Approach to Scalable Access Control for Database Management Systems</a>
-        </li>
-        
-        <li>
-          <a href="/publication/vldb2-2020/">SmartBench: A Benchmark For Data Management In Smart Spaces</a>
-        </li>
-        
-        <li>
-          <a href="/publication/buildsys-2019/">Abstracting Interactions with IoT Devices Towards a Semantic Vision of Smart Spaces</a>
-        </li>
-        
-        <li>
-          <a href="/publication/buildsys-demo-2019/">SemIoTic: Bridging the Semantic Gap in IoT Spaces</a>
-        </li>
-        
-        <li>
-          <a href="/publication/sigmod-2018/">IoT-Detective: Analyzing IoT Data Under Differential Privacy</a>
-        </li>
-        
-        <li>
-          <a href="/publication/iotbds-2018/">Trustworthy Privacy Policy Translation in Untrusted IoT Environments</a>
-        </li>
-        
-        <li>
-          <a href="/publication/buildsys-2017/">Exploring fairness in participatory thermal comfort control in smart buildings</a>
-        </li>
-        
-        <li>
-          <a href="/publication/iotca-2017/">Towards Privacy-Aware Smart Buildings: Capturing, Communicating, and Enforcing Privacy Policies and Preferences</a>
-        </li>
-        
-        <li>
-          <a href="/publication/modest2-2015/">Building a Mobile Applications Knowledge Base for the Linked Data Cloud</a>
-        </li>
-        
-        <li>
-          <a href="/publication/iswc2-2015/">Mobipedia: Mobile Applications Linked Data</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Proc. VLDB Endow</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/data-management/">Data Management</a>
+  
+  <a class="badge badge-light" href="/tags/internet-of-things/">Internet of Things</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/vldb3-2020/&amp;text=LOCATER:%20Cleaning%20WiFi%20Connectivity%20Datasets%20for%20Semantic%20Localization" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/vldb3-2020/&amp;title=LOCATER:%20Cleaning%20WiFi%20Connectivity%20Datasets%20for%20Semantic%20Localization" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://reddit.com/submit?url=/publication/vldb3-2020/&amp;title=LOCATER:%20Cleaning%20WiFi%20Connectivity%20Datasets%20for%20Semantic%20Localization" target="_blank" rel="noopener" class="share-btn-reddit">
+          <i class="fab fa-reddit-alien"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <img class="portrait mr-3" src="/authors/yiming-lin/avatar_hucf954eb2d23c13db7415bbc2f997b738_17155_250x250_fill_lanczos_center_2.png" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/yiming-lin/">Yiming Lin</a></h5>
+      <h6 class="card-subtitle">PhD Student (UCI)</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="http://scholar.google.com/citations?user=9_iiygEAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
   </div>
-</section>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/sensys-demo-2020/">A Privacy-Enabled Platform for COVID-19 Applications</a></li>
+      
+      <li><a href="/publication/jdms-2020/">Transitioning from testbeds to ships: an experience study in deploying the TIPPERS Internet of Things platform to the US Navy</a></li>
+      
+      <li><a href="/publication/vldb2-2020/">SmartBench: A Benchmark For Data Management In Smart Spaces</a></li>
+      
+      <li><a href="/publication/sigmod-2018/">IoT-Detective: Analyzing IoT Data Under Differential Privacy</a></li>
+      
+      <li><a href="/publication/iotbds-2018/">Trustworthy Privacy Policy Translation in Untrusted IoT Environments</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</div>
 
       
 
