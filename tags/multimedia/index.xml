@@ -5,12 +5,43 @@
     <link>/tags/multimedia/</link>
       <atom:link href="/tags/multimedia/index.xml" rel="self" type="application/rss+xml" />
     <description>Multimedia</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Multimedia</title>
       <link>/tags/multimedia/</link>
     </image>
+    
+    <item>
+      <title>FaceBlock</title>
+      <link>/project/faceblock/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/faceblock/</guid>
+      <description>&lt;p&gt;Wearable technology is changing the human-computer interaction paradigm by improving the user experience. For example, eyewear technology, such as Google Glass, is opening a new world of possibilities. One of the best capabilities of such devices is that they allow spontaneous and effortless photo taking. Instead of pulling out your camera, turning it on, aiming, taking a picture and putting it away, Google Glass makes it as easy as saying “Okay Glass, take a picture”. However, their strength has also become controversial: people worry that their pictures could be taken without their knowledge or consent, violating their privacy. These privacy concerns are not new and have existed since camera technology became accessible to everyone. But, Google Glass makes it difficult to know when someone is taking a picture of you. Resorting to drastic measures, like banning their use in public places, is not a good solution.&lt;/p&gt;
+&lt;p&gt;We present FaceBlock, which protects the privacy rights of individuals by allowing them to choose whether or not to be included in pictures taken with Glass. Our approach allows a user’s mobile device to share privacy policies with nearby Glass devices using a P2P communication channel (our prototype uses Bluetooth). Along with the policy, users share information that helps identify them in a picture. When the Google Glass takes a picture
+the system recognizes faces on it, checks policies it has received, and obscures faces as necessary.&lt;/p&gt;
+&lt;h4 id=&#34;useful-links-and-references&#34;&gt;Useful links and references&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;FaceBlock in the news:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/news/what-could-derail-the-wearables-revolution-1.18263&#34; target=&#34;_blank&#34;&gt;Nature: &amp;ldquo;What could derail the wearables revolution?&amp;rdquo;, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ebiquity.umbc.edu/blogger/2014/03/27/dont-be-a-glhole-use-faceblock/&#34; target=&#34;_blank&#34;&gt;eBiquity UMBC: &amp;ldquo;Do not be a Gl***hole, use Face-Block.me!&amp;rdquo;, 2014&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MultiCAMBA</title>
+      <link>/project/multicamba/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/multicamba/</guid>
+      <description>&lt;p&gt;For a Technical Director (TD) in charge of a live broadcasting, selecting the best camera shots among the available video sources is a challenging task, even more now that the number of cameras (some of them mobile, or attached to moving objects) in the broadcasting of sport events is increasing. So, the TD needs to manage a great amount of continuously changing information to quickly select the camera whose view should be broadcasted. Besides, the better the decisions made by the TD, the more interesting the content for the audience. Therefore, the development of systems that could help the TD with the selection of camera views is demanded by broadcasting organizations.&lt;/p&gt;
+&lt;p&gt;In this project, we present the system MultiCAMBA that helps TDs in the live broadcasting task by allowing them to indicate in run-time their interest in certain kind of shots, and the system will show the cameras that are able to provide them. To achieve this task, the system manages location-dependent queries generated according to the interests of the TD. Moreover, to avoid the use of costly on line real-image processing techniques over the camera views, such real camera views are recreated in a 3D engine by using the information contained in a 3D model of the scenario. This model is updated continuously with real-time data retrieved from the real objects and cameras in the scenario. In this way, the system extracts high-level semantic features of 2D projections of the 3D reconstruction of the camera views.&lt;/p&gt;
+&lt;h4 id=&#34;useful-links-and-references&#34;&gt;Useful links and references&lt;/h4&gt;
+</description>
+    </item>
     
     <item>
       <title>MultiCAMBA: A System for Selecting Camera Views in Live Broadcasting of Sport Events Using a Dynamic 3D Model</title>
