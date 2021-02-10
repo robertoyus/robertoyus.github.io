@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service | Roberto Yus</title>
+    <link>/service/</link>
+      <atom:link href="/service/index.xml" rel="self" type="application/rss+xml" />
+    <description>Service</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Service</title>
+      <link>/service/</link>
+    </image>
+    
+  </channel>
+</rss>
