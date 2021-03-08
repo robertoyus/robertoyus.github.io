@@ -57,6 +57,21 @@
   </url>
   
   <url>
+    <loc>/talk/pitt-2021/</loc>
+    <lastmod>2021-02-23T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2021-02-23T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-23T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -118,11 +133,6 @@
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -454,11 +464,6 @@
   <url>
     <loc>/tags/fairness/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2017-10-05T08:00:00+00:00</lastmod>
   </url>
   
   <url>

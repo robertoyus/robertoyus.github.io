@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2017 08:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Feb 2021 10:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>(Don’t) Mind the Gap: Bridging the Worlds of People and IoT Devices</title>
+      <link>/talk/pitt-2021/</link>
+      <pubDate>Tue, 23 Feb 2021 10:00:00 +0000</pubDate>
+      <guid>/talk/pitt-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reconciling Smartness and Privacy in the Internet of Things</title>

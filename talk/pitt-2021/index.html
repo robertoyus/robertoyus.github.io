@@ -28,10 +28,11 @@
   
     
   
-  <meta name="description" content="Facilitating the development of applications in IoT spaces">
+  <meta name="description" content="The Internet of Things (IoT) has the potential to improve our lives through different services given the diversity of smart devices and their capabilities. For example, the IoT can empower services to make the re-opening of business during the current pandemic safer by monitoring adherence to regulations. But the large amounts of highly heterogeneous data captured by IoT devices typically require further processing to become useful information. The challenge is thus for IoT systems to determine which sensor data has to be captured/stored/processed/shared to, for instance, determine the occupancy of a specific office building or the spaces in which a potential exposure took place. This becomes even more challenging when IoT systems have to take into account privacy preferences of individuals such as the need to prevent sharing data about their daily patterns or habits.
+In this talk, I will discuss my efforts into helping IoT systems bridge the gap between the world of IoT devices and the world where people act. First, I will introduce a model to represent knowledge about sensors/actuators, people, spaces, events, and their relationships. Based on the model, I will explain an algorithmic solution to translate user requests and privacy preferences defined in a high-level more semantically meaningful way into operations on IoT devices and their captured data. Second, I will present a study on the practical privacy implications that such semantic data management operations have in the context of location data. Finally, I will overview my experience building and deploying an IoT data management system, TIPPERS,  which has been deployed at UC Irvine and two US Navy vessels and is soon to be deployed in other campuses. I will conclude the talk discussing the exciting future work opportunities towards supporting the next generation of ubiquitous IoT data management systems and technologies that autonomously, transparently, and at scale, balance the trade-off between providing users with high utility and respecting people’s privacy requirements.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/project/semiotic/">
+  <link rel="alternate" hreflang="en-us" href="/talk/pitt-2021/">
 
   
 
@@ -100,7 +101,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/project/semiotic/">
+  <link rel="canonical" href="/talk/pitt-2021/">
 
   
   
@@ -112,28 +113,24 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Roberto Yus">
-  <meta property="og:url" content="/project/semiotic/">
-  <meta property="og:title" content="SemIoTic | Roberto Yus">
-  <meta property="og:description" content="Facilitating the development of applications in IoT spaces"><meta property="og:image" content="/project/semiotic/featured.png">
-  <meta property="twitter:image" content="/project/semiotic/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/talk/pitt-2021/">
+  <meta property="og:title" content="(Don’t) Mind the Gap: Bridging the Worlds of People and IoT Devices | Roberto Yus">
+  <meta property="og:description" content="The Internet of Things (IoT) has the potential to improve our lives through different services given the diversity of smart devices and their capabilities. For example, the IoT can empower services to make the re-opening of business during the current pandemic safer by monitoring adherence to regulations. But the large amounts of highly heterogeneous data captured by IoT devices typically require further processing to become useful information. The challenge is thus for IoT systems to determine which sensor data has to be captured/stored/processed/shared to, for instance, determine the occupancy of a specific office building or the spaces in which a potential exposure took place. This becomes even more challenging when IoT systems have to take into account privacy preferences of individuals such as the need to prevent sharing data about their daily patterns or habits.
+In this talk, I will discuss my efforts into helping IoT systems bridge the gap between the world of IoT devices and the world where people act. First, I will introduce a model to represent knowledge about sensors/actuators, people, spaces, events, and their relationships. Based on the model, I will explain an algorithmic solution to translate user requests and privacy preferences defined in a high-level more semantically meaningful way into operations on IoT devices and their captured data. Second, I will present a study on the practical privacy implications that such semantic data management operations have in the context of location data. Finally, I will overview my experience building and deploying an IoT data management system, TIPPERS,  which has been deployed at UC Irvine and two US Navy vessels and is soon to be deployed in other campuses. I will conclude the talk discussing the exciting future work opportunities towards supporting the next generation of ubiquitous IoT data management systems and technologies that autonomously, transparently, and at scale, balance the trade-off between providing users with high utility and respecting people’s privacy requirements."><meta property="og:image" content="/talk/pitt-2021/featured.png">
+  <meta property="twitter:image" content="/talk/pitt-2021/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-08-23T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2021-02-23T10:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2019-08-23T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-02-23T10:00:00&#43;00:00">
   
 
   
 
 
+
+  
     
-
-
-
-
-
-
-
 
 
 
@@ -141,41 +138,46 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/project/semiotic/"
+    "@id": "/talk/pitt-2021/"
   },
-  "headline": "SemIoTic",
+  "name": "(Don’t) Mind the Gap: Bridging the Worlds of People and IoT Devices",
+  
+  "location": {
+    "@type": "Place",
+    "name": "University of Pittsburgh",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "",
+      "addressLocality": "",
+      "postalCode": "",
+      "addressRegion": "",
+      "addressCountry": ""
+    }
+    
+  },
+  
   
   "image": [
-    "/project/semiotic/featured.png"
+    "/talk/pitt-2021/featured.png"
   ],
   
-  "datePublished": "2019-08-23T00:00:00Z",
-  "dateModified": "2019-08-23T00:00:00Z",
+  "startDate": "2021-02-23T10:00:00Z",
   
-  "author": {
+  
+  "performer": {
     "@type": "Person",
     "name": "Roberto Yus"
   },
   
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roberto Yus",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "/img/logo.png"
-    }
-  },
-  "description": "Facilitating the development of applications in IoT spaces"
+  "description": "The Internet of Things (IoT) has the potential to improve our lives through different services given the diversity of smart devices and their capabilities. For example, the IoT can empower services to make the re-opening of business during the current pandemic safer by monitoring adherence to regulations. But the large amounts of highly heterogeneous data captured by IoT devices typically require further processing to become useful information. The challenge is thus for IoT systems to determine which sensor data has to be captured/stored/processed/shared to, for instance, determine the occupancy of a specific office building or the spaces in which a potential exposure took place. This becomes even more challenging when IoT systems have to take into account privacy preferences of individuals such as the need to prevent sharing data about their daily patterns or habits.\nIn this talk, I will discuss my efforts into helping IoT systems bridge the gap between the world of IoT devices and the world where people act. First, I will introduce a model to represent knowledge about sensors/actuators, people, spaces, events, and their relationships. Based on the model, I will explain an algorithmic solution to translate user requests and privacy preferences defined in a high-level more semantically meaningful way into operations on IoT devices and their captured data. Second, I will present a study on the practical privacy implications that such semantic data management operations have in the context of location data. Finally, I will overview my experience building and deploying an IoT data management system, TIPPERS,  which has been deployed at UC Irvine and two US Navy vessels and is soon to be deployed in other campuses. I will conclude the talk discussing the exciting future work opportunities towards supporting the next generation of ubiquitous IoT data management systems and technologies that autonomously, transparently, and at scale, balance the trade-off between providing users with high utility and respecting people’s privacy requirements."
 }
 </script>
 
   
 
-  
-
 
   
 
@@ -186,7 +188,7 @@
 
 
 
-  <title>SemIoTic | Roberto Yus</title>
+  <title>(Don’t) Mind the Gap: Bridging the Worlds of People and IoT Devices | Roberto Yus</title>
 
 </head>
 
@@ -545,7 +547,7 @@
 </nav>
 
 
-  <article class="article article-project">
+  <div class="pub">
 
   
 
@@ -569,14 +571,14 @@
 
 
   
+  
+    
   
 
 
 <div class="article-container pt-3">
-  <h1>SemIoTic</h1>
+  <h1>(Don’t) Mind the Gap: Bridging the Worlds of People and IoT Devices</h1>
 
-  
-  <p class="page-subtitle">Abstracting Interactions with IoT Devices Towards a Semantic Vision of Smart Spaces</p>
   
 
   
@@ -587,14 +589,6 @@
   
   
 
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Aug 23, 2019
-  </span>
   
 
   
@@ -642,28 +636,24 @@
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="http://tippers.ics.uci.edu/semiotic" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
 
 
 
   
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/tippers/">
+    Project
+  </a>
   
-    
+
   
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/buildsys-2019/buildsys-2019-slides.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/semiotic/">
+    Project
+  </a>
+  
+
+
+
+
 
 
 
@@ -677,9 +667,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 533px; max-height: 364px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 152px;">
   <div style="position: relative">
-    <img src="/project/semiotic/featured.png" alt="" class="featured-image">
+    <img src="/talk/pitt-2021/featured_hu9bbee3e696faf1895073e75b7ab33808_197105_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -688,23 +678,66 @@
 
   <div class="article-container">
 
-    <div class="article-style">
-      <p>SemIoTic is a middleware framework for IoT smart spaces that provides application developers and end-users with a semantic domain-relevant view of a smart space
-while hiding the complexity of having to deal with/understand lower-level information generated by sensors and actuators. SemIoTic uses a metamodel based on the popular
-SOSA/SSN ontology with some extensions to represent relationships between the low-level IoT devices' world (i.e., devices, observations) and semantic concepts
-(i.e., observable attributes of users and spaces). It supports a language where users can express their action requirements (i.e., requests for sensor data, commands
-for actuators, and privacy preferences) in terms of user-friendly high-level concepts. We present an ontology-based algorithmic approach to translate user-defined actions
-into sensor/actuators commands. Finally, our end-to-end approach includes a cross-layer solution to provide interoperability with diverse IoT devices and their data exchange protocols.</p>
-<p>Several instances of SemIoTic have been deployed and used in IoT spaces. At the Donald Bren Hall building of UC Irvine, building occupants
-have access to Concierge and Building Analytics smart applications and building administrators have access to a Contact Tracing Application to help combat the spread of COVID-19.
-Also, SemIoTic has been deployed inside a navy ship from the Naval Information Warfare Center (NIWC)
-in the context of the Trident Warrior exercise 2019/2020. SemIoTic enabled testing of applications such as occupancy analysis in multiple
-regions of the ship.</p>
-<h4 id="useful-links-and-references">Useful links and references</h4>
-<ul>
-<li>SemIoTic is developed as part of the <a href="http://tippers.ics.uci.edu" target="_blank">TIPPERS</a> (Testbed for IoT-based Privacy-Preserving PERvasive Spaces) DARPA research project.</li>
-</ul>
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract">The Internet of Things (IoT) has the potential to improve our lives through different services given the diversity of smart devices and their capabilities. For example, the IoT can empower services to make the re-opening of business during the current pandemic safer by monitoring adherence to regulations. But the large amounts of highly heterogeneous data captured by IoT devices typically require further processing to become useful information. The challenge is thus for IoT systems to determine which sensor data has to be captured/stored/processed/shared to, for instance, determine the occupancy of a specific office building or the spaces in which a potential exposure took place. This becomes even more challenging when IoT systems have to take into account privacy preferences of individuals such as the need to prevent sharing data about their daily patterns or habits.
+In this talk, I will discuss my efforts into helping IoT systems bridge the gap between the world of IoT devices and the world where people act. First, I will introduce a model to represent knowledge about sensors/actuators, people, spaces, events, and their relationships. Based on the model, I will explain an algorithmic solution to translate user requests and privacy preferences defined in a high-level more semantically meaningful way into operations on IoT devices and their captured data. Second, I will present a study on the practical privacy implications that such semantic data management operations have in the context of location data. Finally, I will overview my experience building and deploying an IoT data management system, TIPPERS,  which has been deployed at UC Irvine and two US Navy vessels and is soon to be deployed in other campuses. I will conclude the talk discussing the exciting future work opportunities towards supporting the next generation of ubiquitous IoT data management systems and technologies that autonomously, transparently, and at scale, balance the trade-off between providing users with high utility and respecting people’s privacy requirements.</p>
+    
 
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Feb 23, 2021
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://cs.pitt.edu/news/2021-feb-23-colloquium-dont-mind-the-gap-bridging-the-worlds-of-people-and-iot-devices-roberto-yus/" target="_blank" rel="noopener">
+            Colloquium
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">University of Pittsburgh</div>
+          
+            <div class="col-md-3"></div>
+            <div class="col-12 col-md-9"></div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      
     </div>
 
     
@@ -712,18 +745,6 @@ regions of the ship.</p>
 
 
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/internet-of-things/">Internet of Things</a>
-  
-  <a class="badge badge-light" href="/tags/data-management/">Data Management</a>
-  
-  <a class="badge badge-light" href="/tags/privacy/">Privacy</a>
-  
-  <a class="badge badge-light" href="/tags/semantic-web/">Semantic Web</a>
-  
-</div>
 
 
 
@@ -738,7 +759,7 @@ regions of the ship.</p>
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/project/semiotic/&amp;text=SemIoTic" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/talk/pitt-2021/&amp;text=%28Don%e2%80%99t%29%20Mind%20the%20Gap:%20Bridging%20the%20Worlds%20of%20People%20and%20IoT%20Devices" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -751,7 +772,7 @@ regions of the ship.</p>
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/project/semiotic/&amp;title=SemIoTic" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/talk/pitt-2021/&amp;title=%28Don%e2%80%99t%29%20Mind%20the%20Gap:%20Bridging%20the%20Worlds%20of%20People%20and%20IoT%20Devices" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -764,7 +785,7 @@ regions of the ship.</p>
       
       
       <li>
-        <a href="https://reddit.com/submit?url=/project/semiotic/&amp;title=SemIoTic" target="_blank" rel="noopener" class="share-btn-reddit">
+        <a href="https://reddit.com/submit?url=/talk/pitt-2021/&amp;title=%28Don%e2%80%99t%29%20Mind%20the%20Gap:%20Bridging%20the%20Worlds%20of%20People%20and%20IoT%20Devices" target="_blank" rel="noopener" class="share-btn-reddit">
           <i class="fab fa-reddit-alien"></i>
         </a>
       </li>
@@ -934,534 +955,11 @@ regions of the ship.</p>
 
   
   
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/project/tippers/">TIPPERS</a></li>
-      
-      <li><a href="/publication/sigmod-2018/">IoT-Detective: Analyzing IoT Data Under Differential Privacy</a></li>
-      
-      <li><a href="/publication/iotbds-2018/">Trustworthy Privacy Policy Translation in Untrusted IoT Environments</a></li>
-      
-      <li><a href="/publication/iotca-2017/">Towards Privacy-Aware Smart Buildings: Capturing, Communicating, and Enforcing Privacy Policies and Preferences</a></li>
-      
-      <li><a href="/project/sherlock/">SHERLOCK</a></li>
-      
-    </ul>
-  </div>
-  
 
 
 
-    <div class="project-related-pages content-widget-hr">
-      
-      
-
-      
-      
-      
-
-      
-      
-      
-        <h2>Publications</h2>
-        
-          
-            
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/buildsys-2019/" >Abstracting Interactions with IoT Devices Towards a Semantic Vision of Smart Spaces</a>
-    </h3>
-
-    
-    <div class="article-style">
-      This paper describes a middleware framework for IoT smart spaces, SemIoTic, that provides application developers and end-users with the …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  
-  <span><a href="/authors/admin/">Roberto Yus</a></span>, <span><a href="/authors/georgios-bouloukakis/">Georgios Bouloukakis</a></span>, <span><a href="/authors/sharad-mehrotra/">Sharad Mehrotra</a></span>, <span><a href="/authors/nalini-venkatasubramanian/">Nalini Venkatasubramanian</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hal.inria.fr/hal-02298615/document" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/buildsys-2019/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://tippersweb.ics.uci.edu/semiotic" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/semiotic/">
-    Project
-  </a>
-  
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/buildsys-demo-2019/poster.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/buildsys-2019/buildsys-2019-slides.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/buildsys-2019/" >
-      <img src="/publication/buildsys-2019/featured_hu4037804687970c31f1c35f8345592ffe_906086_150x0_resize_lanczos_2.png" alt="">
-    </a>
-    
   </div>
 </div>
-
-          
-        
-          
-            
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/buildsys-demo-2019/" >SemIoTic: Bridging the Semantic Gap in IoT Spaces</a>
-    </h3>
-
-    
-    <div class="article-style">
-      This demonstration showcases the SemIoTic middleware which provides inhabitants of an IoT space, as well as developers of applications, …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  
-  <span><a href="/authors/sumaya-almanee/">Sumaya Almanee</a></span>, <span><a href="/authors/georgios-bouloukakis/">Georgios Bouloukakis</a></span>, <span><a href="/authors/daokun-jiang/">Daokun Jiang</a></span>, <span><a href="/authors/sameera-ghayyur/">Sameera Ghayyur</a></span>, <span><a href="/authors/dhrubajyoti-ghosh/">Dhrubajyoti Ghosh</a></span>, <span><a href="/authors/peeyush-gupta/">Peeyush Gupta</a></span>, <span><a href="/authors/yiming-lin/">Yiming Lin</a></span>, <span><a href="/authors/sharad-mehrotra/">Sharad Mehrotra</a></span>, <span><a href="/authors/primal-pappachan/">Primal Pappachan</a></span>, <span><a href="/authors/eun-jeong-shin/">Eun-Jeong Shin</a></span>, <span><a href="/authors/nalini-venkatasubramanian/">Nalini Venkatasubramanian</a></span>, <span><a href="/authors/guoxi-wang/">Guoxi Wang</a></span>, <span><a href="/authors/admin/">Roberto Yus</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hal.inria.fr/hal-02298610/document" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/buildsys-demo-2019/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://tippersweb.ics.uci.edu/semiotic" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/semiotic/">
-    Project
-  </a>
-  
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/buildsys-demo-2019/poster.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/buildsys-demo-2019/" >
-      <img src="/publication/buildsys-demo-2019/featured_hu6f53edb9676db54b65a5ea9a03af4969_169934_150x0_resize_q90_lanczos.jpg" alt="">
-    </a>
-    
-  </div>
-</div>
-
-          
-        
-      
-
-      
-      
-      
-        <h2>Talks</h2>
-        
-          
-            
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/talk/pitt-2021/" >(Don’t) Mind the Gap: Bridging the Worlds of People and IoT Devices</a>
-    </h3>
-
-    
-    <div class="article-style">
-      The Internet of Things (IoT) has the potential to improve our lives through different services given the diversity of smart devices and …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span>
-          Feb 23, 2021
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>University of Pittsburgh</span>
-        
-      </div>
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tippers/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/semiotic/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/talk/pitt-2021/" >
-      <img src="/talk/pitt-2021/featured_hu9bbee3e696faf1895073e75b7ab33808_197105_150x0_resize_lanczos_2.png" alt="">
-    </a>
-    
-  </div>
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/talk/uci-2017/" >Reconciling Smartness and Privacy in the Internet of Things</a>
-    </h3>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span>
-          Oct 5, 2017
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>University of California, Irvine</span>
-        
-      </div>
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tippers/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/semiotic/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/talk/uci-2017/" >
-      <img src="/talk/uci-2017/featured_huf56b539eeec33717b0a691c30c84eefa_369680_150x0_resize_q90_lanczos.jpg" alt="">
-    </a>
-    
-  </div>
-</div>
-
-          
-        
-      
-    </div>
-  </div>
-</article>
 
       
 
