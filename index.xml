@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Yus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Feb 2021 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Mar 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Roberto Yus</title>
@@ -570,6 +570,14 @@ documentation of a medical issue If you have such documentation, send it along w
     
     <item>
       <title>(Don’t) Mind the Gap: Bridging the Worlds of People and IoT Devices</title>
+      <link>/talk/umbc-2021/</link>
+      <pubDate>Tue, 23 Mar 2021 13:00:00 +0000</pubDate>
+      <guid>/talk/umbc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Don’t) Mind the Gap: Bridging the Worlds of People and IoT Devices</title>
       <link>/talk/pitt-2021/</link>
       <pubDate>Tue, 23 Feb 2021 10:00:00 +0000</pubDate>
       <guid>/talk/pitt-2021/</guid>
@@ -1065,7 +1073,7 @@ regions of the ship.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Landing Page</title>
+      <title>Students</title>
       <link>/students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/students/</guid>
