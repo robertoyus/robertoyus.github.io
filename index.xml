@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Yus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Mar 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Roberto Yus</title>
@@ -14,39 +14,12 @@
     
     <item>
       <title>Announcements</title>
-      <link>/courses/cs132-summer/announcements/</link>
+      <link>/courses/cmsc491-691-dataprivacy-spring22/announcements/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/cs132-summer/announcements/</guid>
-      <description>&lt;!--- &gt; * &lt;span class=&#34;markup-quote&#34;&gt;3/3/2020&lt;/span&gt;:[HW4](/files/cs132/cs132-hw4.pdf) is now posted and due on 03/11/20.
-&gt; * &lt;span class=&#34;markup-quote&#34;&gt;2/25/2020&lt;/span&gt;:[HW3](/files/cs132/cs132-hw3.pdf) is now posted and due on 03/03/20.
-&gt; * &lt;span class=&#34;markup-quote&#34;&gt;2/2/2020&lt;/span&gt;:[HW2](/files/cs132/cs132-hw2.pdf) is now posted and due on 02/10/20.
-&gt; * &lt;span class=&#34;markup-quote&#34;&gt;1/6/2020&lt;/span&gt;: The discussion of the 1st week (Wed, Jan 8) is cancelled. ---&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;1/22/2020&lt;/span&gt;:HW3 is now posted and due on 09/03/20.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;1/22/2020&lt;/span&gt;:HW2 is now posted and due on 08/26/20.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;1/22/2020&lt;/span&gt;:HW1 is now posted and due on 08/17/20.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;8/7/2020&lt;/span&gt;: The slides for the discussion session and the recordings of the week are now posted.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;8/5/2020&lt;/span&gt;: The slides for the first two lectures are now posted.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;8/2/2020&lt;/span&gt;: The website is up.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Announcements</title>
-      <link>/courses/cs132/announcements/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/cs132/announcements/</guid>
+      <guid>/courses/cmsc491-691-dataprivacy-spring22/announcements/</guid>
       <description>&lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;3/3/2020&lt;/span&gt;:&lt;a href=&#34;/files/cs132/cs132-hw4.pdf&#34;&gt;HW4&lt;/a&gt; is now posted and due on 03/11/20.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;2/25/2020&lt;/span&gt;:&lt;a href=&#34;/files/cs132/cs132-hw3.pdf&#34;&gt;HW3&lt;/a&gt; is now posted and due on 03/03/20.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;2/2/2020&lt;/span&gt;:&lt;a href=&#34;/files/cs132/cs132-hw2.pdf&#34;&gt;HW2&lt;/a&gt; is now posted and due on 02/10/20.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;1/22/2020&lt;/span&gt;:&lt;a href=&#34;/files/cs132/cs132-hw1.pdf&#34;&gt;HW1&lt;/a&gt; is now posted and due on 01/28/20.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;1/6/2020&lt;/span&gt;: The discussion of the 1st week (Wed, Jan 8) is cancelled.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;1/5/2020&lt;/span&gt;: The website is up.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;10/26/2021&lt;/span&gt;: The website is up.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 </description>
@@ -54,298 +27,163 @@
     
     <item>
       <title>Schedule</title>
-      <link>/courses/cs132-summer/outline/</link>
+      <link>/courses/cmsc491-691-dataprivacy-spring22/outline/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/cs132-summer/outline/</guid>
-      <description>&lt;table&gt;
+      <guid>/courses/cmsc491-691-dataprivacy-spring22/outline/</guid>
+      <description>&lt;p&gt;Except for the project presentations, the remainder of the timeline should be considered somewhat fluid in order to allow us to adapt to any unanticipated events (especially w.r.t. the invited talks). The specific dates will become much more firm as we get closer to the relevant time period.&lt;/p&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Lecture&lt;/th&gt;
 &lt;th&gt;&lt;div style=&#34;width:60px&#34;&gt;Date&lt;/div&gt;&lt;/th&gt;
-&lt;th&gt;&lt;div style=&#34;width:120px&#34;&gt;Topics and Slides&lt;/div&gt;&lt;/th&gt;
-&lt;th&gt;&lt;div style=&#34;width:80px&#34;&gt;Reading (K&amp;amp;R v7)&lt;/div&gt;&lt;/th&gt;
-&lt;th&gt;Assignments&lt;/th&gt;
-&lt;th&gt;&lt;div style=&#34;width:120px&#34;&gt;Other Materials&lt;/div&gt;&lt;/th&gt;
+&lt;th&gt;&lt;div style=&#34;width:400px&#34;&gt;Topic&lt;/div&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;Tu 08/04&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/summer2020/lecture0.pdf&#34;&gt;Syllabus&lt;/a&gt;,&lt;a href=&#34;/files/cs132/summer2020/lecture1.pdf&#34;&gt;Intro, Network Edge, Circuit vs. Packet Switching&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;1.1 - 1.4&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/example-lecture1-page33.pdf&#34;&gt;Example&lt;/a&gt;, &lt;a href=&#34;/files/cs132/summer2020/recording-lec1.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1/31&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Introduction&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;Th 08/06&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/summer2020/lecture2.pdf&#34;&gt;Protocol layers, History, Intro to App-layer, HTTP&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;1.5-1.7, 2.1, 2.2&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-lec2.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2/2&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;History of Data Privacy&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;Tu 08/11&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/summer2020/lecture3.pdf&#34;&gt;Mail, DNS, P2P, Video, CDN&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;2.3 - 2.6&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/hw1.pdf&#34;&gt;HW 1, due 08/17&lt;/a&gt; &lt;a href=&#34;/files/cs132/summer2020/Wireshark_HTTP.pdf&#34;&gt;Wireshark&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-lec3.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2/7&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Privacy-by-Design, Privacy Enhancing Techniques&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;Th 08/13&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/summer2020/lecture4.pdf&#34;&gt;Transport-layer, Reliable Data Transfer, Stop-and-Wait&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;3.1 - 3.3, 3.4.1-2&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-lec4.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2/9&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Privacy Regulations&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;Tu 08/18&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/summer2020/lecture5.pdf&#34;&gt;Go-Back-N vs. SR, TCP segment, TCP connection, RTT/Timeout, TCP RDT, Flow control, TCP Connection Management, Congestion Control Principles&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;3.4.3-3.4.4, 3.5.1-3.5.6, 3.6&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/hw2.pdf&#34;&gt;HW 2, due 08/26&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-lec5.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2/14&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;PAPER DISCUSSION: GDPR &amp;amp; Databases&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;Th 08/20&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/summer2020/lecture6.pdf&#34;&gt;TCP Congestion Control, Net-layer, Routers&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;3.7, 4.1, 4.2&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/hw1-sol.pdf&#34;&gt;HW 1 solutions&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-lec6.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2/16&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Usable Privacy &amp;amp; Informed Consent&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;Tu 08/25&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/summer2020/lecture7.pdf&#34;&gt;IPv4, IP addresses, NAT, IPv6, Generalized forwarding, Routing algorithms, Dijkstra&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;4.3 - 4.4, 5.1 - 5.2&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-lec7.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2/21&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;INVITED TALK: Usable Privacy&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;Th 08/27&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/summer2020/lecture8.pdf&#34;&gt;Bellman-Ford, OSPF, BGP, SDN Control Plane, Network mgt&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;5.2 - 5.7&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:120px&#34;&gt;&lt;a href=&#34;/files/cs132/summer2020/hw3.pdf&#34;&gt;HW 3, due 09/03&lt;/a&gt;, &lt;a href=&#34;/files/cs132/summer2020/hw2-sol.pdf&#34;&gt;HW 2 solutions&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-lec8.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2/23&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Privacy Policies&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;9&lt;/td&gt;
-&lt;td&gt;Tu 09/01&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/summer2020/lecture9.pdf&#34;&gt;Link-layer, Multiple Access Protocols, LANs&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;6.1 - 6.3, 6.4.1-2&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-lec9.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2/28&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Access Control Policies&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;Th 09/03&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/summer2020/lecture10.pdf&#34;&gt;LANs, Web page request&lt;/a&gt;, &lt;a href=&#34;/files/cs132/summer2020/finalreview.pdf&#34;&gt;Final review&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;6.4.3-4, 6.7&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/hw3-sol.pdf&#34;&gt;HW 3 solutions&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-lec10.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;Tu 09/08&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/summer2020/cs132-final-exam.pdf&#34;&gt;FINAL EXAM&lt;/a&gt; (10am) &lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>/courses/cs132/outline/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/cs132/outline/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Lecture&lt;/th&gt;
-&lt;th&gt;&lt;div style=&#34;width:60px&#34;&gt;Date&lt;/div&gt;&lt;/th&gt;
-&lt;th&gt;&lt;div style=&#34;width:120px&#34;&gt;Topics and Slides&lt;/div&gt;&lt;/th&gt;
-&lt;th&gt;&lt;div style=&#34;width:80px&#34;&gt;Reading (K&amp;amp;R v7)&lt;/div&gt;&lt;/th&gt;
-&lt;th&gt;Assignments&lt;/th&gt;
-&lt;th&gt;&lt;div style=&#34;width:120px&#34;&gt;Other Materials&lt;/div&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;Tu 01/07&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture0.pdf&#34;&gt;Syllabus&lt;/a&gt;, &lt;a href=&#34;/files/cs132/lecture1.pdf&#34;&gt;Intro, Network Edge&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;1.1, 1.2&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;Th 01/09&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture2.pdf&#34;&gt;Circuit vs. Packet Switching&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;1.3 - 1.4&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/example-lecture2-page12.pdf&#34;&gt;Example&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;Tu 01/14&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture3.pdf&#34;&gt;Protocol layers, History&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;1.5-1.7&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;Th 01/16&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture4.pdf&#34;&gt;Intro to App-layer, HTTP&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;2.1, 2.2&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;Tu 01/21&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture5.pdf&#34;&gt;Mail, DNS&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;2.3, 2.4&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:130px&#34;&gt;&lt;a href=&#34;/files/cs132/cs132-hw1.pdf&#34;&gt;HW 1, due 01/28&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;Th 01/23&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture6.pdf&#34;&gt;P2P, Video, CDN&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;2.5, 2.6&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;Tu 01/28&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture7.pdf&#34;&gt;Intro to Transport-layer&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;3.1 - 3.3&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;Th 01/30&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture8.pdf&#34;&gt;Reliable Data Transfer, Stop-and-Wait&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;3.4.1-2&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:130px&#34;&gt;&lt;a href=&#34;/files/cs132/cs132-hw1-sol.pdf&#34;&gt;HW 1 solutions&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;9&lt;/td&gt;
-&lt;td&gt;Tu 02/04&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture9.pdf&#34;&gt;Go-Back-N vs. SR&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;3.4.3-3.4.4&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:130px&#34;&gt;&lt;a href=&#34;/files/cs132/cs132-hw2.pdf&#34;&gt;HW 2, due 02/10&lt;/a&gt; &lt;a href=&#34;/files/cs132/cs132-hw2-files.zip&#34;&gt;Files for HW 2&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;Th 02/06&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture10.pdf&#34;&gt;TCP segment, TCP connection, RTT/Timeout, TCP RDT, Flow control&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;3.5.1-3.5.5&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;3/2&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;PAPER DISCUSSION: Privacy Policies&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11&lt;/td&gt;
-&lt;td&gt;Tu 02/11&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture11.pdf&#34;&gt;TCP Connection Management, Congestion Control Principles&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;3.5.6, 3.6&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:130px&#34;&gt;&lt;a href=&#34;/files/cs132/cs132-hw2-sol.zip&#34;&gt;HW 2 solutions&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;Th 02/13&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;MIDTERM&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;3/7&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;INVITED TALK: Privacy Policies&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;12&lt;/td&gt;
-&lt;td&gt;Tu 02/18&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture12.pdf&#34;&gt;TCP Congestion Control, Intro to Net-layer&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;3.7, 4.1&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;3/9&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Database Privacy: k-anonymity and de-anonymization attacks&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;13&lt;/td&gt;
-&lt;td&gt;Th 02/20&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture13.pdf&#34;&gt;Routers, IPv4, IP addresses, NAT, IPv6&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;4.2, 4.3&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:130px&#34;&gt;&lt;a href=&#34;/files/cs132/cs132-midterm-sol.pdf&#34;&gt;Midterm solutions&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;3/14&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Differential Privacy&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;14&lt;/td&gt;
-&lt;td&gt;Tu 02/25&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture14.pdf&#34;&gt;Generalized forwarding, Routing algorithms, Dijkstra&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;4.4, 5.1 - 5.2&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:130px&#34;&gt;&lt;a href=&#34;/files/cs132/cs132-hw3.pdf&#34;&gt;HW 3, due 03/03&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;3/16&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Variants of Differential Privacy&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;no class (Spring Break)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;Th 02/27&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture15.pdf&#34;&gt;Bellman-Ford, OSPF&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;5.2 - 5.3&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;3/28&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;PAPER DISCUSSION: Differential Privacy&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16&lt;/td&gt;
-&lt;td&gt;Tu 03/03&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture16.pdf&#34;&gt;BGP, SDN Control Plane, Network mgt&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;5.4 - 5.7&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:130px&#34;&gt;&lt;a href=&#34;/files/cs132/cs132-hw4.pdf&#34;&gt;HW 4, due 03/11&lt;/a&gt; &lt;a href=&#34;/files/cs132/cs132-cpe.pdf&#34;&gt;CpE Question&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;4/4&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Local Differential Privacy&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;17&lt;/td&gt;
-&lt;td&gt;Th 03/05&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture17.pdf&#34;&gt;Intro to Link-layer&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;6.1 - 6.2&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:130px&#34;&gt;&lt;a href=&#34;/files/cs132/cs132-hw3-sol.pdf&#34;&gt;HW 3 solutions&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;4/6&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;INVITED TALK: Differential Privacy&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;18&lt;/td&gt;
-&lt;td&gt;Tu 03/10&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture18.pdf&#34;&gt;Multiple Access Protocols, LANs&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;6.3, 6.4.1-2&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;4/11&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;PAPER DISCUSSION: Variants of Differential Privacy&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19&lt;/td&gt;
-&lt;td&gt;Th 03/12&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;&lt;a href=&#34;/files/cs132/lecture19.pdf&#34;&gt;LANs, Web page request&lt;/a&gt;, &lt;a href=&#34;/files/cs132/finalreview.pdf&#34;&gt;Final review&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;6.4.3-4, 6.7&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:130px&#34;&gt;&lt;a href=&#34;/files/cs132/cs132-hw4-sol.pdf&#34;&gt;HW 4 solutions&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;4/13&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Secure Multiparty Computation&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;Tu 03/17&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:180px&#34;&gt;FINAL EXAM (10:30-12:30p) &lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;4/18&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;PAPER DISCUSSION: Secure Multiparty Computation&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;4/20&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;INVITED TALK: Secure Multiparty Computation&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;td&gt;4/25&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Privacy in IoT Environments&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;td&gt;4/27&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;PAPER DISCUSSION: Privacy in IoT Environments&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;5/2&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Privacy in ML&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;td&gt;5/4&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;PAPER DISCUSSION: Privacy in ML&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;td&gt;5/9&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;PROJECT PRESENTATIONS I&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;td&gt;5/14&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;PROJECT PRESENTATIONS II&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;28&lt;/td&gt;
+&lt;td&gt;5/16&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;PROJECT PRESENTATIONS III&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -353,218 +191,61 @@
     </item>
     
     <item>
-      <title>Assignments</title>
-      <link>/courses/cs132-summer/assignments/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/cs132-summer/assignments/</guid>
-      <description>&lt;p&gt;Assigned homeworks, and their due dates, are listed on the &lt;a href=&#34;/courses/cs132-summer/outline/&#34; target=&#34;_blank&#34;&gt;course schedule&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We will make solutions sets available online after each homework is due.
-You are strongly encouraged to review these solutions in preparation for the midterm/final.&lt;/p&gt;
-&lt;h3 id=&#34;submitting-your-homework&#34;&gt;Submitting your homework&lt;/h3&gt;
-&lt;p&gt;We will be using &lt;a href=&#34;https://www.gradescope.com/&#34; target=&#34;_blank&#34;&gt;Gradescope&lt;/a&gt; for turning in homeworks.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Creating an account&lt;/strong&gt;: If you are enrolled in the class, we created an account for you using your uci.edu email address. You should have received an
-email from Gradescope asking you to set up your Gradescope account password. More details
-&lt;a href=&#34;https://www.gradescope.com/help#help-center-item-student-adding-a-course&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Preparing your homework&lt;/strong&gt;: Each problem of a homework must be written on separate page(s). You can use multiple pages for one problem,
-but one page should not contain multiple problems.
-If you have a smartphone, &lt;a href=&#34;https://www.gradescope.com/help#help-center-item-student-scanning&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;
-are the instructions for using apps to create PDFs.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Uploading your homework&lt;/strong&gt;: You must upload your PDF file(s) to Gradescope. Instructions are
-&lt;a href=&#34;https://www.gradescope.com/help#help-center-item-student-submitting&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. Although Gradescope may allow you to upload file formats other than PDF,
-I strongly suggest you use PDF. You have two options:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;upload multiple PDF files, e.g., one or more for each problem (see &amp;ldquo;Submitting individual images&amp;rdquo; in the instructions), or&lt;/li&gt;
-&lt;li&gt;upload a single PDF file, and identify which pages correspond to which problem (see &amp;ldquo;Submitting a PDF&amp;rdquo; in the instructions).&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Make sure your submission was accepted by Gradescope by following the instructions &lt;a href=&#34;https://www.gradescope.com/help#help-center-item-assignments-submissions-show&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deadlines&lt;/strong&gt;: The homework must be uploaded before 11:59pm on the due date. As the course policies states, no late homework will be accepted without
-documentation of a medical issue If you have such documentation, send it along with your homework to the instructor.&lt;/p&gt;
-&lt;h3 id=&#34;graded-homeworks&#34;&gt;Graded homeworks&lt;/h3&gt;
-&lt;p&gt;Graded homeworks will be returned using Gradescope. You must submit any requests for regrades (through Gradescope &amp;ndash; see
-&lt;a href=&#34;https://www.gradescope.com/help#help-center-item-student-regrades&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;) within one week of receiving your score.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Assignments</title>
-      <link>/courses/cs132/assignments/</link>
+      <title>Policies</title>
+      <link>/courses/cmsc491-691-dataprivacy-spring22/policies/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/cs132/assignments/</guid>
-      <description>&lt;p&gt;Assigned homeworks, and their due dates, are listed on the &lt;a href=&#34;/courses/cs132/outline/&#34; target=&#34;_blank&#34;&gt;course schedule&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We will make solutions sets available online after each homework is due.
-You are strongly encouraged to review these solutions in preparation for the midterm/final.&lt;/p&gt;
-&lt;h3 id=&#34;submitting-your-homework&#34;&gt;Submitting your homework&lt;/h3&gt;
-&lt;p&gt;We will be using &lt;a href=&#34;https://www.gradescope.com/&#34; target=&#34;_blank&#34;&gt;Gradescope&lt;/a&gt; for turning in homeworks.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Creating an account&lt;/strong&gt;: If you are enrolled in the class, we created an account for you using your uci.edu email address. You should have received an
-email from Gradescope asking you to set up your Gradescope account password. More details
-&lt;a href=&#34;https://www.gradescope.com/help#help-center-item-student-adding-a-course&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Preparing your homework&lt;/strong&gt;: Each problem of a homework must be written on separate page(s). You can use multiple pages for one problem,
-but one page should not contain multiple problems.
-If you have a smartphone, &lt;a href=&#34;https://www.gradescope.com/help#help-center-item-student-scanning&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;
-are the instructions for using apps to create PDFs.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Uploading your homework&lt;/strong&gt;: You must upload your PDF file(s) to Gradescope. Instructions are
-&lt;a href=&#34;https://www.gradescope.com/help#help-center-item-student-submitting&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. Although Gradescope may allow you to upload file formats other than PDF,
-I strongly suggest you use PDF. You have two options:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;upload multiple PDF files, e.g., one or more for each problem (see &amp;ldquo;Submitting individual images&amp;rdquo; in the instructions), or&lt;/li&gt;
-&lt;li&gt;upload a single PDF file, and identify which pages correspond to which problem (see &amp;ldquo;Submitting a PDF&amp;rdquo; in the instructions).&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Make sure your submission was accepted by Gradescope by following the instructions &lt;a href=&#34;https://www.gradescope.com/help#help-center-item-assignments-submissions-show&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deadlines&lt;/strong&gt;: The homework must be uploaded before 11:59pm on the due date. As the course policies states, no late homework will be accepted without
-documentation of a medical issue If you have such documentation, send it along with your homework to the instructor.&lt;/p&gt;
-&lt;h3 id=&#34;graded-homeworks&#34;&gt;Graded homeworks&lt;/h3&gt;
-&lt;p&gt;Graded homeworks will be returned using Gradescope. You must submit any requests for regrades (through Gradescope &amp;ndash; see
-&lt;a href=&#34;https://www.gradescope.com/help#help-center-item-student-regrades&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;) within one week of receiving your score.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Discussion Sessions</title>
-      <link>/courses/cs132-summer/discussions/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/cs132-summer/discussions/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Fri 5:00-5:50pm, Remote via &lt;a href=&#34;https://uci.zoom.us/&#34; target=&#34;_blank&#34;&gt;Zoom&lt;/a&gt;, Meeting ID: 960 9415 2189&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ta-information&#34;&gt;TA Information&lt;/h3&gt;
+      <guid>/courses/cmsc491-691-dataprivacy-spring22/policies/</guid>
+      <description>&lt;h3 id=&#34;lectures-and-readings&#34;&gt;Lectures and Readings&lt;/h3&gt;
+&lt;p&gt;You are expected to attend all lectures for this course. You are responsible for all material covered in class, even if not found in the on-line class presentation materials. If you should happen to miss a class, you are responsible for getting any missed notes or announcements from a classmate. You are required to prepare for each class by having read all of the assigned materials beforehand.&lt;/p&gt;
+&lt;h3 id=&#34;class-participation&#34;&gt;Class participation&lt;/h3&gt;
+&lt;p&gt;Education works better when we are all actively engaged in it. It is more effective and more interesting when there are questions, comments, challenges, and occasional rants. These can take place in class but also on line via the BlackBoard discussion forum for the class. I welcome your feedback throughout the semester about how the course is going. In addition to regular office hours, you can schedule an appointment with me if you think one-on-one time would help.&lt;/p&gt;
+&lt;h3 id=&#34;privacy&#34;&gt;Privacy&lt;/h3&gt;
+&lt;p&gt;Electronic communications do not always guarantee privacy. Sharing personal information is voluntary, not required.&lt;/p&gt;
+&lt;h3 id=&#34;class-expectation-during-covid-19&#34;&gt;Class Expectation During COVID-19&lt;/h3&gt;
+&lt;p&gt;The University is committed to protecting the health and safety of the entire community &amp;ndash; students, faculty, and staff. For this reason, it is currently mandatory that everyone wear a mask in University buildings, including classrooms. Please read the following carefully and, if you have any questions, ask.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Esmerald Aliaj&lt;/strong&gt; [ealiaj at uci dot edu]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Office Hours&lt;/strong&gt;: Mon 11:00-12:00pm, Remote via &lt;a href=&#34;https://uci.zoom.us/&#34; target=&#34;_blank&#34;&gt;Zoom&lt;/a&gt;, Meeting ID: 960 9415 2189&lt;/li&gt;
+&lt;li&gt;You should be fully masked during any in-person interactions, including lectures, and office hours. You must wear a mask appropriately (i.e., over nose and mouth) and you must do this for every class session and for the entire duration of each class session. If you fail to do this, you will be politely reminded of the requirement and then asked to leave if you do not comply.&lt;/li&gt;
+&lt;li&gt;If you are sick, &lt;strong&gt;stay home&lt;/strong&gt;. If you are sick for two or more lectures, get in touch and we will work out how to accommodate any changes to the schedule.&lt;/li&gt;
+&lt;li&gt;This class will be held primarily in person. If you need to attend remotely for some time for health reasons, get in touch so we can work out the details. However, note that this is a synchronous class (no recordings).&lt;/li&gt;
+&lt;li&gt;Participation is a critical element of this class, &lt;strong&gt;but you will never be penalized for prioritizing your and others&#39; health&lt;/strong&gt;. Just stay in touch and we will work out the details.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;discussion-schedule-and-materials&#34;&gt;Discussion Schedule and Materials&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Date&lt;/th&gt;
-&lt;th&gt;Topic&lt;/th&gt;
-&lt;th&gt;Chapters to Read&lt;/th&gt;
-&lt;th&gt;Materials&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;08/07&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/discussion1.pdf&#34;&gt;Wireshark Tutorial, Packet Switching vs. Circuit Switching, Delays&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;1.4 - 1.5&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-dis1.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;08/14&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/discussion2.pdf&#34;&gt;Layering, HTTP, DNS, P2P&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;2.1 - 2.5&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-dis2.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;08/21&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/discussion3.pdf&#34;&gt;RDT, GBN, SR, TCP&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;3.4, 3.5&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-dis3.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;08/28&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/discussion4.pdf&#34;&gt;TCP Congestion Control, IP addressing, routing algorithms&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;3.7, 4.3&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-dis4.mp4&#34;&gt;Recording 1&lt;/a&gt;, &lt;a href=&#34;/files/cs132/summer2020/recording-dis4b.mp4&#34;&gt;Recording 2&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09/04&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/discussion5.pdf&#34;&gt;SDN, routing algorithms, Link-layer Addresing&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;4.4, 5.2, 5.5, 6.3&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/summer2020/recording-dis5.mp4&#34;&gt;Recording&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Discussion Sessions</title>
-      <link>/courses/cs132/discussions/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/cs132/discussions/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;D1: W 12:00-12:50p in &lt;a href=&#34;https://classrooms.uci.edu/classrooms/hh/hh-262/&#34; target=&#34;_blank&#34;&gt;HH 262&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;D2: W 1:00-1:50p in &lt;a href=&#34;https://classrooms.uci.edu/classrooms/hh/hh-262/&#34; target=&#34;_blank&#34;&gt;HH 262&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;D3: W 3:00- 3:50p in &lt;a href=&#34;https://classrooms.uci.edu/classrooms/sh/sh-174/&#34; target=&#34;_blank&#34;&gt;SH 174&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;D4: W 4:00- 4:50p in &lt;a href=&#34;https://classrooms.uci.edu/classrooms/sh/sh-174/&#34; target=&#34;_blank&#34;&gt;SH 174&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;D5: W 5:00- 5:50p in &lt;a href=&#34;https://classrooms.uci.edu/classrooms/se2/se2-1304/&#34; target=&#34;_blank&#34;&gt;SE2 1304&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;D6: W 6:00- 6:50p	in &lt;a href=&#34;https://classrooms.uci.edu/classrooms/se2/se2-1304/&#34; target=&#34;_blank&#34;&gt;SE2 1304&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ta-information&#34;&gt;TA Information&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Office hours (by appointment)&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;For resources during COVID 19 you can refer to the &lt;a href=&#34;https://covid19.umbc.edu/&#34; target=&#34;_blank&#34;&gt;UMBC&amp;rsquo;s COVID-19 website&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;umbc-policies&#34;&gt;UMBC Policies&lt;/h3&gt;
+&lt;h3 id=&#34;academic-integrity--conduct&#34;&gt;Academic Integrity &amp;amp; Conduct&lt;/h3&gt;
+&lt;p&gt;Students are expected to adhere to all university policies regarding student conduct, academic and otherwise, as posted on the University web site and in the Student Handbook. Academic dishonesty of any kind will be handled in accordance with University policy.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;By enrolling in this course, each student assumes the responsibilities of an active participant in UMBC&amp;rsquo;s scholarly community, in which everyone&amp;rsquo;s academic work and behavior are held to the highest standards of honesty. Cheating, fabrication, plagiarism, and helping others to commit these acts are all forms of academic dishonesty, and they are wrong. Academic misconduct could result in disciplinary action that may include, but is not limited to, suspension or dismissal. To read the full Student Academic Conduct Policy, consult the UMBC Student Handbook, the Faculty Handbook, or the UMBC Policies section of the UMBC Directory.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Statement adopted by UMBC&amp;rsquo;s Undergraduate Council and Provost&amp;rsquo;s Office.&lt;/p&gt;
+&lt;p&gt;If you think you may have accidentally broken a rule, come and talk to us about it. You will be much better off than if we discover it ourselves. Students who violate this academic integrity policy will at least receive a grade of 0 for that assignment, but might face a harsher penalty depending on how egregious the violation was. A second violation will also result in a reduction of one full letter grade in the student&amp;rsquo;s final course grade.&lt;/p&gt;
+&lt;p&gt;In the case where one student copies the program of another student, both students are considered to have violated this policy. Here, copying includes not just programs that are verbatim copies, but also programs that are substantially similar and could not have been produced independently. Furthermore, all parties concerned will have their prior homework and programs checked. Violations of this policy may be reported to the University&amp;rsquo;s Academic Conduct Committee for further action. Egregious cases of cheating will be written up as a &amp;lsquo;&amp;lsquo;more serious&amp;rsquo;&amp;rsquo; infraction. In this case, you will not be allowed to drop the course. Also, a &amp;lsquo;&amp;lsquo;more serious&amp;rsquo;&amp;rsquo; infraction would appear as a permanent part of your student record and would be seen by potential employers when they ask for an official copy of your transcript.&lt;/p&gt;
+&lt;h3 id=&#34;accessibility-and-disability-accommodations-guidance-and-resources&#34;&gt;Accessibility and Disability Accommodations, Guidance and Resources&lt;/h3&gt;
+&lt;p&gt;Support services for students with disabilities are provided for all students qualified under the Americans with Disabilities Act (ADA &amp;amp; ADAAA) and Section 504 of the Rehabilitation Act who request and are eligible for accommodations. The Office of StudentDisability Services (SDS) is the UMBC department designated to coordinate accommodations that would create equal access for students when barriers to participation exist in University courses, programs, or activities.&lt;/p&gt;
+&lt;p&gt;If you have a documented disability and need to request academic accommodations in your courses, please refer to the SDS website at &lt;a href=&#34;https://sds.umbc.edu/&#34; target=&#34;_blank&#34;&gt;sds.umbc.edu&lt;/a&gt; for registration information and office procedures.&lt;/p&gt;
+&lt;p&gt;SDS email: &lt;a href=&#34;mailto:disAbility@umbc.edu&#34;&gt;disAbility@umbc.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SDS phone: (410) 455-2459&lt;/p&gt;
+&lt;p&gt;If you will be using SDS approved accommodations in this class, please contact me (instructor) to discuss implementation of the accommodations. During remote instruction requirements due to COVID, communication and flexibility will be essential for success.&lt;/p&gt;
+&lt;h3 id=&#34;sexual-assault-sexual-harassment-and-gender-based-violence-and-discrimination&#34;&gt;Sexual Assault, Sexual Harassment, and Gender Based Violence and Discrimination&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://oei.umbc.edu/gender-discrimination-sexual-misconduct/&#34; target=&#34;_blank&#34;&gt;UMBC&lt;/a&gt; Policy and Federal law (Title IX) prohibit discrimination and harassment on the basis of sex, sexual orientation, and gender identity in University programs and activities. Any student who is impacted by sexual harassment, sexual assault, domestic violence, dating violence, stalking, sexual exploitation, gender discrimination, pregnancy discrimination, gender-based harassment or retaliation should contact the &lt;a href=&#34;https://oei.umbc.edu/title-ix-coordinator/&#34; target=&#34;_blank&#34;&gt;University’s Title IX Coordinator&lt;/a&gt; to make a report and/or access support and resources:&lt;/p&gt;
+&lt;p&gt;Mikhel A. Kushner, Title IX Coordinator (she/they)&lt;/p&gt;
+&lt;p&gt;410-455-1250 (direct line), &lt;a href=&#34;mailto:kushner@umbc.edu&#34;&gt;kushner@umbc.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can access support and resources even if you do not want to take any further action.You will not be forced to file a formal complaint or police report. Please be aware that the University may take action on its own if essential to protect the safety of the community.If you are interested in or thinking about making a report, please use theOnline Reporting/Referral Form. Please note that, if you report anonymously,the University’s ability to respond will be limited.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notice that Faculty are Responsible Employees with Mandatory Reporting Obligations:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;All faculty members are consideredResponsible Employees, per &lt;a href=&#34;https://oei.umbc.edu/policy-on-sexual-misconduct-sexual-harassment-and-gender-discrimination/&#34; target=&#34;_blank&#34;&gt;UMBC’s Policy on Sexual Misconduct, Sexual Harassment, and Gender Discrimination&lt;/a&gt;. Faculty are therefore required to report any/ all available information regarding conduct falling under the Policy and violations of the Policy to the Title IX Coordinator, even if a student discloses an experience that occurred before attending UMBC and/or an incident that only involves people not affiliated with UMBC.Reports are required regardless of the amount of detail provided and even in instances where support has already been offered or received.&lt;/p&gt;
+&lt;p&gt;While faculty members want encourage you to share information related to your life experiences through discussion and written work, students should understand that faculty are required to reportpast and presentsexual assault, domestic and interpersonal violence, stalking, and gender discrimination that isshared with them to the Title IX Coordinator so that the University can inform students of their &lt;a href=&#34;https://oei.umbc.edu/rights-and-resources/&#34; target=&#34;_blank&#34;&gt;rights, resources and support&lt;/a&gt;. While you are encouraged to do so, you are not obligated to respond to outreach conducted as a result of a report to the Title IX Coordinator.&lt;/p&gt;
+&lt;p&gt;If you need to speak with someone in confidence, who does not have an obligation to report to the Title IX Coordinator, UMBC has a number of  &lt;a href=&#34;https://oei.umbc.edu/policy-on-sexual-misconduct-sexual-harassment-and-gender-discrimination/#confidential-resources&#34; target=&#34;_blank&#34;&gt;Confidential Resources&lt;/a&gt; available to support you:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Milad Asgari [masgarim at uci dot edu]: Wed 3:00-4:00p, 4506 @ calit2&lt;/li&gt;
-&lt;li&gt;Kunchao Xu [kunchaox at uci dot edu]: Fri 10:30-11:30a, ICS2 215&lt;/li&gt;
-&lt;li&gt;Peyman Tehrani [peymant at uci dot edu]: Thu 10:00-11:00a, ICS2 215&lt;/li&gt;
-&lt;li&gt;Esmerald Aliaj [ealiaj at uci dot edu]: Mon 10:00-11:00a, ICS2 214&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://counseling.umbc.edu/&#34; target=&#34;_blank&#34;&gt;The Counseling Center&lt;/a&gt; (Main Campus): 410-455-2472 / After-Hours 410-455-3230 [Monday–Friday; 8:30 a.m.–5 p.m.]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shadygrove.umd.edu/student-services/center-for-counseling-and-consultation&#34; target=&#34;_blank&#34;&gt;Center for Counseling and Consultation&lt;/a&gt; (Shady Grove Campus): 301-738-6273 (Messages checked hourly) &lt;a href=&#34;https://shadygrove.titaniumhwc.com/&#34; target=&#34;_blank&#34;&gt;Online Appointment Request Form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://uhs.umbc.edu/&#34; target=&#34;_blank&#34;&gt;University Health Services&lt;/a&gt;: 410-455-2542 [Monday–Friday 8:30 a.m.–5 p.m.]&lt;/li&gt;
+&lt;li&gt;Pastoral Counseling via &lt;a href=&#34;https://i3b.umbc.edu/spaces/the-interfaith-center-ifc/&#34; target=&#34;_blank&#34;&gt;Interfaith Center&lt;/a&gt;: 410-455-3657; &lt;a href=&#34;mailto:interfaith@umbc.edu&#34;&gt;interfaith@umbc.edu&lt;/a&gt; [7 days a week; Fall and Spring 7 a.m.–11 p.m.; Summer and Winter 8 a.m.–8 p.m.]&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;discussion-schedule-and-materials&#34;&gt;Discussion Schedule and Materials&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Date&lt;/th&gt;
-&lt;th&gt;Topic&lt;/th&gt;
-&lt;th&gt;Chapters to Read&lt;/th&gt;
-&lt;th&gt;Materials&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;01/15&lt;/td&gt;
-&lt;td&gt;Wireshark Tutorial, Packet Switching vs. Circuit Switching, Delays&lt;/td&gt;
-&lt;td&gt;1.4 - 1.5&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/discussion-week2.pdf&#34;&gt;Slides&lt;/a&gt;, &lt;a href=&#34;/files/cs132/wireshark.pdf&#34;&gt;Wireshark&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;01/22&lt;/td&gt;
-&lt;td&gt;Socket Programming, Layering, HTTP&lt;/td&gt;
-&lt;td&gt;2.1 - 2.2&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/discussion-week3.pdf&#34;&gt;Slides&lt;/a&gt;, &lt;a href=&#34;/files/cs132/code.zip&#34;&gt;Code&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;01/29&lt;/td&gt;
-&lt;td&gt;DNS, SMTP&lt;/td&gt;
-&lt;td&gt;2.3 - 2.4&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/discussion-week4.pdf&#34;&gt;Slides&lt;/a&gt;, &lt;a href=&#34;/files/cs132/dnsExample.py&#34;&gt;Code&lt;/a&gt;, &lt;a href=&#34;/files/cs132/lab1.pcapng&#34;&gt;Lab&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;02/05&lt;/td&gt;
-&lt;td&gt;P2P, RDT, GBN&lt;/td&gt;
-&lt;td&gt;2.5, 3.4&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/discussion-week5.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;02/12&lt;/td&gt;
-&lt;td&gt;GBN, SR, TCP&lt;/td&gt;
-&lt;td&gt;3.4, 3.5&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/discussion-week6.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;02/19&lt;/td&gt;
-&lt;td&gt;Midterm solutions&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;02/26&lt;/td&gt;
-&lt;td&gt;TCP Congestion Control, IP addressing&lt;/td&gt;
-&lt;td&gt;3.7, 4.3&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/discussion-week8.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;03/04&lt;/td&gt;
-&lt;td&gt;SDN, routing algorithms&lt;/td&gt;
-&lt;td&gt;4.4, 5.2, 5.5&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/discussion-week9.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;03/11&lt;/td&gt;
-&lt;td&gt;Slotted ALOHA, Link-layer Addresing, ARP, Switches&lt;/td&gt;
-&lt;td&gt;6.3, 6.4&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/cs132/discussion-week10.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;Other Resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://womenscenter.umbc.edu/&#34; target=&#34;_blank&#34;&gt;Women’s Center&lt;/a&gt; (for students of all genders): 410-455-2714; &lt;a href=&#34;mailto:womenscenter@umbc.edu&#34;&gt;womenscenter@umbc.edu&lt;/a&gt; . [Monday –Thursday 9:30am-6pm and Friday 9:30am-4pm]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oei.umbc.edu/shady-grove-title-ix-resources/&#34; target=&#34;_blank&#34;&gt;Shady Grove Student Resources&lt;/a&gt;, &lt;a href=&#34;https://oei.umbc.edu/maryland-resources/&#34; target=&#34;_blank&#34;&gt;Maryland Resources&lt;/a&gt;, &lt;a href=&#34;https://oei.umbc.edu/national-resources/&#34; target=&#34;_blank&#34;&gt;National Resources&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Child Abuse and Neglect: Please note that Maryland law and &lt;a href=&#34;https://oei.umbc.edu/child-protection/&#34; target=&#34;_blank&#34;&gt;UMBC policy&lt;/a&gt; require that faculty report all disclosures or suspicions of child abuse or neglect to the Department of Social Services and/or the police.&lt;/p&gt;
+&lt;h3 id=&#34;additional-policies&#34;&gt;Additional Policies&lt;/h3&gt;
+&lt;p&gt;Additional policies on pregnant and parenting students; religious observances and accommodation; and hate, bias, discrimination and harassment can be found on the &lt;a href=&#34;https://oei.umbc.edu/sample-title-ix-responsible-employee-syllabus-language/&#34; target=&#34;_blank&#34;&gt;Office of Equity and Inclusion site&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -706,16 +387,16 @@ the system recognizes faces on it, checks policies it has received, and obscures
       <link>/project/semiotic/</link>
       <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/project/semiotic/</guid>
-      <description>&lt;p&gt;SemIoTic is a middleware framework for IoT smart spaces that provides application developers and end-users with a semantic domain-relevant view of a smart space
-while hiding the complexity of having to deal with/understand lower-level information generated by sensors and actuators. SemIoTic uses a metamodel based on the popular
-SOSA/SSN ontology with some extensions to represent relationships between the low-level IoT devices&#39; world (i.e., devices, observations) and semantic concepts
-(i.e., observable attributes of users and spaces). It supports a language where users can express their action requirements (i.e., requests for sensor data, commands
-for actuators, and privacy preferences) in terms of user-friendly high-level concepts. We present an ontology-based algorithmic approach to translate user-defined actions
+      <description>&lt;p&gt;SemIoTic is a middleware framework for IoT smart spaces that provides application developers and end-users with a semantic domain-relevant view of a smart space 
+while hiding the complexity of having to deal with/understand lower-level information generated by sensors and actuators. SemIoTic uses a metamodel based on the popular 
+SOSA/SSN ontology with some extensions to represent relationships between the low-level IoT devices&#39; world (i.e., devices, observations) and semantic concepts 
+(i.e., observable attributes of users and spaces). It supports a language where users can express their action requirements (i.e., requests for sensor data, commands 
+for actuators, and privacy preferences) in terms of user-friendly high-level concepts. We present an ontology-based algorithmic approach to translate user-defined actions 
 into sensor/actuators commands. Finally, our end-to-end approach includes a cross-layer solution to provide interoperability with diverse IoT devices and their data exchange protocols.&lt;/p&gt;
-&lt;p&gt;Several instances of SemIoTic have been deployed and used in IoT spaces. At the Donald Bren Hall building of UC Irvine, building occupants
+&lt;p&gt;Several instances of SemIoTic have been deployed and used in IoT spaces. At the Donald Bren Hall building of UC Irvine, building occupants 
 have access to Concierge and Building Analytics smart applications and building administrators have access to a Contact Tracing Application to help combat the spread of COVID-19.
-Also, SemIoTic has been deployed inside a navy ship from the Naval Information Warfare Center (NIWC)
-in the context of the Trident Warrior exercise 2019/2020. SemIoTic enabled testing of applications such as occupancy analysis in multiple
+Also, SemIoTic has been deployed inside a navy ship from the Naval Information Warfare Center (NIWC) 
+in the context of the Trident Warrior exercise 2019/2020. SemIoTic enabled testing of applications such as occupancy analysis in multiple 
 regions of the ship.&lt;/p&gt;
 &lt;h4 id=&#34;useful-links-and-references&#34;&gt;Useful links and references&lt;/h4&gt;
 &lt;ul&gt;
