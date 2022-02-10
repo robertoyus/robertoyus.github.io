@@ -66,9 +66,9 @@
 &lt;tr&gt;
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;2/9&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Privacy Enhancing Technologies&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L03.pdf&#34; target=&#34;_blank&#34;&gt;Privacy Enhancing Technologies&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
 &lt;td&gt;Roberto Yus&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cdeiuk.github.io/pets-adoption-guide/&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;5&lt;/td&gt;
@@ -199,28 +199,28 @@
 &lt;tr&gt;
 &lt;td&gt;22&lt;/td&gt;
 &lt;td&gt;4/20&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Privacy in IoT Environments&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Federated Learning&lt;/div&gt;&lt;/td&gt;
 &lt;td&gt;Roberto Yus&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;23&lt;/td&gt;
 &lt;td&gt;4/25&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PAPER DISCUSSION: Privacy in IoT Environments&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PAPER DISCUSSION: Federated Learning&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;24&lt;/td&gt;
 &lt;td&gt;4/27&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Privacy in ML&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Privacy in IoT Environments&lt;/div&gt;&lt;/td&gt;
 &lt;td&gt;Roberto Yus&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;25&lt;/td&gt;
 &lt;td&gt;5/2&lt;/td&gt;
-&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PAPER DISCUSSION: Privacy in ML&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PAPER DISCUSSION: Privacy in IoT Environments&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -306,6 +306,19 @@
 &lt;p&gt;Child Abuse and Neglect: Please note that Maryland law and &lt;a href=&#34;https://oei.umbc.edu/child-protection/&#34; target=&#34;_blank&#34;&gt;UMBC policy&lt;/a&gt; require that faculty report all disclosures or suspicions of child abuse or neglect to the Department of Social Services and/or the police.&lt;/p&gt;
 &lt;h3 id=&#34;additional-policies&#34;&gt;Additional Policies&lt;/h3&gt;
 &lt;p&gt;Additional policies on pregnant and parenting students; religious observances and accommodation; and hate, bias, discrimination and harassment can be found on the &lt;a href=&#34;https://oei.umbc.edu/sample-title-ix-responsible-employee-syllabus-language/&#34; target=&#34;_blank&#34;&gt;Office of Equity and Inclusion site&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graded Student Work</title>
+      <link>/courses/cmsc491-691-dataprivacy-spring22/work/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/cmsc491-691-dataprivacy-spring22/work/</guid>
+      <description>&lt;h3 id=&#34;group-project&#34;&gt;Group Project&lt;/h3&gt;
+&lt;p&gt;Students will work on one project in groups of 3-4. The goal is to identify an interesting question/problem in handling individuals&#39; data taking their privacy into account. The topic of the project can be picked by the student groups after discussion with the instructor. Example topics include the incorporation of a Privacy Enhancing Technique to an existing process/domain, analysis of potential privacy leakage in an existing system, etc. &lt;em&gt;You need to justify that the topic is interesting, relevant to the course, of suitable difficulty&lt;/em&gt;. A group report shall be submitted per project and each student will need to clearly articulate their concrete contribution in the group project. Each group will present their project to the rest of the class in their allotted final presentation slot.&lt;/p&gt;
+&lt;h3 id=&#34;mini-critiques&#34;&gt;Mini-critiques&lt;/h3&gt;
+&lt;p&gt;Each student will individually submit a mini-critique for several papers that will be discussed in class. A mini-critique is like a peer-review at a conference and at the very least should have: (i) Summary: Motivation + Problem + Approach + Result, (ii) 3 Strengths, and (iii) 3 Weaknesses. 4 students will be assigned to lead the discussion of each paper. To foster critical thinking, the students will play the &amp;ldquo;bad/good cop&amp;rdquo; role and argue the paper&amp;rsquo;s strengths/weakness to the rest of the class.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t have experience reviewing papers, the following guides will be very helpful (&lt;a href=&#34;https://authorservices.wiley.com/Reviewers/journal-reviewers/how-to-perform-a-peer-review/step-by-step-guide-to-reviewing-a-manuscript.html&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;,&lt;a href=&#34;https://sigmodrecord.org/publications/sigmodRecord/0812/p100.open.cormode.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt;,&lt;a href=&#34;http://ccr.sigcomm.org/online/files/p47-v38n2i-allman.pdf&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt;,&lt;a href=&#34;http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf&#34; target=&#34;_blank&#34;&gt;[4]&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
