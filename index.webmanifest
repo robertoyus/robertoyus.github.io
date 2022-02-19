@@ -2,8 +2,8 @@
   "name": "Roberto Yus",
   "short_name": "Roberto Yus",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#d84e4b",
+  "background_color": "#d84e4b",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
