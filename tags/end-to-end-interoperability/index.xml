@@ -5,12 +5,20 @@
     <link>/tags/end-to-end-interoperability/</link>
       <atom:link href="/tags/end-to-end-interoperability/index.xml" rel="self" type="application/rss+xml" />
     <description>End-to-end interoperability</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>End-to-end interoperability</title>
       <link>/tags/end-to-end-interoperability/</link>
     </image>
+    
+    <item>
+      <title>The SemIoTic Ecosystem: A Semantic Bridge between IoT Devices and Smart Spaces</title>
+      <link>/publication/acmtoit-2022/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/acmtoit-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Abstracting Interactions with IoT Devices Towards a Semantic Vision of Smart Spaces</title>

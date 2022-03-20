@@ -5,12 +5,28 @@
     <link>/authors/nalini-venkatasubramanian/</link>
       <atom:link href="/authors/nalini-venkatasubramanian/index.xml" rel="self" type="application/rss+xml" />
     <description>Nalini Venkatasubramanian</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Nalini Venkatasubramanian</title>
       <link>/authors/nalini-venkatasubramanian/</link>
     </image>
+    
+    <item>
+      <title>The SemIoTic Ecosystem: A Semantic Bridge between IoT Devices and Smart Spaces</title>
+      <link>/publication/acmtoit-2022/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/acmtoit-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartSPEC: Customizable Smart Space Datasets via Event-Driven Simulations</title>
+      <link>/publication/percom-2022/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LOCATER: Cleaning WiFi Connectivity Datasets for Semantic Localization</title>

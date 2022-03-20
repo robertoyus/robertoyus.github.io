@@ -37,8 +37,133 @@
   </url>
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/active/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-management/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/end-to-end-interoperability/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/georgios-bouloukakis/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/internet-of-things/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/middleware/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nalini-venkatasubramanian/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/open-apis/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/semantic-interoperability/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sharad-mehrotra/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/smart-buildings/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/smartspec/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/acmtoit-2022/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-chio/</loc>
+    <lastmod>2022-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daokun-jiang/</loc>
+    <lastmod>2022-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peeyush-gupta/</loc>
+    <lastmod>2022-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2022-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/percom-2022/</loc>
+    <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -62,47 +187,7 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/andrew-chio/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/daokun-jiang/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/yiming-lin/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/data-management/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/georgios-bouloukakis/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/internet-of-things/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -112,37 +197,7 @@
   </url>
   
   <url>
-    <loc>/authors/nalini-venkatasubramanian/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sharad-mehrotra/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/dhrubajyoti-ghosh/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/peeyush-gupta/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -209,11 +264,6 @@
   <url>
     <loc>/authors/shantanu-sharma/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -332,31 +382,6 @@
   </url>
   
   <url>
-    <loc>/tags/end-to-end-interoperability/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/middleware/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/open-apis/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/semantic-interoperability/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/smart-buildings/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/eun-jeong-shin/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
@@ -374,11 +399,6 @@
   <url>
     <loc>/authors/sumaya-almanee/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/active/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -403,11 +423,6 @@
   
   <url>
     <loc>/tags/multimedia/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2019-08-23T00:00:00+00:00</lastmod>
   </url>
   

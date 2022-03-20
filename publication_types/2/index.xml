@@ -5,12 +5,20 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>The SemIoTic Ecosystem: A Semantic Bridge between IoT Devices and Smart Spaces</title>
+      <link>/publication/acmtoit-2022/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/acmtoit-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Transitioning from testbeds to ships: an experience study in deploying the TIPPERS Internet of Things platform to the US Navy</title>

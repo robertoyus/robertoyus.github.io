@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Yus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Roberto Yus</title>
@@ -320,6 +320,35 @@
 &lt;p&gt;Each student will individually submit a mini-critique for several papers that will be discussed in class. A mini-critique is like a peer-review at a conference and at the very least should have: (i) Summary: Motivation + Problem + Approach + Result, (ii) 3 Strengths, and (iii) 3 Weaknesses. 4 students will be assigned to lead the discussion of each paper. To foster critical thinking, the students will play the &amp;ldquo;bad/good cop&amp;rdquo; role and argue the paper&amp;rsquo;s strengths/weakness to the rest of the class.&lt;/p&gt;
 &lt;p&gt;If you don&amp;rsquo;t have experience reviewing papers, the following guides will be very helpful (&lt;a href=&#34;https://authorservices.wiley.com/Reviewers/journal-reviewers/how-to-perform-a-peer-review/step-by-step-guide-to-reviewing-a-manuscript.html&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;,&lt;a href=&#34;https://sigmodrecord.org/publications/sigmodRecord/0812/p100.open.cormode.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt;,&lt;a href=&#34;http://ccr.sigcomm.org/online/files/p47-v38n2i-allman.pdf&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt;,&lt;a href=&#34;http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf&#34; target=&#34;_blank&#34;&gt;[4]&lt;/a&gt;).&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>SmartSpec</title>
+      <link>/project/smartspec/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/project/smartspec/</guid>
+      <description>&lt;p&gt;SmartSPEC is a smart space simulator and data generator that creates customizable smart space datasets using semantic models of spaces, people, events and sensors. We employ ML-based approaches to characterize and learn attributes of the embedded people and events in a sensorized space and apply an event-driven simulation strategy to generate realistic simulated data about the space (events, trajectories, sensor datasets, etc.).&lt;/p&gt;
+&lt;p&gt;The SmartSPEC architecture consists of two main components:&lt;/p&gt;
+&lt;p&gt;Scenario Learning, which uses input seed connectivity data and a priori knowledge of the underlying space and sensors to learn high-order concepts of events, people and trajectories, which we refer to as &amp;ldquo;metaevents&amp;rdquo;, &amp;ldquo;metapeople&amp;rdquo; and &amp;ldquo;metatrajectories&amp;rdquo;, respectively; and&lt;/p&gt;
+&lt;p&gt;Scenario Generation, which takes SmartSPEC data to generate a synthetic dataset from which a smart space dataset (e.g., trajectory dataset, sensor observation dataset, etc.) can be derived. We use the variations of the data models described below to define various scenarios, which drives the generation of new observable phenomena in the smart space.&lt;/p&gt;
+&lt;h4 id=&#34;useful-links-and-references&#34;&gt;Useful links and references&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The SemIoTic Ecosystem: A Semantic Bridge between IoT Devices and Smart Spaces</title>
+      <link>/publication/acmtoit-2022/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/acmtoit-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartSPEC: Customizable Smart Space Datasets via Event-Driven Simulations</title>
+      <link>/publication/percom-2022/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-2022/</guid>
+      <description></description>
     </item>
     
     <item>
