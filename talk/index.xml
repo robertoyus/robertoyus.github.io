@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Mar 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jul 2022 18:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>(Don’t) Mind the Gap: Bridging the Worlds of People and IoT Devices</title>
+      <link>/talk/dataworks-md-2022/</link>
+      <pubDate>Thu, 21 Jul 2022 18:00:00 +0000</pubDate>
+      <guid>/talk/dataworks-md-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>(Don’t) Mind the Gap: Bridging the Worlds of People and IoT Devices</title>

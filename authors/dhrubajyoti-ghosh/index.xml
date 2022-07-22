@@ -5,12 +5,20 @@
     <link>/authors/dhrubajyoti-ghosh/</link>
       <atom:link href="/authors/dhrubajyoti-ghosh/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Yus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Roberto Yus</title>
       <link>/authors/dhrubajyoti-ghosh/</link>
     </image>
+    
+    <item>
+      <title>JENNER: Just-in-time Enrichment in Query Processing</title>
+      <link>/publication/vldb-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/vldb-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Privacy-Enabled Platform for COVID-19 Applications</title>

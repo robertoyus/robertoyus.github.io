@@ -41,6 +41,21 @@
   </url>
   
   <url>
+    <loc>/talk/dataworks-md-2022/</loc>
+    <lastmod>2022-07-21T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2022-07-21T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-07-21T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
@@ -111,11 +126,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/semantic-interoperability/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
@@ -171,17 +181,27 @@
   </url>
   
   <url>
+    <loc>/authors/dhrubajyoti-ghosh/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/vldb-2022/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yasser-altowim/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/umbc-2021/</loc>
-    <lastmod>2021-03-23T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2021-03-23T13:00:00+00:00</lastmod>
   </url>
   
@@ -198,11 +218,6 @@
   <url>
     <loc>/publication/vldb3-2020/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/dhrubajyoti-ghosh/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
