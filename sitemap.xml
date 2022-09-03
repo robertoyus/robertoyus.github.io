@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/cmsc331/</loc>
+    <loc>/courses/cmsc331-fall-2022/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/cmsc331-fall-2021/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -41,6 +46,121 @@
   </url>
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/boian-s.-alexandrov/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/charles-nicholas/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/luke-e.-richards/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/maksim-e.-eren/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/manish-bhattarai/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nicholas-solovyev/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/icmla-2022/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/privacy/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peeyush-gupta/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-management/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/internet-of-things/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nalini-venkatasubramanian/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cikm-2022/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shantanu-sharma/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sharad-mehrotra/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/dataworks-md-2022/</loc>
     <lastmod>2022-07-21T18:00:00+00:00</lastmod>
   </url>
@@ -48,16 +168,6 @@
   <url>
     <loc>/talk/</loc>
     <lastmod>2022-07-21T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2022-07-21T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -76,32 +186,12 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/data-management/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/end-to-end-interoperability/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/internet-of-things/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/middleware/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nalini-venkatasubramanian/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -116,22 +206,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/semantic-interoperability/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sharad-mehrotra/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -142,11 +217,6 @@
   
   <url>
     <loc>/project/smartspec/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -162,16 +232,6 @@
   
   <url>
     <loc>/authors/daokun-jiang/</loc>
-    <lastmod>2022-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/peeyush-gupta/</loc>
-    <lastmod>2022-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,11 +253,6 @@
   <url>
     <loc>/authors/yasser-altowim/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -271,17 +326,7 @@
   </url>
   
   <url>
-    <loc>/tags/privacy/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/shanshan-han/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/shantanu-sharma/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   

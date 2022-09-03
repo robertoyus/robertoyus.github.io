@@ -5,12 +5,28 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>One-Shot Federated Group Collaborative Filtering</title>
+      <link>/publication/icmla-2022/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/icmla-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentaur: Sensor Observable Data Model for Smart Spaces</title>
+      <link>/publication/cikm-2022/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/cikm-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SmartSPEC: Customizable Smart Space Datasets via Event-Driven Simulations</title>

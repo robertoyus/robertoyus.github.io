@@ -5,12 +5,20 @@
     <link>/authors/nalini-venkatasubramanian/</link>
       <atom:link href="/authors/nalini-venkatasubramanian/index.xml" rel="self" type="application/rss+xml" />
     <description>Nalini Venkatasubramanian</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Nalini Venkatasubramanian</title>
       <link>/authors/nalini-venkatasubramanian/</link>
     </image>
+    
+    <item>
+      <title>Sentaur: Sensor Observable Data Model for Smart Spaces</title>
+      <link>/publication/cikm-2022/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/cikm-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The SemIoTic Ecosystem: A Semantic Bridge between IoT Devices and Smart Spaces</title>
