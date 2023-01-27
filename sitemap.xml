@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/courses/cmsc491-691-dataprivacy-spring23/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/cmsc491-691-dataprivacy-spring23/announcements/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/cmsc331-fall-2022/</loc>
     <lastmod>2022-08-25T00:00:00+00:00</lastmod>
   </url>
@@ -23,6 +33,11 @@
   </url>
   
   <url>
+    <loc>/courses/cmsc491-691-dataprivacy-spring23/outline/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/cmsc491-691-dataprivacy-spring22/outline/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -33,7 +48,17 @@
   </url>
   
   <url>
+    <loc>/courses/cmsc491-691-dataprivacy-spring23/policies/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/cmsc491-691-dataprivacy-spring22/work/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/cmsc491-691-dataprivacy-spring23/work/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -43,6 +68,16 @@
   
   <url>
     <loc>/service/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -111,18 +146,8 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2022-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>

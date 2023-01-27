@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CMSC 491 / 691 Data Privacy - Spring 2023 | Roberto Yus</title>
+    <link>/courses/cmsc491-691-dataprivacy-spring23/</link>
+      <atom:link href="/courses/cmsc491-691-dataprivacy-spring23/index.xml" rel="self" type="application/rss+xml" />
+    <description>CMSC 491 / 691 Data Privacy - Spring 2023</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>CMSC 491 / 691 Data Privacy - Spring 2023</title>
+      <link>/courses/cmsc491-691-dataprivacy-spring23/</link>
+    </image>
+    
+    <item>
+      <title>Announcements</title>
+      <link>/courses/cmsc491-691-dataprivacy-spring23/announcements/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/courses/cmsc491-691-dataprivacy-spring23/announcements/</guid>
+      <description>&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;markup-quote&#34;&gt;01/26/2023&lt;/span&gt;: The website is up.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>/courses/cmsc491-691-dataprivacy-spring23/outline/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/courses/cmsc491-691-dataprivacy-spring23/outline/</guid>
+      <description>&lt;p&gt;Except for the project presentations, the remainder of the timeline should be considered somewhat fluid in order to allow us to adapt to any unanticipated events (especially w.r.t. the invited talks). The specific dates will become much more firm as we get closer to the relevant time period.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Lecture&lt;/th&gt;
+&lt;th&gt;&lt;div style=&#34;width:40px&#34;&gt;Date&lt;/div&gt;&lt;/th&gt;
+&lt;th&gt;&lt;div style=&#34;width:150px&#34;&gt;Topic&lt;/div&gt;&lt;/th&gt;
+&lt;th&gt;&lt;div style=&#34;width:100px&#34;&gt;Presenter&lt;/div&gt;&lt;/th&gt;
+&lt;th&gt;Readings&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1/30&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L00.pdf&#34; target=&#34;_blank&#34;&gt;Introduction&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2/1&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L01.pdf&#34; target=&#34;_blank&#34;&gt;Data Privacy &amp;amp; Privacy Regulations&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.nytimes.com/2006/08/09/technology/09aol.html&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1951416&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;2/6&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L02.pdf&#34; target=&#34;_blank&#34;&gt;Privacy by Design&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;http://carmelatroncoso.com/papers/Gurses-APC15.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2/8&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L03.pdf&#34; target=&#34;_blank&#34;&gt;Privacy Enhancing Technologies&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cdeiuk.github.io/pets-adoption-guide/&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;2/13&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PAPER DISCUSSION: Understanding and Benchmarking the Impact of GDPR on Database Systems&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.vldb.org/pvldb/vol13/p1064-shastri.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;2/15&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L04.pdf&#34; target=&#34;_blank&#34;&gt;Usable Privacy &amp;amp; Informed Consent&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://lorrie.cranor.org/pubs/readingPolicyCost-authorDraft.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;https://www.w3.org/P3P/&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;2/20&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;INVITED TALK: USABLE PRIVACY&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;2/22&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PAPER DISCUSSION: Your Location has been Shared 5,398 Times! A Field Study on Mobile App Privacy Nudging&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.cs.cmu.edu/afs/cs/Web/People/halmuhim/MobileAppPrivacyNudging_CHI2015.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;2/27&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L05.pdf&#34; target=&#34;_blank&#34;&gt;Access Control&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.cs.nmt.edu/~doshin/t/s06/cs589/pub/0.Sandhu.AC.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;https://www.cse.iitb.ac.in/~sudarsha/Pubs-dir/nontruman-sigmod04.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;3/1&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L05.pdf&#34; target=&#34;_blank&#34;&gt;Access Control&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;3/6&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;INVITED TALK: ACCESS CONTROL&lt;/em&gt; &lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;3/8&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L06.pdf&#34; target=&#34;_blank&#34;&gt;k-anonymity and de-anonymization attacks&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.cs.ubc.ca/~laks/cpsc504/kanonymity.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;https://www.cs.uml.edu/~ge/pdf/papers_685-2-1/ldiversity-icde06.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; &lt;a href=&#34;https://www.cs.purdue.edu/homes/ninghui/papers/t_closeness_icde07.pdf&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;3/13&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L06.pdf&#34; target=&#34;_blank&#34;&gt;k-anonymity and de-anonymization attacks&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.cs.ubc.ca/~laks/cpsc504/kanonymity.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;https://www.cs.uml.edu/~ge/pdf/papers_685-2-1/ldiversity-icde06.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; &lt;a href=&#34;https://www.cs.purdue.edu/homes/ninghui/papers/t_closeness_icde07.pdf&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;3/15&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PAPER DISCUSSION: Situational Access Control in the Internet of Things&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cs.uwaterloo.ca/~yaafer/teaching/papers/shmat_ccs18.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;no class (Spring Break)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;3/27&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L07.pdf&#34; target=&#34;_blank&#34;&gt;Differential Privacy&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://desfontain.es/privacy/us-census-reconstruction-attack.html&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;http://theory.stanford.edu/seclab/sem-03-04/psd.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; &lt;a href=&#34;https://www.microsoft.com/en-us/research/wp-content/uploads/2008/04/dwork_tamc.pdf&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt; &lt;a href=&#34;https://git.gnunet.org/bibliography.git/plain/docs/Choosing-%CE%B5-2011Lee.pdf&#34; target=&#34;_blank&#34;&gt;[4]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;3/29&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L07.pdf&#34; target=&#34;_blank&#34;&gt;Differential Privacy&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://desfontain.es/privacy/us-census-reconstruction-attack.html&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;http://theory.stanford.edu/seclab/sem-03-04/psd.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; &lt;a href=&#34;https://www.microsoft.com/en-us/research/wp-content/uploads/2008/04/dwork_tamc.pdf&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt; &lt;a href=&#34;https://git.gnunet.org/bibliography.git/plain/docs/Choosing-%CE%B5-2011Lee.pdf&#34; target=&#34;_blank&#34;&gt;[4]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;4/3&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PAPER DISCUSSION: The U.S. Census Bureau Adopts Differential Privacy&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3219819.3226070&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;https://www.usenix.org/sites/default/files/conference/protected-files/enigma2021_slides_garfinkel.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/pdf/1809.02201.pdf&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt; &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7216402/&#34; target=&#34;_blank&#34;&gt;[4]&lt;/a&gt; &lt;a href=&#34;https://github.com/uscensusbureau/census2020-das-2010ddp/blob/master/doc/20191020_1843_Consistency_for_Large_Scale_Differentially_Private_Histograms.pdf&#34; target=&#34;_blank&#34;&gt;[5]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;4/5&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;INVITED TALK: DIFFERENTIAL PRIVACY&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;4/10&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L08.pdf&#34; target=&#34;_blank&#34;&gt;Secure Multi-Party Computation&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://bitsavers.retropc.se/pdf/mit/lcs/tr/MIT-LCS-TR-682.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;http://wpage.unina.it/pieroandrea.bonatti/didattica/security/galdi/secret-shamir.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; &lt;a href=&#34;https://www.iacr.org/museum/rabin-obt/obtrans-eprint187.pdf&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt; &lt;a href=&#34;https://sharemind.cyber.ee/tax-vat-fraud/&#34; target=&#34;_blank&#34;&gt;[4]&lt;/a&gt; &lt;a href=&#34;https://thebwwc.org/mpc&#34; target=&#34;_blank&#34;&gt;[5]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;4/12&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L08.pdf&#34; target=&#34;_blank&#34;&gt;Secure Multi-Party Computation&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://bitsavers.retropc.se/pdf/mit/lcs/tr/MIT-LCS-TR-682.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;http://wpage.unina.it/pieroandrea.bonatti/didattica/security/galdi/secret-shamir.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; &lt;a href=&#34;https://www.iacr.org/museum/rabin-obt/obtrans-eprint187.pdf&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt; &lt;a href=&#34;https://sharemind.cyber.ee/tax-vat-fraud/&#34; target=&#34;_blank&#34;&gt;[4]&lt;/a&gt; &lt;a href=&#34;https://thebwwc.org/mpc&#34; target=&#34;_blank&#34;&gt;[5]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;4/17&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PAPER DISCUSSION: Sharemind: a framework for fast privacy-preserving computations&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://eprint.iacr.org/2008/289.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;td&gt;4/19&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;INVITED TALK: SECURE COMPUTING&lt;/em&gt; &lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;td&gt;4/24&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L09.pdf&#34; target=&#34;_blank&#34;&gt;Edge Computing &amp;amp; Federated Learning&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/ftp/arxiv/papers/2008/2008.03252.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/1908.07873&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; &lt;a href=&#34;https://cybersecurity.springeropen.com/articles/10.1186/s42400-021-00105-6&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2011.11819&#34; target=&#34;_blank&#34;&gt;[4]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;4/26&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt; &lt;div style=&#34;width:400px&#34;&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;a href=&#34;/files/dataPrivacyNotes/L09.pdf&#34; target=&#34;_blank&#34;&gt;Edge Computing &amp;amp; Federated Learning&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;Roberto Yus&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/ftp/arxiv/papers/2008/2008.03252.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/1908.07873&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; &lt;a href=&#34;https://cybersecurity.springeropen.com/articles/10.1186/s42400-021-00105-6&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2011.11819&#34; target=&#34;_blank&#34;&gt;[4]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;td&gt;5/1&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PAPER DISCUSSION: Anonymizing Data for Privacy-Preserving Federated Learning&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/pdf/2002.09096.pdf&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;td&gt;5/3&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;Data Privacy catch-up and discussion&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;td&gt;5/8&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PROJECT PRESENTATIONS I&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;28&lt;/td&gt;
+&lt;td&gt;5/10&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PROJECT PRESENTATIONS II&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;29&lt;/td&gt;
+&lt;td&gt;5/15&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;em&gt;PROJECT PRESENTATIONS III&lt;/em&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;5/22&lt;/td&gt;
+&lt;td&gt;&lt;div style=&#34;width:400px&#34;&gt;&amp;ndash;&amp;gt;PROJECT REPORT DUE&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Policies</title>
+      <link>/courses/cmsc491-691-dataprivacy-spring23/policies/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/cmsc491-691-dataprivacy-spring23/policies/</guid>
+      <description>&lt;h3 id=&#34;lectures-and-readings&#34;&gt;Lectures and Readings&lt;/h3&gt;
+&lt;p&gt;You are expected to attend all lectures for this course. You are responsible for all material covered in class, even if not found in the on-line class presentation materials. If you should happen to miss a class, you are responsible for getting any missed notes or announcements from a classmate. You are required to prepare for each class by having read all of the assigned materials beforehand.&lt;/p&gt;
+&lt;h3 id=&#34;class-participation&#34;&gt;Class participation&lt;/h3&gt;
+&lt;p&gt;Education works better when we are all actively engaged in it. It is more effective and more interesting when there are questions, comments, challenges, and occasional rants. These can take place in class but also on line via the BlackBoard discussion forum for the class. I welcome your feedback throughout the semester about how the course is going. In addition to regular office hours, you can schedule an appointment with me if you think one-on-one time would help.&lt;/p&gt;
+&lt;h3 id=&#34;privacy&#34;&gt;Privacy&lt;/h3&gt;
+&lt;p&gt;Electronic communications do not always guarantee privacy. Sharing personal information is voluntary, not required.&lt;/p&gt;
+&lt;h3 id=&#34;class-expectation-during-covid-19&#34;&gt;Class Expectation During COVID-19&lt;/h3&gt;
+&lt;p&gt;The University is committed to protecting the health and safety of the entire community &amp;ndash; students, faculty, and staff. For this reason, it is currently mandatory that everyone wear a mask in University buildings, including classrooms. Please read the following carefully and, if you have any questions, ask.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You should be fully masked during any in-person interactions, including lectures, and office hours. You must wear a mask appropriately (i.e., over nose and mouth) and you must do this for every class session and for the entire duration of each class session. If you fail to do this, you will be politely reminded of the requirement and then asked to leave if you do not comply.&lt;/li&gt;
+&lt;li&gt;If you are sick, &lt;strong&gt;stay home&lt;/strong&gt;. If you are sick for two or more lectures, get in touch and we will work out how to accommodate any changes to the schedule.&lt;/li&gt;
+&lt;li&gt;This class will be held primarily in person. If you need to attend remotely for some time for health reasons, get in touch so we can work out the details. However, note that this is a synchronous class (no recordings).&lt;/li&gt;
+&lt;li&gt;Participation is a critical element of this class, &lt;strong&gt;but you will never be penalized for prioritizing your and others&#39; health&lt;/strong&gt;. Just stay in touch and we will work out the details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For resources during COVID 19 you can refer to the &lt;a href=&#34;https://covid19.umbc.edu/&#34; target=&#34;_blank&#34;&gt;UMBC&amp;rsquo;s COVID-19 website&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;umbc-policies&#34;&gt;UMBC Policies&lt;/h3&gt;
+&lt;h3 id=&#34;academic-integrity--conduct&#34;&gt;Academic Integrity &amp;amp; Conduct&lt;/h3&gt;
+&lt;p&gt;Students are expected to adhere to all university policies regarding student conduct, academic and otherwise, as posted on the University web site and in the Student Handbook. Academic dishonesty of any kind will be handled in accordance with University policy.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;By enrolling in this course, each student assumes the responsibilities of an active participant in UMBC&amp;rsquo;s scholarly community, in which everyone&amp;rsquo;s academic work and behavior are held to the highest standards of honesty. Cheating, fabrication, plagiarism, and helping others to commit these acts are all forms of academic dishonesty, and they are wrong. Academic misconduct could result in disciplinary action that may include, but is not limited to, suspension or dismissal. To read the full Student Academic Conduct Policy, consult the UMBC Student Handbook, the Faculty Handbook, or the UMBC Policies section of the UMBC Directory.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Statement adopted by UMBC&amp;rsquo;s Undergraduate Council and Provost&amp;rsquo;s Office.&lt;/p&gt;
+&lt;p&gt;If you think you may have accidentally broken a rule, come and talk to us about it. You will be much better off than if we discover it ourselves. Students who violate this academic integrity policy will at least receive a grade of 0 for that assignment, but might face a harsher penalty depending on how egregious the violation was. A second violation will also result in a reduction of one full letter grade in the student&amp;rsquo;s final course grade.&lt;/p&gt;
+&lt;p&gt;In the case where one student copies the program of another student, both students are considered to have violated this policy. Here, copying includes not just programs that are verbatim copies, but also programs that are substantially similar and could not have been produced independently. Furthermore, all parties concerned will have their prior homework and programs checked. Violations of this policy may be reported to the University&amp;rsquo;s Academic Conduct Committee for further action. Egregious cases of cheating will be written up as a &amp;lsquo;&amp;lsquo;more serious&amp;rsquo;&amp;rsquo; infraction. In this case, you will not be allowed to drop the course. Also, a &amp;lsquo;&amp;lsquo;more serious&amp;rsquo;&amp;rsquo; infraction would appear as a permanent part of your student record and would be seen by potential employers when they ask for an official copy of your transcript.&lt;/p&gt;
+&lt;h3 id=&#34;accessibility-and-disability-accommodations-guidance-and-resources&#34;&gt;Accessibility and Disability Accommodations, Guidance and Resources&lt;/h3&gt;
+&lt;p&gt;Support services for students with disabilities are provided for all students qualified under the Americans with Disabilities Act (ADA &amp;amp; ADAAA) and Section 504 of the Rehabilitation Act who request and are eligible for accommodations. The Office of StudentDisability Services (SDS) is the UMBC department designated to coordinate accommodations that would create equal access for students when barriers to participation exist in University courses, programs, or activities.&lt;/p&gt;
+&lt;p&gt;If you have a documented disability and need to request academic accommodations in your courses, please refer to the SDS website at &lt;a href=&#34;https://sds.umbc.edu/&#34; target=&#34;_blank&#34;&gt;sds.umbc.edu&lt;/a&gt; for registration information and office procedures.&lt;/p&gt;
+&lt;p&gt;SDS email: &lt;a href=&#34;mailto:disAbility@umbc.edu&#34;&gt;disAbility@umbc.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SDS phone: (410) 455-2459&lt;/p&gt;
+&lt;p&gt;If you will be using SDS approved accommodations in this class, please contact me (instructor) to discuss implementation of the accommodations. During remote instruction requirements due to COVID, communication and flexibility will be essential for success.&lt;/p&gt;
+&lt;h3 id=&#34;sexual-assault-sexual-harassment-and-gender-based-violence-and-discrimination&#34;&gt;Sexual Assault, Sexual Harassment, and Gender Based Violence and Discrimination&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://oei.umbc.edu/gender-discrimination-sexual-misconduct/&#34; target=&#34;_blank&#34;&gt;UMBC&lt;/a&gt; Policy and Federal law (Title IX) prohibit discrimination and harassment on the basis of sex, sexual orientation, and gender identity in University programs and activities. Any student who is impacted by sexual harassment, sexual assault, domestic violence, dating violence, stalking, sexual exploitation, gender discrimination, pregnancy discrimination, gender-based harassment or retaliation should contact the &lt;a href=&#34;https://oei.umbc.edu/title-ix-coordinator/&#34; target=&#34;_blank&#34;&gt;University’s Title IX Coordinator&lt;/a&gt; to make a report and/or access support and resources:&lt;/p&gt;
+&lt;p&gt;Mikhel A. Kushner, Title IX Coordinator (she/they)&lt;/p&gt;
+&lt;p&gt;410-455-1250 (direct line), &lt;a href=&#34;mailto:kushner@umbc.edu&#34;&gt;kushner@umbc.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can access support and resources even if you do not want to take any further action.You will not be forced to file a formal complaint or police report. Please be aware that the University may take action on its own if essential to protect the safety of the community.If you are interested in or thinking about making a report, please use theOnline Reporting/Referral Form. Please note that, if you report anonymously,the University’s ability to respond will be limited.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notice that Faculty are Responsible Employees with Mandatory Reporting Obligations:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;All faculty members are consideredResponsible Employees, per &lt;a href=&#34;https://oei.umbc.edu/policy-on-sexual-misconduct-sexual-harassment-and-gender-discrimination/&#34; target=&#34;_blank&#34;&gt;UMBC’s Policy on Sexual Misconduct, Sexual Harassment, and Gender Discrimination&lt;/a&gt;. Faculty are therefore required to report any/ all available information regarding conduct falling under the Policy and violations of the Policy to the Title IX Coordinator, even if a student discloses an experience that occurred before attending UMBC and/or an incident that only involves people not affiliated with UMBC.Reports are required regardless of the amount of detail provided and even in instances where support has already been offered or received.&lt;/p&gt;
+&lt;p&gt;While faculty members want encourage you to share information related to your life experiences through discussion and written work, students should understand that faculty are required to reportpast and presentsexual assault, domestic and interpersonal violence, stalking, and gender discrimination that isshared with them to the Title IX Coordinator so that the University can inform students of their &lt;a href=&#34;https://oei.umbc.edu/rights-and-resources/&#34; target=&#34;_blank&#34;&gt;rights, resources and support&lt;/a&gt;. While you are encouraged to do so, you are not obligated to respond to outreach conducted as a result of a report to the Title IX Coordinator.&lt;/p&gt;
+&lt;p&gt;If you need to speak with someone in confidence, who does not have an obligation to report to the Title IX Coordinator, UMBC has a number of  &lt;a href=&#34;https://oei.umbc.edu/policy-on-sexual-misconduct-sexual-harassment-and-gender-discrimination/#confidential-resources&#34; target=&#34;_blank&#34;&gt;Confidential Resources&lt;/a&gt; available to support you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://counseling.umbc.edu/&#34; target=&#34;_blank&#34;&gt;The Counseling Center&lt;/a&gt; (Main Campus): 410-455-2472 / After-Hours 410-455-3230 [Monday–Friday; 8:30 a.m.–5 p.m.]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shadygrove.umd.edu/student-services/center-for-counseling-and-consultation&#34; target=&#34;_blank&#34;&gt;Center for Counseling and Consultation&lt;/a&gt; (Shady Grove Campus): 301-738-6273 (Messages checked hourly) &lt;a href=&#34;https://shadygrove.titaniumhwc.com/&#34; target=&#34;_blank&#34;&gt;Online Appointment Request Form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://uhs.umbc.edu/&#34; target=&#34;_blank&#34;&gt;University Health Services&lt;/a&gt;: 410-455-2542 [Monday–Friday 8:30 a.m.–5 p.m.]&lt;/li&gt;
+&lt;li&gt;Pastoral Counseling via &lt;a href=&#34;https://i3b.umbc.edu/spaces/the-interfaith-center-ifc/&#34; target=&#34;_blank&#34;&gt;Interfaith Center&lt;/a&gt;: 410-455-3657; &lt;a href=&#34;mailto:interfaith@umbc.edu&#34;&gt;interfaith@umbc.edu&lt;/a&gt; [7 days a week; Fall and Spring 7 a.m.–11 p.m.; Summer and Winter 8 a.m.–8 p.m.]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Other Resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://womenscenter.umbc.edu/&#34; target=&#34;_blank&#34;&gt;Women’s Center&lt;/a&gt; (for students of all genders): 410-455-2714; &lt;a href=&#34;mailto:womenscenter@umbc.edu&#34;&gt;womenscenter@umbc.edu&lt;/a&gt; . [Monday –Thursday 9:30am-6pm and Friday 9:30am-4pm]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oei.umbc.edu/shady-grove-title-ix-resources/&#34; target=&#34;_blank&#34;&gt;Shady Grove Student Resources&lt;/a&gt;, &lt;a href=&#34;https://oei.umbc.edu/maryland-resources/&#34; target=&#34;_blank&#34;&gt;Maryland Resources&lt;/a&gt;, &lt;a href=&#34;https://oei.umbc.edu/national-resources/&#34; target=&#34;_blank&#34;&gt;National Resources&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Child Abuse and Neglect: Please note that Maryland law and &lt;a href=&#34;https://oei.umbc.edu/child-protection/&#34; target=&#34;_blank&#34;&gt;UMBC policy&lt;/a&gt; require that faculty report all disclosures or suspicions of child abuse or neglect to the Department of Social Services and/or the police.&lt;/p&gt;
+&lt;h3 id=&#34;additional-policies&#34;&gt;Additional Policies&lt;/h3&gt;
+&lt;p&gt;Additional policies on pregnant and parenting students; religious observances and accommodation; and hate, bias, discrimination and harassment can be found on the &lt;a href=&#34;https://oei.umbc.edu/sample-title-ix-responsible-employee-syllabus-language/&#34; target=&#34;_blank&#34;&gt;Office of Equity and Inclusion site&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graded Student Work</title>
+      <link>/courses/cmsc491-691-dataprivacy-spring23/work/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/cmsc491-691-dataprivacy-spring23/work/</guid>
+      <description>&lt;h3 id=&#34;group-project&#34;&gt;Group Project&lt;/h3&gt;
+&lt;p&gt;Students will work on one project in groups of 3-4. The goal is to identify an interesting question/problem in handling individuals&#39; data taking their privacy into account. The topic of the project can be picked by the student groups after discussion with the instructor. Example topics include the incorporation of a Privacy Enhancing Technique to an existing process/domain, analysis of potential privacy leakage in an existing system, etc. &lt;em&gt;You need to justify that the topic is interesting, relevant to the course, of suitable difficulty&lt;/em&gt;. A group report shall be submitted per project and each student will need to clearly articulate their concrete contribution in the group project. Each group will present their project to the rest of the class in their allotted final presentation slot.&lt;/p&gt;
+&lt;h3 id=&#34;mini-critiques&#34;&gt;Mini-critiques&lt;/h3&gt;
+&lt;p&gt;Each student will individually submit a mini-critique for several papers that will be discussed in class. A mini-critique is like a peer-review at a conference and at the very least should have: (i) Summary: Motivation + Problem + Approach + Result, (ii) 3 Strengths, and (iii) 3 Weaknesses. 4 students will be assigned to lead the discussion of each paper. To foster critical thinking, the students will play the &amp;ldquo;bad/good cop&amp;rdquo; role and argue the paper&amp;rsquo;s strengths/weakness to the rest of the class.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t have experience reviewing papers, the following guides will be very helpful (&lt;a href=&#34;https://authorservices.wiley.com/Reviewers/journal-reviewers/how-to-perform-a-peer-review/step-by-step-guide-to-reviewing-a-manuscript.html&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;,&lt;a href=&#34;https://sigmodrecord.org/publications/sigmodRecord/0812/p100.open.cormode.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt;,&lt;a href=&#34;http://ccr.sigcomm.org/online/files/p47-v38n2i-allman.pdf&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt;,&lt;a href=&#34;http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf&#34; target=&#34;_blank&#34;&gt;[4]&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
