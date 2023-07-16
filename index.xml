@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Yus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Roberto Yus</title>
@@ -667,6 +667,14 @@
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;This website doesn’t collect or store any visitor data, period&lt;/strong&gt;. I made a conscious choice not to have analytics or comment system (e.g., disqus) on this website to minimize any indirect tracking that may happen. Please let me know if you notice anything on this website that doesn’t follow this principle.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>International Mutual Recognition: A Description of Trust Services in US, UK, EU and JP and the Testbed “Hakoniwa”</title>
+      <link>/publication/secrypt-2023/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/secrypt-2023/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takao Kondo | Roberto Yus</title>
+    <link>/authors/takao-kondo/</link>
+      <atom:link href="/authors/takao-kondo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Takao Kondo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Takao Kondo</title>
+      <link>/authors/takao-kondo/</link>
+    </image>
+    
+    <item>
+      <title>International Mutual Recognition: A Description of Trust Services in US, UK, EU and JP and the Testbed “Hakoniwa”</title>
+      <link>/publication/secrypt-2023/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/secrypt-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
