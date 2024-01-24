@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Ma | Roberto Yus</title>
+    <link>/authors/jun-ma/</link>
+      <atom:link href="/authors/jun-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Ma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Jun Ma</title>
+      <link>/authors/jun-ma/</link>
+    </image>
+    
+    <item>
+      <title>Co-zyBench: Using Co-Simulation and Digital Twins to Benchmark Thermal Comfort Provision in Smart Buildings</title>
+      <link>/publication/percom-2024/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEMSA: a DT-enabled Middleware for Self-adaptive Smart Spaces</title>
+      <link>/publication/midd4dt-2023/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/midd4dt-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

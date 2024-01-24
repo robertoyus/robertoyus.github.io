@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denis Conan | Roberto Yus</title>
+    <link>/authors/denis-conan/</link>
+      <atom:link href="/authors/denis-conan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Denis Conan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Denis Conan</title>
+      <link>/authors/denis-conan/</link>
+    </image>
+    
+    <item>
+      <title>DEMSA: a DT-enabled Middleware for Self-adaptive Smart Spaces</title>
+      <link>/publication/midd4dt-2023/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/midd4dt-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

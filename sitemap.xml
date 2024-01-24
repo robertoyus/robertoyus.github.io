@@ -72,17 +72,117 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/georgios-bouloukakis/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/percom-2024/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dimitrije-panic/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/internet-of-things/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jun-ma/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ajay-kattepur/</loc>
+    <lastmod>2023-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-management/</loc>
+    <lastmod>2023-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/midd4dt-2023/</loc>
+    <lastmod>2023-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/denis-conan/</loc>
+    <lastmod>2023-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-chio/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daokun-jiang/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peeyush-gupta/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nalini-venkatasubramanian/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sharad-mehrotra/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pmc-2023/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -111,32 +211,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/satoru-tezuka/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/satoshi-kai/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -191,37 +271,12 @@
   </url>
   
   <url>
-    <loc>/authors/peeyush-gupta/</loc>
-    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/data-management/</loc>
-    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/internet-of-things/</loc>
-    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nalini-venkatasubramanian/</loc>
-    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/cikm-2022/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/shantanu-sharma/</loc>
-    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sharad-mehrotra/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,16 +288,6 @@
   <url>
     <loc>/talk/</loc>
     <lastmod>2022-07-21T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/georgios-bouloukakis/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -288,16 +333,6 @@
   <url>
     <loc>/publication/acmtoit-2022/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/andrew-chio/</loc>
-    <lastmod>2022-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/daokun-jiang/</loc>
-    <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
