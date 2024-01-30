@@ -5,12 +5,22 @@
     <link>/authors/primal-pappachan/</link>
       <atom:link href="/authors/primal-pappachan/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Yus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Roberto Yus</title>
       <link>/authors/primal-pappachan/</link>
     </image>
+    
+    <item>
+      <title>PrivacyLens</title>
+      <link>/project/privacylens/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/project/privacylens/</guid>
+      <description>&lt;p&gt;PrivacyLens is a novel framework devised to automatically collect, analyze, and publish privacy policies of smart IoT devices, responding to the growing concerns over user privacy as smart devices become increasingly integrated into daily lives. Despite the existence of privacy policies, a significant challenge arises as they are often overlooked or misunderstood by users, hence the need for an automated analysis to provide clearer insights to users and other stakeholders. Unlike previous works, this project pivots towards addressing the gap in privacy policies specific to smart devices which present unique challenges in collection and analysis due to their dispersed nature across various manufacturers and e-commerce platforms.&lt;/p&gt;
+&lt;p&gt;The PrivacyLens framework operates in three core stages; Collection, Analysis, and Publication. Initially, it crawls prominent e-commerce sites for smart IoT devices, extracting metadata and privacy policies, while also utilizing the Wayback Machine to garner historical privacy policies for longitudinal analysis. Following the collection, the framework employs Natural Language Processing (NLP) and Machine Learning (ML) techniques to dissect these policies, aiming to deduce features like overall quality, readability, and ambiguity among others. The final stage sees the publishing of this analyzed data on a dedicated website, updated monthly to provide users, policy authors, and regulators a robust, updated resource to understand and compare privacy practices across a multitude of smart devices. As of the submission, PrivacyLens has successfully amassed and analyzed over 1,200 privacy policies for 7,300 smart devices, presenting a significant stride towards fostering transparency and informed decision-making in the realm of smart device privacy. Through PrivacyLens, stakeholders varying from ordinary consumers to data protection regulators are equipped with a powerful tool to understand and navigate the privacy landscape of IoT devices, marking a crucial step towards creating a more responsible and transparent digital ecosystem.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sieve: A Middleware Approach to Scalable Access Control for Database Management Systems</title>

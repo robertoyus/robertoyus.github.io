@@ -116,6 +116,11 @@
   </url>
   
   <url>
+    <loc>/authors/jun-ma/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -137,11 +142,6 @@
   
   <url>
     <loc>/tags/internet-of-things/</loc>
-    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jun-ma/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -216,6 +216,51 @@
   </url>
   
   <url>
+    <loc>/authors/aamir-hamid/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hemanth-reddy-samidi/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/primal-pappachan/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tim-finin/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/active/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/artificial-intelligence/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/privacy/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/privacylens/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/secrypt-2023/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url>
@@ -232,11 +277,6 @@
   
   <url>
     <loc>/authors/naghmeh-karimi/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/privacy/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,6 +298,16 @@
   <url>
     <loc>/tags/trust/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/lanl-2023/</loc>
+    <lastmod>2023-06-29T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2023-06-29T18:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -311,16 +361,6 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2022-07-21T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/active/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/end-to-end-interoperability/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
@@ -332,11 +372,6 @@
   
   <url>
     <loc>/tags/open-apis/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -508,11 +543,6 @@
   <url>
     <loc>/authors/xi-he/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/primal-pappachan/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -801,11 +831,6 @@
   </url>
   
   <url>
-    <loc>/authors/tim-finin/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/6/</loc>
     <lastmod>2015-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -1021,7 +1046,19 @@
   </url>
   
   <url>
+    <loc>/authors/akhil-movva/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/akhil-shastry/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/aliyah-byon/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/aliza-garrison/</loc>
   </url>
   
   <url>
@@ -1041,11 +1078,35 @@
   </url>
   
   <url>
+    <loc>/authors/brian-scherzo/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/chetan-mediboyina/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/christian-badolato/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/cynthia-wang/</loc>
   </url>
   
   <url>
+    <loc>/authors/dharani-madireddy/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/dongcheol-jwa/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/eddie-wu/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/emma-williams/</loc>
   </url>
   
   <url>
@@ -1054,6 +1115,14 @@
   
   <url>
     <loc>/authors/gorka-guerrero/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hetankshi-desai/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hoang-phan/</loc>
   </url>
   
   <url>
@@ -1066,6 +1135,10 @@
   
   <url>
     <loc>/authors/ismael-rodriguez/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jahir-bakari/</loc>
   </url>
   
   <url>
@@ -1085,7 +1158,15 @@
   </url>
   
   <url>
+    <loc>/authors/joseph-tarantin/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/joshua-cao/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/joshua-cheeks/</loc>
   </url>
   
   <url>
@@ -1101,7 +1182,19 @@
   </url>
   
   <url>
+    <loc>/authors/lasya-chitturi/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/leo-peng/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/luke-zimmermann/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/meenakshi-desu/</loc>
   </url>
   
   <url>
@@ -1117,7 +1210,23 @@
   </url>
   
   <url>
+    <loc>/authors/nathan-samson/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/nikhil-boddu/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/nikki-cayas/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/owen-yang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/qanita-baqibillah/</loc>
   </url>
   
   <url>
@@ -1129,11 +1238,39 @@
   </url>
   
   <url>
+    <loc>/authors/ruhshana-bobojonova/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/rushabh-shah/</loc>
   </url>
   
   <url>
+    <loc>/authors/sanaa-mironov/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/sarang-patil/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/shanze-raza/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/sragvi/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/stuart-mcclintock/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/tartela-tabassum/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/thien-andy-le/</loc>
   </url>
   
   <url>
@@ -1150,6 +1287,10 @@
   
   <url>
     <loc>/authors/yiming-wang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/yonas-tadesse/</loc>
   </url>
   
   <url>
