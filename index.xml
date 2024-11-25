@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Yus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Roberto Yus</title>
@@ -982,6 +982,14 @@
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;This website doesn’t collect or store any visitor data, period&lt;/strong&gt;. I made a conscious choice not to have analytics or comment system (e.g., disqus) on this website to minimize any indirect tracking that may happen. Please let me know if you notice anything on this website that doesn’t follow this principle.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants</title>
+      <link>/publication/popets-2024/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/popets-2024/</guid>
+      <description></description>
     </item>
     
     <item>

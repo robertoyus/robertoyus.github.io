@@ -5,12 +5,20 @@
     <link>/authors/tim-finin/</link>
       <atom:link href="/authors/tim-finin/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Yus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Roberto Yus</title>
       <link>/authors/tim-finin/</link>
     </image>
+    
+    <item>
+      <title>GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants</title>
+      <link>/publication/popets-2024/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/popets-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PrivacyLens</title>
