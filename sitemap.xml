@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/courses/cmsc463-663-dataprivacy-spring25/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/cmsc463-663-dataprivacy-spring25/announcements/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/cmsc331-fall-2024/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/cmsc491-691-dataprivacy-spring24/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url>
@@ -10,6 +25,11 @@
   <url>
     <loc>/courses/cmsc491-691-dataprivacy-spring24/announcements/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/cmsc331-fall-2023/</loc>
+    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,6 +63,11 @@
   </url>
   
   <url>
+    <loc>/courses/cmsc463-663-dataprivacy-spring25/outline/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/cmsc491-691-dataprivacy-spring24/outline/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url>
@@ -58,6 +83,11 @@
   </url>
   
   <url>
+    <loc>/courses/cmsc463-663-dataprivacy-spring25/policies/</loc>
+    <lastmod>2025-01-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/cmsc491-691-dataprivacy-spring24/policies/</loc>
     <lastmod>2024-01-05T00:00:00+01:00</lastmod>
   </url>
@@ -70,6 +100,11 @@
   <url>
     <loc>/courses/cmsc491-691-dataprivacy-spring23/policies/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/cmsc463-663-dataprivacy-spring25/work/</loc>
+    <lastmod>2025-01-22T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -93,6 +128,16 @@
   
   <url>
     <loc>/service/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -161,18 +206,8 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
