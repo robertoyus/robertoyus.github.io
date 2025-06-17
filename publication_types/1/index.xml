@@ -5,12 +5,36 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>DEMO: Web-CozyBench - A Web-Based Platform to Benchmark Thermal Comfort Provision using Digital Twins</title>
+      <link>/publication/smartcompdemo-2025/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/smartcompdemo-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DigiGuide: A DT-based Occupant Guiding System for Optimizing Comfort and Energy Consumption</title>
+      <link>/publication/smartcomp-2025/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/smartcomp-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Smart Home Exchanged 3M Messages: Defining and Analyzing Smart Device Passive Mode</title>
+      <link>/publication/percom-2025/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Co-zyBench: Using Co-Simulation and Digital Twins to Benchmark Thermal Comfort Provision in Smart Buildings</title>

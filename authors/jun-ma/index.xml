@@ -5,12 +5,28 @@
     <link>/authors/jun-ma/</link>
       <atom:link href="/authors/jun-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Yus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Roberto Yus</title>
       <link>/authors/jun-ma/</link>
     </image>
+    
+    <item>
+      <title>DEMO: Web-CozyBench - A Web-Based Platform to Benchmark Thermal Comfort Provision using Digital Twins</title>
+      <link>/publication/smartcompdemo-2025/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/smartcompdemo-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DigiGuide: A DT-based Occupant Guiding System for Optimizing Comfort and Energy Consumption</title>
+      <link>/publication/smartcomp-2025/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/smartcomp-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Co-zyBench: Using Co-Simulation and Digital Twins to Benchmark Thermal Comfort Provision in Smart Buildings</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sourimitra Medepalli | Roberto Yus</title>
+    <link>/authors/sourimitra-medepalli/</link>
+      <atom:link href="/authors/sourimitra-medepalli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sourimitra Medepalli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Sourimitra Medepalli</title>
+      <link>/authors/sourimitra-medepalli/</link>
+    </image>
+    
+    <item>
+      <title>LOADS: LiDAR-based Privacy-Preserving Queue Monitoring and Analysis</title>
+      <link>/publication/percom-demo-loads-2025/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-demo-loads-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

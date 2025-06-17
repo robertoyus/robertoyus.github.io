@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Devices | Roberto Yus</title>
+    <link>/tags/smart-devices/</link>
+      <atom:link href="/tags/smart-devices/index.xml" rel="self" type="application/rss+xml" />
+    <description>Smart Devices</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Smart Devices</title>
+      <link>/tags/smart-devices/</link>
+    </image>
+    
+    <item>
+      <title>Your Smart Home Exchanged 3M Messages: Defining and Analyzing Smart Device Passive Mode</title>
+      <link>/publication/percom-2025/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

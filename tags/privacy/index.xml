@@ -5,12 +5,36 @@
     <link>/tags/privacy/</link>
       <atom:link href="/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <description>Privacy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Privacy</title>
       <link>/tags/privacy/</link>
     </image>
+    
+    <item>
+      <title>BL(u)E CRAB: A User-Centric Framework for Identifying Suspicious Bluetooth Trackers</title>
+      <link>/publication/percom-demo-bluecrab-2025/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-demo-bluecrab-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOADS: LiDAR-based Privacy-Preserving Queue Monitoring and Analysis</title>
+      <link>/publication/percom-demo-loads-2025/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-demo-loads-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Smart Home Exchanged 3M Messages: Defining and Analyzing Smart Device Passive Mode</title>
+      <link>/publication/percom-2025/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants</title>

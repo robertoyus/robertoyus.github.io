@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Yus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Roberto Yus</title>
@@ -1297,6 +1297,46 @@
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;This website doesn’t collect or store any visitor data, period&lt;/strong&gt;. I made a conscious choice not to have analytics or comment system (e.g., disqus) on this website to minimize any indirect tracking that may happen. Please let me know if you notice anything on this website that doesn’t follow this principle.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>DEMO: Web-CozyBench - A Web-Based Platform to Benchmark Thermal Comfort Provision using Digital Twins</title>
+      <link>/publication/smartcompdemo-2025/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/smartcompdemo-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DigiGuide: A DT-based Occupant Guiding System for Optimizing Comfort and Energy Consumption</title>
+      <link>/publication/smartcomp-2025/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/smartcomp-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BL(u)E CRAB: A User-Centric Framework for Identifying Suspicious Bluetooth Trackers</title>
+      <link>/publication/percom-demo-bluecrab-2025/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-demo-bluecrab-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOADS: LiDAR-based Privacy-Preserving Queue Monitoring and Analysis</title>
+      <link>/publication/percom-demo-loads-2025/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-demo-loads-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Smart Home Exchanged 3M Messages: Defining and Analyzing Smart Device Passive Mode</title>
+      <link>/publication/percom-2025/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-2025/</guid>
+      <description></description>
     </item>
     
     <item>

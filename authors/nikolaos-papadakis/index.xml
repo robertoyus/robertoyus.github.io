@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikolaos Papadakis | Roberto Yus</title>
+    <link>/authors/nikolaos-papadakis/</link>
+      <atom:link href="/authors/nikolaos-papadakis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nikolaos Papadakis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Nikolaos Papadakis</title>
+      <link>/authors/nikolaos-papadakis/</link>
+    </image>
+    
+    <item>
+      <title>Your Smart Home Exchanged 3M Messages: Defining and Analyzing Smart Device Passive Mode</title>
+      <link>/publication/percom-2025/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

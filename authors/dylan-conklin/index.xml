@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dylan Conklin | Roberto Yus</title>
+    <link>/authors/dylan-conklin/</link>
+      <atom:link href="/authors/dylan-conklin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dylan Conklin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Dylan Conklin</title>
+      <link>/authors/dylan-conklin/</link>
+    </image>
+    
+    <item>
+      <title>BL(u)E CRAB: A User-Centric Framework for Identifying Suspicious Bluetooth Trackers</title>
+      <link>/publication/percom-demo-bluecrab-2025/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-demo-bluecrab-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
