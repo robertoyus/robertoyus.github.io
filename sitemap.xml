@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/courses/cmsc331-spring-2026/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/cmsc463-663-dataprivacy-spring26/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/cmsc463-663-dataprivacy-spring26/announcements/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/cmsc331-fall-2025/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/cmsc463-663-dataprivacy-spring25/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url>
@@ -63,6 +83,11 @@
   </url>
   
   <url>
+    <loc>/courses/cmsc463-663-dataprivacy-spring26/outline/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/cmsc463-663-dataprivacy-spring25/outline/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url>
@@ -83,6 +108,11 @@
   </url>
   
   <url>
+    <loc>/courses/cmsc463-663-dataprivacy-spring26/policies/</loc>
+    <lastmod>2026-01-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/cmsc463-663-dataprivacy-spring25/policies/</loc>
     <lastmod>2025-01-22T00:00:00+01:00</lastmod>
   </url>
@@ -100,6 +130,11 @@
   <url>
     <loc>/courses/cmsc491-691-dataprivacy-spring23/policies/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/cmsc463-663-dataprivacy-spring26/work/</loc>
+    <lastmod>2026-01-10T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -128,6 +163,16 @@
   
   <url>
     <loc>/service/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -216,11 +261,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/sabrine-azaiez/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url>
@@ -298,11 +338,6 @@
   <url>
     <loc>/authors/sumedh-kane/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
