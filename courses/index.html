@@ -303,7 +303,23 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/students/"><span>Students</span></a>
+          <a class="nav-link " href="/talk/"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>People</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/students/"><span>Students</span></a>
+            
+              <a class="dropdown-item" href="/alumni/"><span>Alumni</span></a>
+            
+          </div>
         </li>
 
         
@@ -332,80 +348,20 @@
         
 
         
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/service/"><span>Service</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>About</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
             
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
+              <a class="dropdown-item" href="/funding/"><span>Funding</span></a>
             
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#awards"><span>Awards</span></a>
+              <a class="dropdown-item" href="/awards/"><span>Awards</span></a>
+            
+              <a class="dropdown-item" href="/service/"><span>Service</span></a>
+            
+              <a class="dropdown-item" href="https://damslabumbc.github.io/#news"><span>News</span></a>
+            
+          </div>
         </li>
 
         
@@ -521,33 +477,76 @@
 
 <div class="universal-wrapper">
   
-  <ul class="list-unstyled">
-    
-    
-    <li><h5><a href="/courses/cmsc331-spring-2026/">(SPRING 2026) CMSC 331 Programming Languages</a></h5> <p>UMBC, CSEE deparment.</p></li>
-    
-    <li><h5><a href="/courses/cmsc463-663-dataprivacy-spring26/">(SPRING 2026) CMSC 463 / 663 Data Privacy</a></h5> <p>UMBC, CSEE deparment.</p></li>
-    
-    <li><h5><a href="/courses/cmsc331-fall-2025/">(FALL 2025) CMSC 331 Programming Languages</a></h5> <p>UMBC, CSEE deparment.</p></li>
-    
-    <li><h5><a href="/courses/cmsc463-663-dataprivacy-spring25/">(SPRING 2025) CMSC 463 / 663 Data Privacy</a></h5> <p>UMBC, CSEE deparment.</p></li>
-    
-    <li><h5><a href="/courses/cmsc331-fall-2024/">(FALL 2024) CMSC 331 Programming Languages</a></h5> <p>UMBC, CSEE deparment.</p></li>
-    
-    <li><h5><a href="/courses/cmsc491-691-dataprivacy-spring24/">(SPRING 2024) CMSC 491 / 691 Data Privacy</a></h5> <p>UMBC, CSEE deparment.</p></li>
-    
-    <li><h5><a href="/courses/cmsc331-fall-2023/">(FALL 2023) CMSC 331 Programming Languages</a></h5> <p>UMBC, CSEE deparment.</p></li>
-    
-    <li><h5><a href="/courses/cmsc491-691-dataprivacy-spring23/">(SPRING 2023) CMSC 491 / 691 Data Privacy</a></h5> <p>UMBC, CSEE deparment.</p></li>
-    
-    <li><h5><a href="/courses/cmsc331-fall-2022/">(FALL 2022) CMSC 331 Programming Languages</a></h5> <p>UMBC, CSEE deparment.</p></li>
-    
-    <li><h5><a href="/courses/cmsc331-fall-2021/">(FALL 2021) CMSC 331 Programming Languages</a></h5> <p>UMBC, CSEE deparment.</p></li>
-    
-    <li><h5><a href="/courses/cmsc491-691-dataprivacy-spring22/">(SPRING 2022) CMSC 491 / 691 Data Privacy</a></h5> <p>UMBC, CSEE deparment.</p></li>
-    
-    
-  </ul>
+  <div class="article-style"><style>
+.term-group { margin: 1.6rem 0 0; }
+.term-group > h2 {
+  font-size: 1.35rem; margin: 0 0 .6rem;
+  border-bottom: 2px solid rgba(128,128,128,.35); padding-bottom: .3rem;
+}
+.course-list { list-style: none; padding: 0; margin: 0; }
+.course-list > li {
+  display: flex; gap: 1rem; align-items: baseline;
+  padding: .5rem 0; border-bottom: 1px solid rgba(128,128,128,.14);
+  font-size: .98rem; line-height: 1.45;
+}
+.course-list > li:last-child { border-bottom: 0; }
+.term {
+  flex: 0 0 84px; width: 84px; text-align: right;
+  font-weight: 700; font-size: .86rem; color: #d84e4b;
+  text-transform: uppercase; letter-spacing: .03em; white-space: nowrap;
+}
+.course-what { flex: 1 1 auto; min-width: 0; }
+.course-code { font-weight: 600; }
+@media (max-width: 520px) {
+  .course-list > li { flex-direction: column; gap: .05rem; }
+  .term { text-align: left; width: auto; flex-basis: auto; }
+}
+</style>
+<p>Courses I teach in the CSEE department at UMBC. Select a semester below for the syllabus,
+schedule, and materials.</p>
+<div class="term-group">
+<h2>2026</h2>
+<ul class="course-list">
+  <li><span class="term">Spring</span><span class="course-what"><a href="/courses/cmsc331-spring-2026/"><span class="course-code">CMSC 331</span> &mdash; Programming Languages</a></span></li>
+  <li><span class="term">Spring</span><span class="course-what"><a href="/courses/cmsc463-663-dataprivacy-spring26/"><span class="course-code">CMSC 463 / 663</span> &mdash; Data Privacy</a></span></li>
+</ul>
+</div>
+<div class="term-group">
+<h2>2025</h2>
+<ul class="course-list">
+  <li><span class="term">Fall</span><span class="course-what"><a href="/courses/cmsc331-fall-2025/"><span class="course-code">CMSC 331</span> &mdash; Programming Languages</a></span></li>
+  <li><span class="term">Spring</span><span class="course-what"><a href="/courses/cmsc463-663-dataprivacy-spring25/"><span class="course-code">CMSC 463 / 663</span> &mdash; Data Privacy</a></span></li>
+</ul>
+</div>
+<div class="term-group">
+<h2>2024</h2>
+<ul class="course-list">
+  <li><span class="term">Fall</span><span class="course-what"><a href="/courses/cmsc331-fall-2024/"><span class="course-code">CMSC 331</span> &mdash; Programming Languages</a></span></li>
+  <li><span class="term">Spring</span><span class="course-what"><a href="/courses/cmsc491-691-dataprivacy-spring24/"><span class="course-code">CMSC 491 / 691</span> &mdash; Data Privacy</a></span></li>
+</ul>
+</div>
+<div class="term-group">
+<h2>2023</h2>
+<ul class="course-list">
+  <li><span class="term">Fall</span><span class="course-what"><a href="/courses/cmsc331-fall-2023/"><span class="course-code">CMSC 331</span> &mdash; Programming Languages</a></span></li>
+  <li><span class="term">Spring</span><span class="course-what"><a href="/courses/cmsc491-691-dataprivacy-spring23/"><span class="course-code">CMSC 491 / 691</span> &mdash; Data Privacy</a></span></li>
+</ul>
+</div>
+<div class="term-group">
+<h2>2022</h2>
+<ul class="course-list">
+  <li><span class="term">Fall</span><span class="course-what"><a href="/courses/cmsc331-fall-2022/"><span class="course-code">CMSC 331</span> &mdash; Programming Languages</a></span></li>
+  <li><span class="term">Spring</span><span class="course-what"><a href="/courses/cmsc491-691-dataprivacy-spring22/"><span class="course-code">CMSC 491 / 691</span> &mdash; Data Privacy</a></span></li>
+</ul>
+</div>
+<div class="term-group">
+<h2>2021</h2>
+<ul class="course-list">
+  <li><span class="term">Fall</span><span class="course-what"><a href="/courses/cmsc331-fall-2021/"><span class="course-code">CMSC 331</span> &mdash; Programming Languages</a></span></li>
+</ul>
+</div>
+</div>
+  
 </div>
 
       

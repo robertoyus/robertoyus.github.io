@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jun 2023 18:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 12:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
+      <title>Data Privacy in a World of Interconnected Devices</title>
+      <link>/talk/zaragoza-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 12:00:00 +0000</pubDate>
+      <guid>/talk/zaragoza-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Privacy in a World of Interconnected Devices</title>
+      <link>/talk/cwit-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+      <guid>/talk/cwit-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Privacy in a World of Interconnected Devices</title>
+      <link>/talk/lanl-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+      <guid>/talk/lanl-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Privacy 101</title>
       <link>/talk/lanl-2023/</link>
       <pubDate>Thu, 29 Jun 2023 18:00:00 +0000</pubDate>
       <guid>/talk/lanl-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair and Sustainable Thermal Comfort Provision in Smart Buildings</title>
+      <link>/talk/cwit-techforgood-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+      <guid>/talk/cwit-techforgood-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing CS Students to Privacy Through a Special Topics Course</title>
+      <link>/talk/umbc-srt-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+      <guid>/talk/umbc-srt-2023/</guid>
       <description></description>
     </item>
     
@@ -41,6 +81,22 @@
       <link>/talk/pitt-2021/</link>
       <pubDate>Tue, 23 Feb 2021 10:00:00 +0000</pubDate>
       <guid>/talk/pitt-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Don&#39;t) Mind the Gap: Bridging the Worlds of People and IoT Devices</title>
+      <link>/talk/purdue-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 12:00:00 +0000</pubDate>
+      <guid>/talk/purdue-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Don&#39;t) Mind the Gap: Bridging the Worlds of People and IoT Devices</title>
+      <link>/talk/txstate-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 12:00:00 +0000</pubDate>
+      <guid>/talk/txstate-2021/</guid>
       <description></description>
     </item>
     

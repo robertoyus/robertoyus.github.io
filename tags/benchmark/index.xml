@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benchmark | Roberto Yus</title>
+    <link>/tags/benchmark/</link>
+      <atom:link href="/tags/benchmark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benchmark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Benchmark</title>
+      <link>/tags/benchmark/</link>
+    </image>
+    
+    <item>
+      <title>GenAIPABench</title>
+      <link>/project/genaipabench/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/project/genaipabench/</guid>
+      <description>&lt;p&gt;Privacy policies of websites are often lengthy and intricate. Privacy assistants assist in simplifying policies and making them more accessible and user-friendly. The emergence of generative AI (genAI) offers new opportunities to build privacy assistants that can answer users&#39; questions about privacy policies. However, genAI&amp;rsquo;s reliability is a concern due to its potential for producing inaccurate information. This study introduces GenAIPABench, a benchmark for evaluating Generative AI-based Privacy Assistants (GenAIPAs). GenAIPABench includes: 1) A set of questions about privacy policies and data protection regulations, with annotated answers for various organizations and regulations; 2) Metrics to assess the accuracy, relevance, and consistency of responses; and 3) A tool for generating prompts to introduce privacy documents and varied privacy questions to test system robustness. We evaluated three leading genAI systems—ChatGPT-4, Bard, and Bing AI—using GenAIPABench to gauge their effectiveness as GenAIPAs. Our results demonstrate significant promise in genAI capabilities in the privacy domain while also highlighting challenges in managing complex queries, ensuring consistency, and verifying source accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

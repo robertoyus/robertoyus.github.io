@@ -120,7 +120,7 @@
   <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="/img/logo.png">
   <meta property="twitter:image" content="/img/logo.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2025-06-16T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2026-06-30T00:00:00&#43;00:00">
   
 
   
@@ -303,7 +303,23 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/students/"><span>Students</span></a>
+          <a class="nav-link " href="/talk/"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>People</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/students/"><span>Students</span></a>
+            
+              <a class="dropdown-item" href="/alumni/"><span>Alumni</span></a>
+            
+          </div>
         </li>
 
         
@@ -332,80 +348,20 @@
         
 
         
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/service/"><span>Service</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>About</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
             
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
+              <a class="dropdown-item" href="/funding/"><span>Funding</span></a>
             
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#awards"><span>Awards</span></a>
+              <a class="dropdown-item" href="/awards/"><span>Awards</span></a>
+            
+              <a class="dropdown-item" href="/service/"><span>Service</span></a>
+            
+              <a class="dropdown-item" href="https://damslabumbc.github.io/#news"><span>News</span></a>
+            
+          </div>
         </li>
 
         
@@ -504,6 +460,7 @@
 
 
 
+
   
 
 
@@ -512,6 +469,35 @@
 
 
 
+
+<style>
+ 
+.org-logo { margin: .7rem auto .25rem; text-align: center; }
+.org-logo img {
+  display: block; margin-left: auto; margin-right: auto;
+  max-height: 88px; max-width: 80%; width: auto; height: auto;
+}
+
+ 
+.ul-edu li.edu-with-logo {
+  display: flex; align-items: center; gap: 1rem;
+  list-style: none; margin-left: -2.5em; padding: .15rem 0;
+}
+.ul-edu li.edu-with-logo .edu-logo {
+  flex: 0 0 118px; width: 118px; text-align: center;
+}
+.ul-edu li.edu-with-logo .edu-logo img {
+  display: block; margin-left: auto; margin-right: auto;    
+  max-width: 100%; max-height: 44px; width: auto; height: auto;
+}
+.ul-edu li.edu-with-logo .description { flex: 1 1 auto; min-width: 0; }
+@media (max-width: 420px) {
+  .ul-edu li.edu-with-logo .edu-logo { flex-basis: 78px; width: 78px; }
+}
+
+ 
+.ul-interests li i { width: 1.35em; text-align: center; opacity: .85; }
+</style>
 
 
 <div class="row">
@@ -528,11 +514,20 @@
         <h3>Assistant Professor</h3>
 
         
+        
+        
         <h3>
           <a href="https://www.csee.umbc.edu/" target="_blank" rel="noopener">
           <span>University of Maryland, Baltimore County</span>
           </a>
         </h3>
+        
+        <div class="org-logo">
+          <a href="https://www.csee.umbc.edu/" target="_blank" rel="noopener">
+          <img src="/img/logos/umbc.png" alt="University of Maryland, Baltimore County" loading="lazy">
+          </a>
+        </div>
+        
         
       </div>
 
@@ -670,13 +665,13 @@
         <h3>Interests</h3>
         <ul class="ul-interests">
           
-          <li>Data Management</li>
+          <li><i class="fas fa-database"></i> Data Management</li>
           
-          <li>Knowledge Representation</li>
+          <li><i class="fas fa-network-wired"></i> Knowledge Representation</li>
           
-          <li>Internet of Things</li>
+          <li><i class="fas fa-wifi"></i> Internet of Things</li>
           
-          <li>Privacy</li>
+          <li><i class="fas fa-user-secret"></i> Privacy</li>
           
         </ul>
       </div>
@@ -687,21 +682,25 @@
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
           
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
+          
+          <li class="edu-with-logo">
+            <span class="edu-logo"><img src="/img/logos/uci.png" alt="University of California, Irvine" loading="lazy"></span>
             <div class="description">
               <p class="course">Postdoctoral Researcher, 2021</p>
               <p class="institution">University of California, Irvine</p>
             </div>
           </li>
           
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
+          
+          
+          <li class="edu-with-logo">
+            <span class="edu-logo"><img src="/img/logos/unizar.svg" alt="University of Zaragoza, Spain" loading="lazy"></span>
             <div class="description">
               <p class="course">Ph.D. in Computer Science, 2016</p>
               <p class="institution">University of Zaragoza, Spain</p>
             </div>
           </li>
+          
           
         </ul>
       </div>
@@ -721,6 +720,26 @@
       <ul>
         
         <li>
+          <a href="/publication/wisec-2026/">Towards Fast Detection of Suspicious Bluetooth Trackers using Anomaly Detection</a>
+        </li>
+        
+        <li>
+          <a href="/publication/percom-artifact-2026/">Artifact: PSMark: A Distributed IoT Benchmark for Publish/Subscribe Under Domain-Based Workloads</a>
+        </li>
+        
+        <li>
+          <a href="/publication/percom-2026/">PSMark: A Distributed IoT Benchmark for Publish/Subscribe Under Domain-Based Workloads</a>
+        </li>
+        
+        <li>
+          <a href="/publication/compandsec2025/">Scalable Automation for IoT CyberSecurity Compliance: Ontology-Driven Reasoning for Real-Time Assessment</a>
+        </li>
+        
+        <li>
+          <a href="/publication/iotconf2025/">A Context-Aware Benchmarking Approach for Scenario-Based Evaluation of Smart Devices</a>
+        </li>
+        
+        <li>
           <a href="/publication/smartcompdemo-2025/">DEMO: Web-CozyBench - A Web-Based Platform to Benchmark Thermal Comfort Provision using Digital Twins</a>
         </li>
         
@@ -737,6 +756,10 @@
         </li>
         
         <li>
+          <a href="/project/iotpassivemode/">Passive Mode for IoT</a>
+        </li>
+        
+        <li>
           <a href="/publication/percom-2025/">Your Smart Home Exchanged 3M Messages: Defining and Analyzing Smart Device Passive Mode</a>
         </li>
         
@@ -749,6 +772,10 @@
         </li>
         
         <li>
+          <a href="/project/genaipabench/">GenAIPABench</a>
+        </li>
+        
+        <li>
           <a href="/publication/midd4dt-2023/">DEMSA: a DT-enabled Middleware for Self-adaptive Smart Spaces</a>
         </li>
         
@@ -758,6 +785,10 @@
         
         <li>
           <a href="/project/privacylens/">PrivacyLens</a>
+        </li>
+        
+        <li>
+          <a href="/publication/privacylens-2023/">PrivacyLens: A Framework to Collect and Analyze the Landscape of Past, Present, and Future Smart Device Privacy Policies</a>
         </li>
         
         <li>

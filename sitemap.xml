@@ -162,12 +162,170 @@
   </url>
   
   <url>
+    <loc>/funding/</loc>
+  </url>
+  
+  <url>
+    <loc>/awards/</loc>
+  </url>
+  
+  <url>
     <loc>/service/</loc>
   </url>
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/primal-pappachan/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dylan-conklin/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/internet-of-things/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/orobosa-ekhator/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/privacy/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wisec-2026/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/christian-badolato/</loc>
+    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/georgios-bouloukakis/</loc>
+    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nathan-samson/</loc>
+    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/9/</loc>
+    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/percom-artifact-2026/</loc>
+    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/benchmarking/</loc>
+    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chih-kai-huang/</loc>
+    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/houssam-hajj-hassan/</loc>
+    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/middleware/</loc>
+    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/percom-2026/</loc>
+    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ai/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/anantaa-kotal/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ikechukwu-oranekwu/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lavanya-elluri/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/llms/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/compandsec2025/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/semantic-web/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -176,13 +334,63 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <loc>/publication/iotconf2025/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/georgios-bouloukakis/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <loc>/authors/athanasios-tsirikas/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/context-aware-systems/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/energy-profiling/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/fotios-fouskas/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gregory-blanc/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/home-automation/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kostas-magoutis/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/krish-chatterjie/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/network-traffic-analysis/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nikolaos-papadakis/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/smart-devices/</loc>
+    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -191,22 +399,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/aziz-boubaker/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/benchmarking/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -236,11 +429,6 @@
   </url>
   
   <url>
-    <loc>/tags/internet-of-things/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/multi-objective-optimization/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url>
@@ -251,38 +439,13 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/sabrine-azaiez/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/thermal-comfort/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/christian-badolato/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/primal-pappachan/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -301,17 +464,7 @@
   </url>
   
   <url>
-    <loc>/authors/dylan-conklin/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/percom-demo-loads-2025/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/privacy/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -341,6 +494,11 @@
   </url>
   
   <url>
+    <loc>/tags/active/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/don-engel/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url>
@@ -356,17 +514,12 @@
   </url>
   
   <url>
-    <loc>/tags/network-traffic-analysis/</loc>
+    <loc>/project/iotpassivemode/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/nikolaos-papadakis/</loc>
-    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/smart-devices/</loc>
+    <loc>/project/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -378,6 +531,16 @@
   <url>
     <loc>/publication/percom-2025/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/zaragoza-2025/</loc>
+    <lastmod>2025-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2025-01-01T12:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -396,16 +559,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ai/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/popets-2024/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
   </url>
@@ -418,6 +571,31 @@
   <url>
     <loc>/authors/dimitrije-panic/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cwit-2024/</loc>
+    <lastmod>2024-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/lanl-2024/</loc>
+    <lastmod>2024-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/benchmark/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/genaipabench/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/generative-ai/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -471,11 +649,6 @@
   </url>
   
   <url>
-    <loc>/tags/active/</loc>
-    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/artificial-intelligence/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url>
@@ -486,7 +659,7 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/publication/privacylens-2023/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -536,8 +709,13 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2023-06-29T18:00:00+00:00</lastmod>
+    <loc>/talk/cwit-techforgood-2023/</loc>
+    <lastmod>2023-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/umbc-srt-2023/</loc>
+    <lastmod>2023-01-01T12:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -596,11 +774,6 @@
   </url>
   
   <url>
-    <loc>/tags/middleware/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/open-apis/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
@@ -648,6 +821,16 @@
   <url>
     <loc>/talk/pitt-2021/</loc>
     <lastmod>2021-02-23T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/purdue-2021/</loc>
+    <lastmod>2021-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/txstate-2021/</loc>
+    <lastmod>2021-01-01T12:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -811,11 +994,6 @@
   </url>
   
   <url>
-    <loc>/tags/semantic-web/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/buildsys-2019/</loc>
     <lastmod>2019-11-02T00:00:00+00:00</lastmod>
   </url>
@@ -913,11 +1091,6 @@
   <url>
     <loc>/talk/uci-2017/</loc>
     <lastmod>2017-10-05T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/9/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1266,11 +1439,19 @@
   </url>
   
   <url>
+    <loc>/authors/adams-ubini/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/akhil-movva/</loc>
   </url>
   
   <url>
     <loc>/authors/akhil-shastry/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/alan-sherman/</loc>
   </url>
   
   <url>
@@ -1283,6 +1464,10 @@
   
   <url>
     <loc>/authors/alpine-tang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/ameena-niamathullah/</loc>
   </url>
   
   <url>
@@ -1306,7 +1491,19 @@
   </url>
   
   <url>
+    <loc>/authors/colin-stokes/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/connor-silbiger/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/cynthia-wang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/darsh-patel/</loc>
   </url>
   
   <url>
@@ -1326,7 +1523,15 @@
   </url>
   
   <url>
+    <loc>/authors/fadlulah-omitogun/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/fangfang-fu/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/giaoriana-santos/</loc>
   </url>
   
   <url>
@@ -1355,6 +1560,14 @@
   
   <url>
     <loc>/authors/jahir-bakari/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jalen-brown/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jason-chan/</loc>
   </url>
   
   <url>
@@ -1387,6 +1600,10 @@
   
   <url>
     <loc>/authors/karthik-gajulapalli/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/kent-dang/</loc>
   </url>
   
   <url>
@@ -1426,10 +1643,6 @@
   </url>
   
   <url>
-    <loc>/authors/nathan-samson/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/nikhil-boddu/</loc>
   </url>
   
@@ -1439,6 +1652,10 @@
   
   <url>
     <loc>/authors/owen-yang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/peter-gatira/</loc>
   </url>
   
   <url>
@@ -1470,6 +1687,14 @@
   </url>
   
   <url>
+    <loc>/authors/sasha-mikhailova/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/sean-belon/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/shanze-raza/</loc>
   </url>
   
@@ -1483,6 +1708,10 @@
   
   <url>
     <loc>/authors/tartela-tabassum/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/tera-reynolds/</loc>
   </url>
   
   <url>
@@ -1502,6 +1731,14 @@
   </url>
   
   <url>
+    <loc>/authors/yael-chookrun/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/yazlin-moujalled/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/yiming-wang/</loc>
   </url>
   
@@ -1511,6 +1748,10 @@
   
   <url>
     <loc>/authors/zainab-rahal/</loc>
+  </url>
+  
+  <url>
+    <loc>/alumni/</loc>
   </url>
   
   <url>

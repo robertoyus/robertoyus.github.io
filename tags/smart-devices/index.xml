@@ -5,12 +5,30 @@
     <link>/tags/smart-devices/</link>
       <atom:link href="/tags/smart-devices/index.xml" rel="self" type="application/rss+xml" />
     <description>Smart Devices</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Smart Devices</title>
       <link>/tags/smart-devices/</link>
     </image>
+    
+    <item>
+      <title>A Context-Aware Benchmarking Approach for Scenario-Based Evaluation of Smart Devices</title>
+      <link>/publication/iotconf2025/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/iotconf2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passive Mode for IoT</title>
+      <link>/project/iotpassivemode/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/project/iotpassivemode/</guid>
+      <description>&lt;p&gt;Traditional &amp;ldquo;idle&amp;rdquo; mode designations lack the granularity required to fully describe the behaviors of non-active IoT devices. For example, there is a notable difference between a smart speaker having its microphone muted and it idly listening for a voice command. This is demonstrated by manufacturers&#39; inclusions of &amp;ldquo;privacy modes&amp;rdquo; in smart devices such as cameras. The ambiguity surrounding the expected behavior of device idle states implies the existence of a logical &amp;ldquo;passive&amp;rdquo; state which describes the expected behavior of the devices themselves. Despite this, no accepted standards exist to define such a state. This hinders researchers&#39; abilities to compare devices&#39; non-active behaviors, requires manufacturers spend resources to define their own passive states, reduces transparency in data privacy practices by encouraging the creation of proprietary mode definitions, and places a significant burden on users to understand the individual privacy implications of each device.&lt;/p&gt;
+&lt;p&gt;This project seeks to provide a formal definition for these passive modes which can enable straightforward construction of device-specific definitions. We further study the passive mode behavior of these devices to determine the gap between the observed behaviors and a truely &amp;ldquo;passive&amp;rdquo; state.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Your Smart Home Exchanged 3M Messages: Defining and Analyzing Smart Device Passive Mode</title>

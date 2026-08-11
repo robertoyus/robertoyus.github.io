@@ -5,12 +5,36 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Towards Fast Detection of Suspicious Bluetooth Trackers using Anomaly Detection</title>
+      <link>/publication/wisec-2026/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/wisec-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSMark: A Distributed IoT Benchmark for Publish/Subscribe Under Domain-Based Workloads</title>
+      <link>/publication/percom-2026/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/percom-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Context-Aware Benchmarking Approach for Scenario-Based Evaluation of Smart Devices</title>
+      <link>/publication/iotconf2025/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/iotconf2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DEMO: Web-CozyBench - A Web-Based Platform to Benchmark Thermal Comfort Provision using Digital Twins</title>
@@ -49,6 +73,14 @@
       <link>/publication/midd4dt-2023/</link>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
       <guid>/publication/midd4dt-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PrivacyLens: A Framework to Collect and Analyze the Landscape of Past, Present, and Future Smart Device Privacy Policies</title>
+      <link>/publication/privacylens-2023/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/privacylens-2023/</guid>
       <description></description>
     </item>
     

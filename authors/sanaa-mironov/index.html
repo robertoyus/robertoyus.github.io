@@ -303,7 +303,23 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/students/"><span>Students</span></a>
+          <a class="nav-link " href="/talk/"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>People</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/students/"><span>Students</span></a>
+            
+              <a class="dropdown-item" href="/alumni/"><span>Alumni</span></a>
+            
+          </div>
         </li>
 
         
@@ -332,80 +348,20 @@
         
 
         
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/service/"><span>Service</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>About</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
             
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
+              <a class="dropdown-item" href="/funding/"><span>Funding</span></a>
             
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#awards"><span>Awards</span></a>
+              <a class="dropdown-item" href="/awards/"><span>Awards</span></a>
+            
+              <a class="dropdown-item" href="/service/"><span>Service</span></a>
+            
+              <a class="dropdown-item" href="https://damslabumbc.github.io/#news"><span>News</span></a>
+            
+          </div>
         </li>
 
         
@@ -504,6 +460,7 @@
 
 
 
+
   
 
 
@@ -512,6 +469,35 @@
 
 
 
+
+<style>
+ 
+.org-logo { margin: .7rem auto .25rem; text-align: center; }
+.org-logo img {
+  display: block; margin-left: auto; margin-right: auto;
+  max-height: 88px; max-width: 80%; width: auto; height: auto;
+}
+
+ 
+.ul-edu li.edu-with-logo {
+  display: flex; align-items: center; gap: 1rem;
+  list-style: none; margin-left: -2.5em; padding: .15rem 0;
+}
+.ul-edu li.edu-with-logo .edu-logo {
+  flex: 0 0 118px; width: 118px; text-align: center;
+}
+.ul-edu li.edu-with-logo .edu-logo img {
+  display: block; margin-left: auto; margin-right: auto;    
+  max-width: 100%; max-height: 44px; width: auto; height: auto;
+}
+.ul-edu li.edu-with-logo .description { flex: 1 1 auto; min-width: 0; }
+@media (max-width: 420px) {
+  .ul-edu li.edu-with-logo .edu-logo { flex-basis: 78px; width: 78px; }
+}
+
+ 
+.ul-interests li i { width: 1.35em; text-align: center; opacity: .85; }
+</style>
 
 
 <div class="row">
@@ -525,14 +511,17 @@
 
       <div class="portrait-title">
         <h2>Sanaa Mironov</h2>
-        <h3>MS Student</h3>
+        <h3>Ph.D Student</h3>
 
+        
+        
         
         <h3>
           <a href="https://www.csee.umbc.edu/" target="_blank" rel="noopener">
           <span>University of Maryland, Baltimore County</span>
           </a>
         </h3>
+        
         
       </div>
 
@@ -552,21 +541,6 @@
         <li>
           <a href="https://sanaamironov.com/" target="_blank" rel="noopener">
             <i class="fas fa-home big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-        <li>
-          <a href="mailto:has1@umbc.edu" >
-            <i class="fas fa-envelope big-icon"></i>
           </a>
         </li>
         
@@ -613,7 +587,7 @@
     
     
 
-    <p>I’m Sanaa Mironov, currently pursuing Master of Science in Computer Science at the <a href="https://www.csee.umbc.edu/" target="_blank">Information Technology and Engineering (ITE) Building</a> at the <a href="https://www.umbc.edu/" target="_blank">University of Maryland, Baltimore County</a>.</p>
+    <p>I’m Sanaa Mironov, a Ph.D. student in Computer Science at the <a href="https://www.csee.umbc.edu/" target="_blank">Information Technology and Engineering (ITE) Building</a> at the <a href="https://www.umbc.edu/" target="_blank">University of Maryland, Baltimore County</a>.</p>
 <p>My research interests concern Data Science, Data Management, Internet of Things, Machine Learning, and Privacy. Specifically using technology to enhance human life.</p>
 
 
@@ -643,6 +617,7 @@
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
           
+          
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
@@ -650,6 +625,8 @@
               <p class="institution">University of Maryland, Baltimore County</p>
             </div>
           </li>
+          
+          
           
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
@@ -659,6 +636,8 @@
             </div>
           </li>
           
+          
+          
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
@@ -666,6 +645,7 @@
               <p class="institution">University of Baltimore</p>
             </div>
           </li>
+          
           
         </ul>
       </div>

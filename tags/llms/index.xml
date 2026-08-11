@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLMs | Roberto Yus</title>
+    <link>/tags/llms/</link>
+      <atom:link href="/tags/llms/index.xml" rel="self" type="application/rss+xml" />
+    <description>LLMs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>LLMs</title>
+      <link>/tags/llms/</link>
+    </image>
+    
+    <item>
+      <title>Scalable Automation for IoT CyberSecurity Compliance: Ontology-Driven Reasoning for Real-Time Assessment</title>
+      <link>/publication/compandsec2025/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/compandsec2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -120,7 +120,7 @@
   <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="/img/logo.png">
   <meta property="twitter:image" content="/img/logo.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2026-01-10T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2026-06-30T00:00:00&#43;00:00">
   
 
   
@@ -323,7 +323,23 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/students/"><span>Students</span></a>
+          <a class="nav-link " href="/talk/"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>People</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/students/" data-target="students/"><span>Students</span></a>
+            
+              <a class="dropdown-item" href="/alumni/" data-target="alumni/"><span>Alumni</span></a>
+            
+          </div>
         </li>
 
         
@@ -352,80 +368,20 @@
         
 
         
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/service/"><span>Service</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>About</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
             
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#talks" data-target="#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
+              <a class="dropdown-item" href="/funding/" data-target="funding/"><span>Funding</span></a>
             
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#awards" data-target="#awards"><span>Awards</span></a>
+              <a class="dropdown-item" href="/awards/" data-target="awards/"><span>Awards</span></a>
+            
+              <a class="dropdown-item" href="/service/" data-target="service/"><span>Service</span></a>
+            
+              <a class="dropdown-item" href="https://damslabumbc.github.io/#news" data-target="https://damslabumbc.github.io/#news"><span>News</span></a>
+            
+          </div>
         </li>
 
         
@@ -571,6 +527,7 @@
 
 
 
+
   
 
 
@@ -579,6 +536,35 @@
 
 
 
+
+<style>
+ 
+.org-logo { margin: .7rem auto .25rem; text-align: center; }
+.org-logo img {
+  display: block; margin-left: auto; margin-right: auto;
+  max-height: 88px; max-width: 80%; width: auto; height: auto;
+}
+
+ 
+.ul-edu li.edu-with-logo {
+  display: flex; align-items: center; gap: 1rem;
+  list-style: none; margin-left: -2.5em; padding: .15rem 0;
+}
+.ul-edu li.edu-with-logo .edu-logo {
+  flex: 0 0 118px; width: 118px; text-align: center;
+}
+.ul-edu li.edu-with-logo .edu-logo img {
+  display: block; margin-left: auto; margin-right: auto;    
+  max-width: 100%; max-height: 44px; width: auto; height: auto;
+}
+.ul-edu li.edu-with-logo .description { flex: 1 1 auto; min-width: 0; }
+@media (max-width: 420px) {
+  .ul-edu li.edu-with-logo .edu-logo { flex-basis: 78px; width: 78px; }
+}
+
+ 
+.ul-interests li i { width: 1.35em; text-align: center; opacity: .85; }
+</style>
 
 
 <div class="row">
@@ -595,11 +581,20 @@
         <h3>Assistant Professor</h3>
 
         
+        
+        
         <h3>
           <a href="https://www.csee.umbc.edu/" target="_blank" rel="noopener">
           <span>University of Maryland, Baltimore County</span>
           </a>
         </h3>
+        
+        <div class="org-logo">
+          <a href="https://www.csee.umbc.edu/" target="_blank" rel="noopener">
+          <img src="/img/logos/umbc.png" alt="University of Maryland, Baltimore County" loading="lazy">
+          </a>
+        </div>
+        
         
       </div>
 
@@ -737,13 +732,13 @@
         <h3>Interests</h3>
         <ul class="ul-interests">
           
-          <li>Data Management</li>
+          <li><i class="fas fa-database"></i> Data Management</li>
           
-          <li>Knowledge Representation</li>
+          <li><i class="fas fa-network-wired"></i> Knowledge Representation</li>
           
-          <li>Internet of Things</li>
+          <li><i class="fas fa-wifi"></i> Internet of Things</li>
           
-          <li>Privacy</li>
+          <li><i class="fas fa-user-secret"></i> Privacy</li>
           
         </ul>
       </div>
@@ -754,21 +749,25 @@
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
           
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
+          
+          <li class="edu-with-logo">
+            <span class="edu-logo"><img src="/img/logos/uci.png" alt="University of California, Irvine" loading="lazy"></span>
             <div class="description">
               <p class="course">Postdoctoral Researcher, 2021</p>
               <p class="institution">University of California, Irvine</p>
             </div>
           </li>
           
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
+          
+          
+          <li class="edu-with-logo">
+            <span class="edu-logo"><img src="/img/logos/unizar.svg" alt="University of Zaragoza, Spain" loading="lazy"></span>
             <div class="description">
               <p class="course">Ph.D. in Computer Science, 2016</p>
               <p class="institution">University of Zaragoza, Spain</p>
             </div>
           </li>
+          
           
         </ul>
       </div>
@@ -917,6 +916,92 @@
 
 
 
+<div class="project-card project-item isotope-item js-id-Smart-Devices js-id-Internet-of-Things js-id-Smart-Homes js-id-Network-Traffic-Analysis js-id-Privacy js-id-Active">
+  <div class="card">
+    
+    
+    <a href="/project/iotpassivemode/"  class="card-image hover-overlay">
+      <img src="/project/iotpassivemode/featured_hu56b9deb172912b6f3fde9660147422bd_35462_550x0_resize_q90_lanczos_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/iotpassivemode/" >Passive Mode for IoT</a></h4>
+      
+      <div class="article-style">
+        <p>Addressing the current gap in IoT mode definitions by introducing and analyzing passive mode designations for smart devices</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+        
+
+      
+
+        
+        
+        
+
+        
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Active js-id-Generative-AI js-id-Privacy js-id-Benchmark">
+  <div class="card">
+    
+    
+    <a href="/project/genaipabench/"  class="card-image hover-overlay">
+      <img src="/project/genaipabench/featured_hu588d84b60623493e5d2b9a59d52aa807_1875803_550x0_resize_q90_lanczos_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/genaipabench/" >GenAIPABench</a></h4>
+      
+      <div class="article-style">
+        <p>GenAIPABench assesses the effectiveness of GenAIPAs across multiple dimensions including accuracy, relevance, and consistency, using a …</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+        
+
+      
+
+        
+        
+        
+
+        
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
 <div class="project-card project-item isotope-item js-id-Internet-of-Things js-id-Privacy js-id-Artificial-Intelligence js-id-Active">
   <div class="card">
     
@@ -960,7 +1045,7 @@
 
 
 
-<div class="project-card project-item isotope-item js-id-Internet-of-Things js-id-Data-Management js-id-Active">
+<div class="project-card project-item isotope-item js-id-Internet-of-Things js-id-Data-Management">
   <div class="card">
     
     
@@ -1261,7 +1346,7 @@
 
 
 
-<div class="project-card project-item isotope-item js-id-Internet-of-Things js-id-Privacy js-id-Data-Management js-id-Semantic-Web js-id-Active">
+<div class="project-card project-item isotope-item js-id-Internet-of-Things js-id-Privacy js-id-Data-Management js-id-Semantic-Web">
   <div class="card">
     
     
@@ -1393,12 +1478,12 @@
 
 
   
-  <span><a href="/authors/jun-ma/">Jun Ma</a></span>, <span><a href="/authors/aziz-boubaker/">Aziz Boubaker</a></span>, <span><a href="/authors/sabrine-azaiez/">Sabrine Azaiez</a></span>, <span><a href="/authors/admin/">Roberto Yus</a></span>, <span><a href="/authors/georgios-bouloukakis/">Georgios Bouloukakis</a></span>
+  <span><a href="/authors/orobosa-ekhator/">Orobosa Ekhator</a></span>, <span><a href="/authors/dylan-conklin/">Dylan Conklin</a></span>, <span><a href="/authors/primal-pappachan/">Primal Pappachan</a></span>, <span><a href="/authors/admin/">Roberto Yus</a></span>
 
   </span>
-  (2025).
-  <a href="/publication/smartcompdemo-2025/">DEMO: Web-CozyBench - A Web-Based Platform to Benchmark Thermal Comfort Provision using Digital Twins</a>.
-  <em>IEEE International Conference on Smart Computing (SmartComp)</em>.
+  (2026).
+  <a href="/publication/wisec-2026/">Towards Fast Detection of Suspicious Bluetooth Trackers using Anomaly Detection</a>.
+  <em>19th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)</em>.
   
   
   <p>
@@ -1411,45 +1496,31 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2025161629.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/smartcompdemo-2025/cite.bib">
+        data-filename="/publication/wisec-2026/cite.bib">
   Cite
 </button>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/satrai-lab/Web-cozybench" target="_blank" rel="noopener">
-  Code
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3765613.3811690" target="_blank" rel="noopener">
+  DOI
 </a>
-
-
-
-
-  
-    
-  
-
-
-
-
-
-
-
-
 
 
 </p>
@@ -1473,12 +1544,12 @@
 
 
   
-  <span><a href="/authors/jun-ma/">Jun Ma</a></span>, <span><a href="/authors/admin/">Roberto Yus</a></span>, <span><a href="/authors/georgios-bouloukakis/">Georgios Bouloukakis</a></span>
+  <span><a href="/authors/christian-badolato/">Christian Badolato</a></span>, <span><a href="/authors/nathan-samson/">Nathan Samson</a></span>, <span><a href="/authors/houssam-hajj-hassan/">Houssam Hajj Hassan</a></span>, <span><a href="/authors/chih-kai-huang/">Chih-Kai Huang</a></span>, <span><a href="/authors/georgios-bouloukakis/">Georgios Bouloukakis</a></span>, <span><a href="/authors/primal-pappachan/">Primal Pappachan</a></span>, <span><a href="/authors/admin/">Roberto Yus</a></span>
 
   </span>
-  (2025).
-  <a href="/publication/smartcomp-2025/">DigiGuide: A DT-based Occupant Guiding System for Optimizing Comfort and Energy Consumption</a>.
-  <em>IEEE International Conference on Smart Computing (SmartComp)</em>.
+  (2026).
+  <a href="/publication/percom-artifact-2026/">Artifact: PSMark: A Distributed IoT Benchmark for Publish/Subscribe Under Domain-Based Workloads</a>.
+  <em>IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)</em>.
   
   
   <p>
@@ -1491,45 +1562,31 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2025161602.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/smartcomp-2025/cite.bib">
+        data-filename="/publication/percom-artifact-2026/cite.bib">
   Cite
 </button>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/satrai-lab/DigiGuide" target="_blank" rel="noopener">
-  Code
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/PERCOMWORKSHOPS68308.2026.11585354" target="_blank" rel="noopener">
+  DOI
 </a>
-
-
-
-
-  
-    
-  
-
-
-
-
-
-
-
-
 
 
 </p>
@@ -1553,12 +1610,12 @@
 
 
   
-  <span><a href="/authors/dylan-conklin/">Dylan Conklin</a></span>, <span><a href="/authors/primal-pappachan/">Primal Pappachan</a></span>, <span><a href="/authors/admin/">Roberto Yus</a></span>
+  <span><a href="/authors/christian-badolato/">Christian Badolato</a></span>, <span><a href="/authors/nathan-samson/">Nathan Samson</a></span>, <span><a href="/authors/houssam-hajj-hassan/">Houssam Hajj Hassan</a></span>, <span><a href="/authors/chih-kai-huang/">Chih-Kai Huang</a></span>, <span><a href="/authors/georgios-bouloukakis/">Georgios Bouloukakis</a></span>, <span><a href="/authors/primal-pappachan/">Primal Pappachan</a></span>, <span><a href="/authors/admin/">Roberto Yus</a></span>
 
   </span>
-  (2025).
-  <a href="/publication/percom-demo-bluecrab-2025/">BL(u)E CRAB: A User-Centric Framework for Identifying Suspicious Bluetooth Trackers</a>.
-  <em>23rd International Conference on Pervasive Computing and Communications (PerCom)</em>.
+  (2026).
+  <a href="/publication/percom-2026/">PSMark: A Distributed IoT Benchmark for Publish/Subscribe Under Domain-Based Workloads</a>.
+  <em>IEEE International Conference on Pervasive Computing and Communications (PerCom)</em>.
   
   
   <p>
@@ -1571,19 +1628,13 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/demopaper" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/percom-demo-bluecrab-2025/cite.bib">
+        data-filename="/publication/percom-2026/cite.bib">
   Cite
 </button>
 
@@ -1598,6 +1649,10 @@
 
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/PERCOM67906.2026.11524514" target="_blank" rel="noopener">
+  DOI
+</a>
 
 
 </p>
@@ -1654,422 +1709,167 @@
   
   
 
-  <section id="talks" class="home-section wg-pages   "  >
-    <div class="container">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Recent Talks</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-
-    
-
-    
-      
-        
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/talk/lanl-2023/" >Data Privacy 101</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Data Protection can be viewed as the combination of Data Security, which focuses on protecting data from internal/external attackers, …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span>
-          Jun 29, 2023
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Los Alamos National Lab</span>
-        
-      </div>
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/talk/lanl-2023/" >
-      <img src="/talk/lanl-2023/featured_hu0273ec5c654678feaeefc2f001a8d35b_39791_150x0_resize_lanczos_2.png" alt="">
-    </a>
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/talk/dataworks-md-2022/" >(Don’t) Mind the Gap: Bridging the Worlds of People and IoT Devices</a>
-    </h3>
-
-    
-    <div class="article-style">
-      The Internet of Things (IoT) has the potential to improve our lives through different services given the diversity of smart devices and …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span>
-          Jul 21, 2022
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Data Works MD</span>
-        
-      </div>
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tippers/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/semiotic/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/talk/dataworks-md-2022/" >
-      <img src="/talk/dataworks-md-2022/featured_hu53f4828e67db06e2b76755abdcc85143_474114_150x0_resize_lanczos_2.png" alt="">
-    </a>
-    
-  </div>
-</div>
-
-      
-    
-
-    
-    <div class="see-all">
-      <a href="/talk/">
-        See all talks
-        <i class="fas fa-angle-right"></i>
-      </a>
-    </div>
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
   <section id="awards" class="home-section wg-accomplishments   "  >
     <div class="container">
       
 
 
 
+<style>
+.acc-card { display: flex; gap: 1.1rem; align-items: flex-start; }
+.acc-marker { flex: 0 0 78px; width: 78px; padding-top: .15rem; }
+.acc-marker .acc-logo {
+  background: #fff; border-radius: 8px; padding: .4rem;
+  display: flex; align-items: center; justify-content: center;
+  min-height: 56px; box-shadow: 0 1px 3px rgba(0,0,0,.18);
+}
+.acc-marker .acc-logo img { max-width: 100%; max-height: 44px; width: auto; height: auto; display: block; }
+.acc-marker .acc-icon {
+  display: flex; align-items: center; justify-content: center;
+  min-height: 56px; font-size: 2.1rem; color: #d84e4b; opacity: .9;
+}
+.acc-body { flex: 1 1 auto; min-width: 0; }
+@media (max-width: 480px) {
+  .acc-card { gap: .8rem; }
+  .acc-marker { flex-basis: 56px; width: 56px; }
+  .acc-marker .acc-logo { min-height: 42px; }
+  .acc-marker .acc-logo img { max-height: 32px; }
+  .acc-marker .acc-icon { min-height: 42px; font-size: 1.6rem; }
+}
+</style>
+
+
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Awards, Achievements, &amp; Highlights</h1>
-    
+    <h1>Highlights</h1>
+    <p>A few recent highlights. The full lists live on the <a href="/funding/">Funding</a> and <a href="/awards/">Awards</a> pages.</p>
   </div>
   <div class="col-12 col-lg-8">
-    <div class="card experience course">
-    <div class="card-body"><h2 class="card-title exp-title text-muted my-0">Highlights</h2>   
-		<ul style="font-size: 0.9rem;">
-			<li>HuffPost (2022): <a href="https://www.huffpost.com/entry/should-you-click-allow-cookies-website_l_62be36b4e4b014f50a2fdd61?vue" target="_blank" rel="noopener">Should I Click 'Allow Cookies' On Every Website That Asks?</a></li>
-			<li>Publimetro (Mexico) (2022): <a href="https://www.publimetro.com.mx/noticias/2022/05/24/tus-dispositivos-inteligentes-saben-mas-de-ti-de-lo-que-crees/" target="_blank" rel="noopener">Tus dispositivos inteligentes saben más de ti de lo que crees</a></li>
-			<li>Let's Go There w/ Shira & Ryan -- Channel Q (2022): <a href="https://www.audacy.com/podcasts/lets-go-there-with-shira-ryan-22293/thursday-march-17th-aaron-rupar-describes-the-true-terrible-nature-of-tucker-carlson-how-fines-are-piling-up-over-the-big-remaining-mask-mandate-how-your-machines-are-spying-on-you-and-the-scarcity-of-affordable-housing-and-who-gets-squeezed-out-1311142634" target="_blank" rel="noopener">How your machines are spying on you</a></li>
-			<li>The Conversation (2022): <a href="https://theconversation.com/smart-devices-spy-on-you-2-computer-scientists-explain-how-the-internet-of-things-can-violate-your-privacy-174579" target="_blank" rel="noopener">Smart devices spy on you – 2 computer scientists explain how the Internet of Things can violate your privacy</a></li>
-			<li>The Washington Post (2020): <a href="https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/07/10/the-technology-202-tech-to-contain-coronavirus-on-college-campuses-spark-fresh-privacy-concerns/5f077b4a88e0fa7b44f716e8/" target="_blank" rel="noopener">The Technology 202: Tech to contain coronavirus on college campuses sparks fresh privacy concerns</a></li>
-			<li>Defense Visual Information Distribution Service (2020): <a href="https://www.dvidshub.net/news/374318/navwar-trident-warrior-team-assesses-new-tracking-technology-covid-19-mitigation" target="_blank" rel="noopener">NAVWAR Trident Warrior Team Assesses New Tracking Technology for COVID-19 Mitigation</a></li>
-			<li>Health IT Analytics (2020): <a href="https://healthitanalytics.com/news/uci-uses-campus-wi-fi-to-test-covid-19-contact-tracing-app" target="_blank" rel="noopener">UCI Uses Campus Wi-Fi to Test COVID-19 Contact Tracing App</a></li>
-			<li>Military News (2019): <a href="https://www.militarynews.com/news/navy-tests-experimental-technology-at-trident-warrior-2019/article_55623050-dedf-11e9-8e21-4f20e90f315a.html" target="_blank" rel="noopener">Navy tests experimental technology at Trident Warrior 2019</a></li>
-			<li>UCI CS News (2018): <a href="https://www.cs.uci.edu/iot-hackathon-apps-coming-soon/" target="_blank" rel="noopener">IoT Hackathon Apps Coming Soon</a></li>
-			<li>UCI CS News (2017): <a href="https://www.cs.uci.edu/ics-launches-iot-hackathon-to-discover-student-talent-who-can-develop-a-uci-smart-campus" target="_blank" rel="noopener">ICS launches IoT Hackathon to discover student talent who can develop a UCI ‘smart’ campus</a></li>
-			<li>Nature (2015): <a href="https://www.nature.com/news/what-could-derail-the-wearables-revolution-1.18263" target="_blank" rel="noopener">What could derail the wearables revolution?</a></li>
-			<li>Infodocket (2014): <a href="https://www.infodocket.com/2014/03/28/interesting-research-faceblock-app-allows-google-glass-users-to-take-privacy-aware-pictures/" target="_blank" rel="noopener">Interesting Research! FaceBlock App Allows Google Glass Users to Take Privacy-Aware Pictures</a></li>
-		</ul>
-    </div>
-</div>
-
+    
 
     
     
       <div class="card experience course">
-        <div class="card-body"><a href="https://incs-coe.org/international-digital-trust-forum-at-northeastern-university/" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">2nd place INCS-CoE Sandpit Challenge on Digital Trust 2022</h4></a><div class="card-subtitle my-0 article-metadata">INCS-CoE<span class="middot-divider"></span>
+        <div class="card-body">
+          <div class="acc-card">
 
-            May 2022
             
+            <div class="acc-marker">
+              
+              <div class="acc-logo">
+                <img src="/img/logos/nsf.png" alt="National Science Foundation" loading="lazy">
+              </div>
+              
+            </div>
+            
+
+            <div class="acc-body"><a href="/funding/" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">NSF CAREER Award</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2542782" target="_blank" rel="noopener">National Science Foundation</a><span class="middot-divider"></span>
+
+                Jul 2026
+                
+              </div>
+
+              
+                <div class="card-text">Towards a Sensorless Internet of Things through Sensor Data Management Abstraction.</div>
+              
+
+              
+            </div>
+
           </div>
-
-          
-            <div class="card-text">This is an international collaboration between University of Maryland Baltimore County (UMBC), Royal Holloway University of London (RHUL), and Keio University Tokyο (Keio).</div>
-          
-
-          
         </div>
       </div>
     
       <div class="card experience course">
-        <div class="card-body"><a href="https://percom.org/PerCom2022/" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">Mark Weiser Best Paper Award at PerCom 2022</h4></a><div class="card-subtitle my-0 article-metadata">PerCom 2022<span class="middot-divider"></span>
+        <div class="card-body">
+          <div class="acc-card">
 
-            Mar 2022
             
+            <div class="acc-marker">
+              
+              <div class="acc-logo">
+                <img src="/img/logos/cwit.png" alt="Center for Women in Technology (CWIT), UMBC" loading="lazy">
+              </div>
+              
+            </div>
+            
+
+            <div class="acc-body"><a href="/awards/" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">Outstanding Research Partner Award</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://cwit.umbc.edu/" target="_blank" rel="noopener">Center for Women in Technology (CWIT), UMBC</a><span class="middot-divider"></span>
+
+                Jan 2026
+                
+              </div>
+
+              
+
+              
+            </div>
+
           </div>
-
-          
-            <div class="card-text">For our paper SmartSPEC: Customizable Smart Space Datasets via Event-Driven Simulations.</div>
-          
-
-          
         </div>
       </div>
     
       <div class="card experience course">
-        <div class="card-body"><h4 class="card-title exp-title text-muted my-0">Student Travel Award</h4><div class="card-subtitle my-0 article-metadata">ISWC (2015,2014), WI-IAT (2015), CollaborateCom (2014)<span class="middot-divider"></span>
+        <div class="card-body">
+          <div class="acc-card">
 
-            Jan 2014
             
-            – Dec 2015
+            <div class="acc-marker">
+              
+              
+              
+              
+              <div class="acc-icon"><i class="fas fa-award" aria-hidden="true"></i></div>
+              
+            </div>
             
+
+            <div class="acc-body"><a href="/awards/" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">Best Artifact Award</h4></a><div class="card-subtitle my-0 article-metadata">PerCom 2025<span class="middot-divider"></span>
+
+                Mar 2025
+                
+              </div>
+
+              
+                <div class="card-text">For our paper Your Smart Home Exchanged 3M Messages: Defining and Analyzing Smart Device Passive Mode.</div>
+              
+
+              
+            </div>
+
           </div>
-
-          
-
-          
         </div>
       </div>
     
       <div class="card experience course">
-        <div class="card-body"><h4 class="card-title exp-title text-muted my-0">Predoctoral Mobility Grant</h4><div class="card-subtitle my-0 article-metadata">Spanish Ministry of Science and Innovation<span class="middot-divider"></span>
+        <div class="card-body">
+          <div class="acc-card">
 
-            Jun 2013
             
-            – May 2015
+            <div class="acc-marker">
+              
+              
+              
+              
+              <div class="acc-icon"><i class="fas fa-trophy" aria-hidden="true"></i></div>
+              
+            </div>
             
+
+            <div class="acc-body"><a href="/awards/" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">Mark Weiser Best Paper Award</h4></a><div class="card-subtitle my-0 article-metadata">PerCom 2022<span class="middot-divider"></span>
+
+                Mar 2022
+                
+              </div>
+
+              
+                <div class="card-text">For our paper SmartSPEC: Customizable Smart Space Datasets via Event-Driven Simulations.</div>
+              
+
+              
+            </div>
+
           </div>
-
-          
-            <div class="card-text">Received three times in 2013 (6 months), 2014 (4 months), and 2015 (4 months) for a total of $30K. Used to fund research visits at UMBC and UCI.</div>
-          
-
-          
-        </div>
-      </div>
-    
-      <div class="card experience course">
-        <div class="card-body"><h4 class="card-title exp-title text-muted my-0">FPI Fellowship</h4><div class="card-subtitle my-0 article-metadata">Spanish Ministry of Science and Innovation<span class="middot-divider"></span>
-
-            Sep 2011
-            
-            – Sep 2015
-            
-          </div>
-
-          
-
-          
         </div>
       </div>
     
