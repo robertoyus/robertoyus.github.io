@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/courses/cmsc331-fall-2026/</loc>
+    <lastmod>2026-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/cmsc331-spring-2026/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
   </url>
@@ -174,6 +179,16 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2026-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2026-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2026-06-30T00:00:00+00:00</lastmod>
   </url>
@@ -220,11 +235,6 @@
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2026-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -326,11 +336,6 @@
   <url>
     <loc>/tags/semantic-web/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1483,6 +1488,10 @@
   </url>
   
   <url>
+    <loc>/authors/aye-khant-khant-paing/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/brian-scherzo/</loc>
   </url>
   
@@ -1627,7 +1636,15 @@
   </url>
   
   <url>
+    <loc>/authors/matt-nyandjo/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/meenakshi-desu/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/miesha-severinov/</loc>
   </url>
   
   <url>
@@ -1652,6 +1669,10 @@
   
   <url>
     <loc>/authors/owen-yang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/pearce-packman/</loc>
   </url>
   
   <url>
