@@ -5,12 +5,28 @@
     <link>/tags/healthcare/</link>
       <atom:link href="/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
     <description>Healthcare</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.png</url>
       <title>Healthcare</title>
       <link>/tags/healthcare/</link>
     </image>
+    
+    <item>
+      <title>Co-designing Sensorization Plans in the Nursing Home Setting</title>
+      <link>/publication/amia-2024/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/amia-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perspectives on sensorization in the nursing home among administrators, staff, residents and their family members</title>
+      <link>/publication/gsa-2024/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/gsa-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Rafiki: A Semantic and Collaborative Approach to Community Health-care in Underserved Areas</title>

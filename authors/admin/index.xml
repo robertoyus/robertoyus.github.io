@@ -53,6 +53,14 @@
     </item>
     
     <item>
+      <title>A customizable benchmarking tool for evaluating personalized thermal comfort provisioning in smart spaces using Digital Twins</title>
+      <link>/publication/pmc-2025/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/pmc-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DEMO: Web-CozyBench - A Web-Based Platform to Benchmark Thermal Comfort Provision using Digital Twins</title>
       <link>/publication/smartcompdemo-2025/</link>
       <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
@@ -65,6 +73,14 @@
       <link>/publication/smartcomp-2025/</link>
       <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
       <guid>/publication/smartcomp-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Inhabited Smart Spaces to Support Interoperable IoT-Based Applications</title>
+      <link>/publication/mdm-2025/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/mdm-2025/</guid>
       <description></description>
     </item>
     
@@ -103,10 +119,42 @@
     </item>
     
     <item>
+      <title>Co-designing Sensorization Plans in the Nursing Home Setting</title>
+      <link>/publication/amia-2024/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/amia-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perspectives on sensorization in the nursing home among administrators, staff, residents and their family members</title>
+      <link>/publication/gsa-2024/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/gsa-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PrivacySphere: Privacy-Preserving Smart Spaces</title>
+      <link>/publication/tps-isa-2024/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/tps-isa-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants</title>
       <link>/publication/popets-2024/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
       <guid>/publication/popets-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Scheduling of Smart Building Energy Systems Using AI Planning</title>
+      <link>/publication/ict4s-2024/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/ict4s-2024/</guid>
       <description></description>
     </item>
     

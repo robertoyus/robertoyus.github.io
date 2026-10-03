@@ -400,7 +400,32 @@
   
   <url>
     <loc>/authors/jun-ma/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pmc-2025/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/digital-twin/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dimitrije-panic/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hvac/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/thermal-comfort/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -419,17 +444,7 @@
   </url>
   
   <url>
-    <loc>/tags/digital-twin/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/energy-efficiency/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hvac/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -449,8 +464,33 @@
   </url>
   
   <url>
-    <loc>/tags/thermal-comfort/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <loc>/authors/nada-lahjouji/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-management/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mdm-2025/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nalini-venkatasubramanian/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/semantic-interoperability/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sharad-mehrotra/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -549,6 +589,81 @@
   </url>
   
   <url>
+    <loc>/authors/luke-zimmermann/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tera-reynolds/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/amia-2024/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/healthcare/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kelly-doran/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lewis-davis-ii/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gsa-2024/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sarah-holmes/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yoon-chung-kim/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zainab-balogun/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/faisal-nawab/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/habiba-farrukh/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julie-rousseau/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/tps-isa-2024/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shantanu-sharma/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/aamir-hamid/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
   </url>
@@ -569,12 +684,22 @@
   </url>
   
   <url>
-    <loc>/publication/percom-2024/</loc>
+    <loc>/authors/ajay-kattepur/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ict4s-2024/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/co-zybench/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/dimitrije-panic/</loc>
+    <loc>/publication/percom-2024/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -604,16 +729,6 @@
   </url>
   
   <url>
-    <loc>/authors/ajay-kattepur/</loc>
-    <lastmod>2023-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/data-management/</loc>
-    <lastmod>2023-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/midd4dt-2023/</loc>
     <lastmod>2023-12-11T00:00:00+00:00</lastmod>
   </url>
@@ -635,16 +750,6 @@
   
   <url>
     <loc>/authors/peeyush-gupta/</loc>
-    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nalini-venkatasubramanian/</loc>
-    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sharad-mehrotra/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -764,11 +869,6 @@
   </url>
   
   <url>
-    <loc>/authors/shantanu-sharma/</loc>
-    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/dataworks-md-2022/</loc>
     <lastmod>2022-07-21T18:00:00+00:00</lastmod>
   </url>
@@ -780,11 +880,6 @@
   
   <url>
     <loc>/tags/open-apis/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/semantic-interoperability/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -1334,11 +1429,6 @@
   </url>
   
   <url>
-    <loc>/tags/healthcare/</loc>
-    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/iswc-2014/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -1644,10 +1734,6 @@
   </url>
   
   <url>
-    <loc>/authors/luke-zimmermann/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/marzia-tahsin/</loc>
   </url>
   
@@ -1673,10 +1759,6 @@
   
   <url>
     <loc>/authors/myounghoon-han/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/nada-lahjouji/</loc>
   </url>
   
   <url>
@@ -1757,10 +1839,6 @@
   
   <url>
     <loc>/authors/temi-owojuyigbe/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/tera-reynolds/</loc>
   </url>
   
   <url>
